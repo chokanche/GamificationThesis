@@ -2,6 +2,7 @@
 \usepackage{etex}
 %\usepackage{arabtex}
 %\usepackage{utf8}
+\usepackage{array}
 
 \usepackage{subcaption}
 \usepackage{amsmath}
@@ -15,11 +16,18 @@
 
 \usepackage{standalone}
 \usepackage{tabularx}
+\usepackage{booktabs}
+% \usepackage{graphicx}
+\usepackage[normalem]{ulem}
+\useunder{\uline}{\ul}{}
+%\usepackage{tabularx}
+\usepackage{graphicx}
+\graphicspath{ {figures/} }
 
 \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
 
 \newcolumntype{Y}{>{\centering\arraybackslash}X}
-
+\newcolumntype{L}{>{\centering\arraybackslash}m{3cm}}
 \setlength{\parindent}{0.7cm}
 
 \makeatletter
