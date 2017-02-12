@@ -1,0 +1,70 @@
+Examples of these are Nike+, which 
+helps get users active and to change their unhealthy behaviors to 
+healthy habits by tracking all 
+activity, and letting the user know how much energy has been used. All exercise is turned into 
+NikeFuel points, which can be posted on social media sites and used to compete with other users 
+(Burke 39
+-
+41). Khan Academy is a n
+on
+-
+profit educational organization that helps users learn and 
+master math, science, and other school subject skills using gamification to motivate their 
+students to view more lessons and explore and develop more skills. With every section mastered, 
+users a
+re awarded with new sections opening up that they could not access before (Burke 59
+-
+60). ##
+
+The  f
+ollowing  sections  will  describe
+the 
+fundamentals
+behind  the  concept  of
+G
+amification. 
+Furthermore, 
+G
+amification as the intersection of psychology and technology will be explained. 
+Most  successful 
+Gamification  programs  rely  to  some  extend  on  behavioral  psych
+ology. 
+Therefore, it is
+necessary to understand the motivational triggers 
+that 
+engage individuals. On 
+the other hand, a
+thorough
+review of what constitute the fundamental parts of 
+G
+amification 
+is 
+also included. There are three main purpo
+ses of this section. The first 
+part is to provide a good 
+overview of the subject itself and to introduce te
+rms that will be used later in 
+the discussion. 
+The  second  purpose  is  to  present  theories  that  show  the 
+engaging  and  motivating  effect 
+of 
+games
+,  while
+the  third  is  to  establish  the  frame  that  constitutes  a  game  that  was  used  when 
+designing the 
+G
+amification system.
+Chapter 4
+will be built upon this foundation
+, attempting 
+to 
+extend it by
+presenting some ground rules based 
+upon the 
+empirical finding
+s
+and i
+ncorporating 
+the perspectives and concerns of change managers and 
+Gamification
+expert
