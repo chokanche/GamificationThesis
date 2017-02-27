@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.18)  11 FEB 2017 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.18)  26 FEB 2017 11:08
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1340,7 +1340,7 @@ Package microtype Info: Loading generic settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=42, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=50, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 
 <use ./Template_Figures/saarland_logo.png>
@@ -1397,18 +1397,31 @@ Chapter 1.
 ------------------------------------------------------------------------------
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 19.
+(hyperref)                than one, level fixed on input line 5.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+[1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [2]
 
-]) (Thesis.bbl
-[2]) [3
+LaTeX Warning: Citation `integration' on page 3 undefined on input line 42.
+
+<figures/taxm.png, id=158, 974.89218pt x 464.4853pt>
+File: figures/taxm.png Graphic file (type png)
+ <use figures/taxm.png>
+Package pdftex.def Info: figures/taxm.png used on input line 46.
+(pdftex.def)             Requested size: 453.60808pt x 216.11809pt.
+
+[3] [4] [5 <./figures/taxm.png>]) (Thesis.bbl [6]) [7
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
@@ -1417,7 +1430,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 628CC55A80F12060E47F9A98515953F0;1064.
+(rerunfilecheck)             Checksum: 2837FA447F37BE4F78455B19FA0BAA7A;1533.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  )
 (\end occurred inside a group at level 2)
@@ -1426,25 +1443,27 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
 ### simple group (level 1) entered at line 1061 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 36931 strings out of 493333
- 695243 string characters out of 3139184
- 746178 words of memory out of 3000000
- 39832 multiletter control sequences out of 15000+200000
- 15772 words of font info for 81 fonts, out of 3000000 for 9000
+ 37084 strings out of 493333
+ 697203 string characters out of 3139184
+ 764541 words of memory out of 3000000
+ 39898 multiletter control sequences out of 15000+200000
+ 21718 words of font info for 131 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,56p,10359b,7321s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,80p,10359b,7321s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (15 pages, 182230 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on Thesis.pdf (19 pages, 282308 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 21082 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 241 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 30831 words of extra memory for PDF output out of 35830 (max. 10000000)
 
