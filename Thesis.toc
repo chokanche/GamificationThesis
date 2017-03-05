@@ -5,9 +5,21 @@
 \contentsline {chapter}{Contents}{vii}{chapter*.8}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.9}
 \contentsline {chapter}{List of Tables}{xi}{chapter*.10}
-\contentsline {chapter}{\numberline {1}Behaviorism}{1}{chapter.11}
-\contentsline {subsection}{\numberline {1.0.1}The Rules of Motivation}{1}{subsection.12}
-\contentsline {section}{\numberline {1.1}Self Determination Theory}{2}{section.13}
-\contentsline {subsection}{\numberline {1.1.1}Motivation and Sports}{6}{subsection.15}
-\contentsline {section}{\numberline {1.2}State of Flow}{6}{section.16}
-\contentsline {chapter}{Bibliography}{7}{chapter*.17}
+\contentsline {chapter}{\numberline {1}Literature review}{1}{chapter.11}
+\contentsline {section}{\numberline {1.1}Warm up in sports}{1}{section.12}
+\contentsline {subsection}{\numberline {1.1.1}Introduction}{1}{subsection.13}
+\contentsline {subsection}{\numberline {1.1.2}WU benefits}{2}{subsection.14}
+\contentsline {subsection}{\numberline {1.1.3}WU types}{2}{subsection.15}
+\contentsline {section}{\numberline {1.2}Gamification}{4}{section.16}
+\contentsline {subsection}{\numberline {1.2.1}Introduction}{4}{subsection.17}
+\contentsline {section}{\numberline {1.3}Theories of Motivation}{5}{section.20}
+\contentsline {subsection}{\numberline {1.3.1}The Rules of Motivation}{6}{subsection.21}
+\contentsline {subsection}{\numberline {1.3.2}Self Determination Theory}{6}{subsection.22}
+\contentsline {subsection}{\numberline {1.3.3}State of Flow}{11}{subsection.25}
+\contentsline {subsection}{\numberline {1.3.4}Motivation and Sports}{14}{subsection.28}
+\contentsline {subsection}{\numberline {1.3.5}Motivational Theories and Gamification}{14}{subsection.29}
+\contentsline {subsection}{\numberline {1.3.6}Defining Gamification}{14}{subsection.30}
+\contentsline {subsection}{\numberline {1.3.7}Classification of Game elements}{16}{subsection.32}
+\contentsline {subsubsection}{\numberline {1.3.7.1}Game elements in gamified systems}{17}{subsubsection.34}
+\contentsline {subsection}{\numberline {1.3.8}Gamification of Health and Fitness}{17}{subsection.35}
+\contentsline {chapter}{Bibliography}{19}{chapter*.36}

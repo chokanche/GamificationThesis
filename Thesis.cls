@@ -214,7 +214,7 @@
 ~\hfill~
 \begin{minipage}{0.2\textwidth}
 \centering
-%\includegraphics[scale=0.15]{./Template_Figures/logo_dfki}
+\includegraphics[scale=1.0]{./Template_Figures/logo_dfki}
 \end{minipage}
 \end{table}
       

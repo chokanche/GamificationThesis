@@ -1,4 +1,52 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{codeacademy}
+Codeacademy- gamafication.
+\newblock
+  \url{http://www.enterprise-gamification.com/mediawiki/index.php?title=Codecademy}.
+\newblock Accessed: 2017-01-20.
+
+\bibitem{badgeville}
+Codeacademy- gamafication.
+\newblock \url{https://badgeville.com/}.
+\newblock Accessed: 2017-01-20.
+
+\bibitem{deloitte}
+Deloitte leadership academy.
+\newblock \url{https://badgeville.com/wiki/case_studies#Deloitte}.
+\newblock Accessed: 2017-01-27.
+
+\bibitem{gamDesElem}
+{Game design elements} definition.
+\newblock \url{https://en.wikipedia.org/wiki/Game_design#Design_elements}.
+\newblock Accessed: 2017-01-20.
+
+\bibitem{gamificationWiki}
+Gamification - applications.
+\newblock \url{https://en.wikipedia.org/wiki/Gamification#Applications}.
+\newblock Accessed: 2017-01-20.
+
+\bibitem{lithiumGamification}
+Gamification 101, the psychology of motivation.
+\newblock
+  \url{https://community.lithium.com/t5/Science-of-Social-blog/Gamification-101-The-Psychology-of-Motivation/ba-p/21864}.
+\newblock Accessed: 2017-02-27.
+
+\bibitem{gamificationExamples}
+Gamification examples.
+\newblock \url{https://badgeville.com/wiki/Gamification_Examples}.
+\newblock Accessed: 2017-01-25.
+
+\bibitem{enterpriseGamify}
+Gamification examples.
+\newblock
+  \url{http://www.enterprise-gamification.com/mediawiki/index.php?title=Gamification_Examples}.
+\newblock Accessed: 2017-01-27.
+
+\bibitem{toGamify}
+Gamify.
+\newblock \url{https://badgeville.com/wiki/Gamify}.
+\newblock Accessed: 2017-01-20.
 
 \bibitem{zichermann2012}
 Intrinsic and extrinsic motivation in gamification.
@@ -6,12 +54,58 @@ Intrinsic and extrinsic motivation in gamification.
   \url{http://www.gamification.co/2011/10/27/intrinsic-and-extrinsic-motivation-in-gamification/}.
 \newblock Accessed: 2017-02-12.
 
+\bibitem{toyota}
+Marketing gamification: Toyota turns charging your iphone into an epic game.
+\newblock
+  \url{http://yukaichou.com/marketing-gamification/marketing-gamification-toyota-turns-charging-iphone-epic-game/}.
+\newblock Accessed: 2017-01-27.
+
+\bibitem{coke}
+My coke rewards.
+\newblock \url{https://www.mycokerewards.com/content/home.html}.
+\newblock Accessed: 2017-01-27.
+
+\bibitem{starbucks}
+My starbucks rewards.
+\newblock \url{https://badgeville.com/wiki/mystarbucksrewards}.
+\newblock Accessed: 2017-01-27.
+
+\bibitem{nikePlus}
+Nike +.
+\newblock \url{https://badgeville.com/wiki/Nike}.
+\newblock Accessed: 2017-01-27.
+
+\bibitem{bishop2003warm1}
+David Bishop.
+\newblock Warm up i.
+\newblock {\em Sports medicine}, 33(6):439--454, 2003.
+
+\bibitem{bishop2003warm2}
+David Bishop.
+\newblock Warm up ii.
+\newblock {\em Sports Medicine}, 33(7):483--498, 2003.
+
 \bibitem{broeck2010capturing}
 Anja Broeck, Maarten Vansteenkiste, Hans Witte, Bart Soenens, and Willy Lens.
 \newblock Capturing autonomy, competence, and relatedness at work: Construction
   and initial validation of the work-related basic need satisfaction scale.
 \newblock {\em Journal of Occupational and Organizational Psychology},
   83(4):981--1002, 2010.
+
+\bibitem{csikszentmihalyi1996flow}
+Mihaly Csikszentmihalyi.
+\newblock Flow and the psychology of discovery and invention.
+\newblock {\em New Yprk: Harper Collins}, 1996.
+
+\bibitem{csikszentmihalyi1997finding}
+Mihaly Csikszentmihalyi.
+\newblock Finding flow, 1997.
+
+\bibitem{csikszentmihalyi2014flow}
+Mihaly Csikszentmihalyi, Sami Abuhamdeh, and Jeanne Nakamura.
+\newblock Flow.
+\newblock In {\em Flow and the foundations of positive psychology}, pages
+  227--238. Springer, 2014.
 
 \bibitem{deci1994promoting}
 Edward~L Deci and Richard~M Ryan.
@@ -24,6 +118,87 @@ Edward~L Deci and Richard~M Ryan.
 \newblock The" what" and" why" of goal pursuits: Human needs and the
   self-determination of behavior.
 \newblock {\em Psychological inquiry}, 11(4):227--268, 2000.
+
+\bibitem{deterding2011game}
+Sebastian Deterding, Dan Dixon, Rilla Khaled, and Lennart Nacke.
+\newblock From game design elements to gamefulness: defining gamification.
+\newblock In {\em Proceedings of the 15th international academic MindTrek
+  conference: Envisioning future media environments}, pages 9--15. ACM, 2011.
+
+\bibitem{fields2007should}
+Karl~B Fields, Craig~M Burnworth, and Martha Delaney.
+\newblock Should athletes stretch before exercise?
+\newblock {\em Chinese Journal of Sports Medicine}, 26(5):626, 2007.
+
+\bibitem{flow1990psychology}
+Csikszentmihalyi Flow.
+\newblock The psychology of optimal experience.
+\newblock {\em Harper\&Row, New York}, 1990.
+
+\bibitem{fradkin2010effects}
+Andrea~J Fradkin, Tsharni~R Zazryn, and James~M Smoliga.
+\newblock Effects of warming-up on physical performance: a systematic review
+  with meta-analysis.
+\newblock {\em The Journal of Strength \& Conditioning Research},
+  24(1):140--148, 2010.
+
+\bibitem{hamari2014does}
+Juho Hamari, Jonna Koivisto, and Harri Sarsa.
+\newblock Does gamification work?--a literature review of empirical studies on
+  gamification.
+\newblock In {\em System Sciences (HICSS), 2014 47th Hawaii International
+  Conference on}, pages 3025--3034. IEEE, 2014.
+
+\bibitem{hedrick1992exercise}
+Allen Hedrick.
+\newblock Exercise physiology: Physiological responses to warm-up.
+\newblock {\em Strength \& Conditioning Journal}, 14(5):25--27, 1992.
+
+\bibitem{hunicke2004mda}
+Robin Hunicke, Marc LeBlanc, and Robert Zubek.
+\newblock Mda: A formal approach to game design and game research.
+\newblock In {\em Proceedings of the AAAI Workshop on Challenges in Game AI},
+  volume~4, 2004.
+
+\bibitem{juul2011half}
+Jesper Juul.
+\newblock {\em Half-real: Video games between real rules and fictional worlds}.
+\newblock MIT press, 2011.
+
+\bibitem{karvonen1992importance}
+Juha Karvonen.
+\newblock Importance of warm-up and cool down on exercise performance.
+\newblock In {\em Medicine in Sports Training and Coaching}, pages 189--214.
+  Karger Publishers, 1992.
+
+\bibitem{kiili2006evaluations}
+Kristian Kiili.
+\newblock Evaluations of an experiential gaming model.
+\newblock {\em Human Technology: An Interdisciplinary Journal on Humans in ICT
+  Environments}, 2006.
+
+\bibitem{knudson2008warm}
+DUANE~V Knudson.
+\newblock Warm-up and flexibility.
+\newblock {\em Chandler TJ, Brown LE. Conditioning for Strength and Human
+  Performance. Philadelphia, PA: Lippincott-Williams \& Wilkins}, 2008.
+
+\bibitem{ladwig2013psychological}
+Matthew~A Ladwig.
+\newblock The psychological effects of a pre-workout warm-up: An exploratory
+  study.
+\newblock {\em Journal of Multidisciplinary Research}, 5(3):79, 2013.
+
+\bibitem{marczewski2013gamification}
+Andrzej Marczewski.
+\newblock {\em Gamification: a simple introduction}.
+\newblock Andrzej Marczewski, 2013.
+
+\bibitem{nakamura2014concept}
+Jeanne Nakamura and Mihaly Csikszentmihalyi.
+\newblock The concept of flow.
+\newblock In {\em Flow and the foundations of positive psychology}, pages
+  239--263. Springer, 2014.
 
 \bibitem{pardee1990motivation}
 Ronald~L Pardee.
@@ -44,9 +219,41 @@ Richard~M Ryan and Edward~L Deci.
   motivation, social development, and well-being.
 \newblock {\em American psychologist}, 55(1):68, 2000.
 
+\bibitem{safran1989warm}
+Marc~R Safran, Mr~Anthony~V Seaber, and William~E Garrett~Jr.
+\newblock Warm-up and muscular injury prevention an update.
+\newblock {\em Sports Medicine}, 8(4):239--249, 1989.
+
+\bibitem{salen2004rules}
+Katie Salen and Eric Zimmerman.
+\newblock {\em Rules of play: Game design fundamentals}.
+\newblock MIT press, 2004.
+
+\bibitem{shellock1985warming}
+Frank~G Shellock and William~E Prentice.
+\newblock Warming-up and stretching for improved physical performance and
+  prevention of sports-related injuries.
+\newblock {\em Sports Medicine}, 2(4):267--278, 1985.
+
 \bibitem{vallerand2007intrinsic}
 Robert~J Vallerand.
 \newblock Intrinsic and extrinsic motivation in sport and physical activity.
 \newblock {\em Handbook of sport psychology}, 3:59--83, 2007.
+
+\bibitem{werbach2012win}
+Kevin Werbach and Dan Hunter.
+\newblock {\em For the win: How game thinking can revolutionize your business}.
+\newblock Wharton Digital Press, 2012.
+
+\bibitem{woods2007warm}
+Krista Woods, Phillip Bishop, and Eric Jones.
+\newblock Warm-up and stretching in the prevention of muscular injury.
+\newblock {\em Sports Medicine}, 37(12):1089--1099, 2007.
+
+\bibitem{zichermann2011gamification}
+Gabe Zichermann and Christopher Cunningham.
+\newblock {\em Gamification by design: Implementing game mechanics in web and
+  mobile apps}.
+\newblock " O'Reilly Media, Inc.", 2011.
 
 \end{thebibliography}
