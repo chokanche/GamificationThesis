@@ -4,44 +4,13 @@
 
 \contentsline {chapter}{Contents}{vii}{chapter*.4}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.5}
-\contentsline {chapter}{List of Tables}{xiii}{chapter*.6}
-\contentsline {chapter}{\numberline {1}Literature review}{1}{chapter.7}
-\contentsline {section}{\numberline {1.1}Warm Up in Sports}{2}{section.9}
-\contentsline {subsection}{\numberline {1.1.1}The Importance of Physical Activity}{2}{subsection.10}
-\contentsline {subsection}{\numberline {1.1.2}Overview of Sports Injury}{2}{subsection.11}
-\contentsline {subsection}{\numberline {1.1.3}Defining Warm Up}{3}{subsection.13}
-\contentsline {subsection}{\numberline {1.1.4}The Benefits of Warm Up}{4}{subsection.14}
-\contentsline {subsection}{\numberline {1.1.5}The Types of Warm Up}{5}{subsection.15}
-\contentsline {section}{\numberline {1.2}Gamification and Exergames}{7}{section.16}
-\contentsline {subsection}{\numberline {1.2.1}Introduction}{7}{subsection.17}
-\contentsline {paragraph}{A Primer in Gamification}{7}{section*.18}
-\contentsline {paragraph}{A Primer in Exergames}{8}{figure.caption.20}
-\contentsline {section}{\numberline {1.3}Gamification vs Exergames}{9}{section.22}
-\contentsline {section}{\numberline {1.4}Theories of Motivation}{10}{section.23}
-\contentsline {subsection}{\numberline {1.4.1}The Rules of Motivation}{10}{subsection.24}
-\contentsline {subsection}{\numberline {1.4.2}Self Determination Theory}{11}{subsection.25}
-\contentsline {subsubsection}{\numberline {1.4.2.1}Gamification and SDT}{15}{subsubsection.28}
-\contentsline {subsection}{\numberline {1.4.3}State of Flow}{15}{subsection.29}
-\contentsline {subsubsection}{\numberline {1.4.3.1}Flow in Gamification}{18}{subsubsection.32}
-\contentsline {subsection}{\numberline {1.4.4}Motivation and Sports}{19}{subsection.34}
-\contentsline {subsection}{\numberline {1.4.5}Defining Gamification}{20}{subsection.35}
-\contentsline {subsection}{\numberline {1.4.6}Defining Exergames}{22}{subsection.37}
-\contentsline {subsection}{\numberline {1.4.7}Player Types}{23}{subsection.38}
-\contentsline {paragraph}{Bartle's Four Player Types}{23}{section*.39}
-\contentsline {paragraph}{Marczewski's User Types Hexed}{24}{figure.caption.40}
-\contentsline {subsection}{\numberline {1.4.8}Gamificaton elements}{26}{subsection.42}
-\contentsline {subsubsection}{\numberline {1.4.8.1}Dynamics}{28}{subsubsection.45}
-\contentsline {subsubsection}{\numberline {1.4.8.2}Mechanics}{29}{subsubsection.46}
-\contentsline {subsubsection}{\numberline {1.4.8.3}Components}{29}{subsubsection.47}
-\contentsline {subsubsection}{\numberline {1.4.8.4}Elements and Player Types}{33}{subsubsection.56}
-\contentsline {subsubsection}{\numberline {1.4.8.5}Gamification Design}{33}{subsubsection.57}
-\contentsline {subsection}{\numberline {1.4.9}Gamification of Health and Fitness}{33}{subsection.58}
-\contentsline {chapter}{\numberline {2}Survey Evaluation}{35}{chapter.59}
-\contentsline {section}{\numberline {2.1}Quantitative Methods}{36}{section.62}
-\contentsline {subsection}{\numberline {2.1.1}General questions}{36}{subsection.63}
-\contentsline {subsection}{\numberline {2.1.2}Work out and warm up related questions}{37}{subsection.66}
-\contentsline {subsection}{\numberline {2.1.3}Warm up related question}{39}{subsection.69}
-\contentsline {subsection}{\numberline {2.1.4}Reasons for not warming up}{46}{subsection.76}
-\contentsline {subsection}{\numberline {2.1.5}Question related to the Immotion warm up game}{50}{subsection.80}
-\contentsline {subsection}{\numberline {2.1.6}Survey summary and preliminary design implications}{68}{subsection.94}
-\contentsline {chapter}{Bibliography}{75}{chapter*.110}
+\contentsline {chapter}{List of Tables}{xi}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Survey Evaluation}{1}{chapter.7}
+\contentsline {section}{\numberline {1.1}Quantitative Methods}{2}{section.10}
+\contentsline {subsection}{\numberline {1.1.1}General Questions}{2}{subsection.11}
+\contentsline {subsection}{\numberline {1.1.2}Questions Related to Work Out and Warm Up Preferences}{3}{subsection.14}
+\contentsline {subsection}{\numberline {1.1.3}Questions Related to Warm Up Routines}{5}{subsection.17}
+\contentsline {subsection}{\numberline {1.1.4}Reasons for Not Warming Up}{12}{subsection.24}
+\contentsline {subsection}{\numberline {1.1.5}Questions Related to the Immotion Exergame}{16}{subsection.28}
+\contentsline {subsection}{\numberline {1.1.6}Survey Summary and Preliminary Design Implications}{35}{subsection.42}
+\contentsline {chapter}{Bibliography}{41}{chapter*.58}
