@@ -8,22 +8,23 @@
 \contentsline {chapter}{\numberline {1}Study Design}{1}{chapter.7}
 \contentsline {section}{\numberline {1.1}Description of the Experiment}{1}{section.8}
 \contentsline {subsection}{\numberline {1.1.1}Introduction and Goals}{1}{subsection.9}
-\contentsline {subsection}{\numberline {1.1.2}Methods}{1}{subsection.10}
-\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{1}{subsubsection.11}
-\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{2}{subsubsection.12}
-\contentsline {subsubsection}{\numberline {1.1.2.3}Tasks}{2}{subsubsection.13}
-\contentsline {subsubsection}{\numberline {1.1.2.4}Design}{2}{subsubsection.14}
-\contentsline {subsubsection}{\numberline {1.1.2.5}Procedure}{2}{subsubsection.15}
-\contentsline {subsubsection}{\numberline {1.1.2.6}Apparatus}{3}{subsubsection.16}
-\contentsline {subsubsection}{\numberline {1.1.2.7}Independent and Dependent Variables}{3}{subsubsection.17}
-\contentsline {subsubsection}{\numberline {1.1.2.8}Hypotheses}{4}{subsubsection.18}
-\contentsline {subsection}{\numberline {1.1.3}Problems/Limitations}{4}{subsection.19}
-\contentsline {section}{\numberline {1.2}Results}{4}{section.20}
-\contentsline {section}{\numberline {1.3}Discussion}{4}{section.21}
-\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{4}{subsection.22}
-\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{4}{subsection.23}
-\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{5}{subsection.24}
-\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{5}{subsection.25}
-\contentsline {subsection}{\numberline {1.3.5}Research agenda}{5}{subsection.26}
-\contentsline {section}{\numberline {1.4}Conclusions}{5}{section.27}
-\contentsline {chapter}{Bibliography}{7}{chapter*.28}
+\contentsline {subsubsection}{\numberline {1.1.1.1}Assumptions}{1}{subsubsection.10}
+\contentsline {subsection}{\numberline {1.1.2}Methods}{2}{subsection.11}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{2}{subsubsection.12}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{2}{subsubsection.13}
+\contentsline {subsubsection}{\numberline {1.1.2.3}Tasks}{3}{subsubsection.16}
+\contentsline {subsubsection}{\numberline {1.1.2.4}Design}{3}{subsubsection.17}
+\contentsline {subsubsection}{\numberline {1.1.2.5}Procedure}{3}{subsubsection.18}
+\contentsline {subsubsection}{\numberline {1.1.2.6}Apparatus}{5}{subsubsection.19}
+\contentsline {subsubsection}{\numberline {1.1.2.7}Independent and Dependent Variables}{5}{subsubsection.20}
+\contentsline {subsubsection}{\numberline {1.1.2.8}Hypotheses}{5}{subsubsection.21}
+\contentsline {subsection}{\numberline {1.1.3}Problems/Limitations}{5}{subsection.22}
+\contentsline {section}{\numberline {1.2}Results}{5}{section.23}
+\contentsline {section}{\numberline {1.3}Discussion}{6}{section.24}
+\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{6}{subsection.25}
+\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{6}{subsection.26}
+\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{6}{subsection.27}
+\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{6}{subsection.28}
+\contentsline {subsection}{\numberline {1.3.5}Research agenda}{6}{subsection.29}
+\contentsline {section}{\numberline {1.4}Conclusions}{7}{section.30}
+\contentsline {chapter}{Bibliography}{9}{chapter*.31}
