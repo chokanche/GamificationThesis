@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  19 NOV 2017 21:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  24 NOV 2017 15:35
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1382,7 +1382,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=90, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=122, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 
 <use ./Template_Figures/saarland_logo.png>
@@ -1390,7 +1390,7 @@ Package pdftex.def Info: ./Template_Figures/saarland_logo.png used on input lin
 e 80.
 (pdftex.def)             Requested size: 62.7342pt x 61.73045pt.
 
-<./Template_Figures/logo_dfki.png, id=91, 123.0999pt x 45.5301pt>
+<./Template_Figures/logo_dfki.png, id=123, 123.0999pt x 45.5301pt>
 File: ./Template_Figures/logo_dfki.png Graphic file (type png)
 
 <use ./Template_Figures/logo_dfki.png>
@@ -1424,17 +1424,17 @@ nd_logo.png> <./Template_Figures/logo_dfki.png>] [2
 ] [6
 
 
-] (Thesis.toc)
+] (Thesis.toc [7])
 \tf@toc=\write5
 \openout5 = `Thesis.toc'.
 
- [7] [8
-
-] (Thesis.lof)
+ [8] (Thesis.lof)
 \tf@lof=\write6
 \openout6 = `Thesis.lof'.
 
- [9] [10
+ [9
+
+] [10
 
 ] (Thesis.lot)
 \tf@lot=\write7
@@ -1444,80 +1444,36 @@ nd_logo.png> <./Template_Figures/logo_dfki.png>] [2
 
 
 ]
-(chapters/implementation.tex
+(chapters/studydesign.tex
 Chapter 1.
 ------------------------------------------------------------------------------
- 1 The Design and Development of the Immotion Exergame
+ 1 Study Design
 ------------------------------------------------------------------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
-
-<figures/iterations.png, id=188, 469.15276pt x 442.65375pt>
-File: figures/iterations.png Graphic file (type png)
-
-<use figures/iterations.png>
-Package pdftex.def Info: figures/iterations.png used on input line 29.
-(pdftex.def)             Requested size: 453.60808pt x 428.00923pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2] [3 <./figures/iterations.png>]
-<figures/hardware_software.png, id=201, 595.023pt x 173.448pt>
-File: figures/hardware_software.png Graphic file (type png)
-
-<use figures/hardware_software.png>
-Package pdftex.def Info: figures/hardware_software.png used on input line 62.
-(pdftex.def)             Requested size: 453.60808pt x 132.22942pt.
- [4]
-
-LaTeX Warning: Reference `chapter:relatedwork' on page 5 undefined on input lin
-e 73.
-
-[5 <./figures/hardware_software.png>]
-<figures/points.png, id=211, 466.1415pt x 192.11775pt>
-File: figures/points.png Graphic file (type png)
-
-<use figures/points.png>
-Package pdftex.def Info: figures/points.png used on input line 78.
-(pdftex.def)             Requested size: 453.60808pt x 186.95787pt.
-
-<figures/proto0.png, id=214, 587.19376pt x 331.2375pt>
-File: figures/proto0.png Graphic file (type png)
-
-<use figures/proto0.png>
-Package pdftex.def Info: figures/proto0.png used on input line 90.
-(pdftex.def)             Requested size: 453.60808pt x 255.88255pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/prototype.png, id=215, 819.66225pt x 316.7835pt>
-File: figures/prototype.png Graphic file (type png)
-
-<use figures/prototype.png>
-Package pdftex.def Info: figures/prototype.png used on input line 96.
-(pdftex.def)             Requested size: 453.60808pt x 175.30937pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (Thesis.bbl [6 <./figures/points.png>] [7 <./figures/proto0.png> <./figures/p
-rototype.png>] [8
-
-]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
+ [2] [3] [4]
+[5] [6]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [7]) (Thesis.bbl [8]
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
 []\OT1/cmr/m/n/10 (+20) 50 gam-i-fi-ca-tion me-chan-ics and el-e-ments.  [][]$\
 OT1/cmtt/m/n/10 https : / / www . gamified . uk / user-[]types /
@@ -1571,7 +1527,9 @@ Underfull \hbox (badness 1014) in paragraph at lines 71--75
 / / www . enterprise-[]gamification . com / mediawiki / index . php ?
  []
 
-[9]
+[9
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 93--97
 []\OT1/cmr/m/n/10 (+20) Marketing gam-i-fi-ca-tion: Toy-ota turns charg-ing you
 r iphone into
@@ -1603,11 +1561,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F798A2A163CBDA531155E8745B1FF8DE;3545.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 272818D8C6B6444B92006CA05192137C;4854.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
  )
 (\end occurred inside a group at level 1)
@@ -1615,27 +1569,26 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38435 strings out of 493333
- 722391 string characters out of 3139193
- 781233 words of memory out of 3000000
- 41116 multiletter control sequences out of 15000+200000
- 549826 words of font info for 159 fonts, out of 3000000 for 9000
+ 38408 strings out of 493333
+ 721729 string characters out of 3139193
+ 780788 words of memory out of 3000000
+ 41087 multiletter control sequences out of 15000+200000
+ 549336 words of font info for 156 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,80p,10359b,1069s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,56p,10359b,1096s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10
-.pfb>
-Output written on Thesis.pdf (25 pages, 2202690 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt10.pfb>
+Output written on Thesis.pdf (25 pages, 293704 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 129 named destinations out of 1000 (max. 500000)
- 30936 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 449 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 28927 words of extra memory for PDF output out of 29859 (max. 10000000)
 
