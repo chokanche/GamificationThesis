@@ -5,27 +5,21 @@
 \contentsline {chapter}{Contents}{vii}{chapter*.4}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.5}
 \contentsline {chapter}{List of Tables}{xi}{chapter*.6}
-\contentsline {chapter}{\numberline {1}Study Design}{1}{chapter.7}
-\contentsline {section}{\numberline {1.1}Description of the Experiment}{1}{section.8}
-\contentsline {subsection}{\numberline {1.1.1}Introduction and Goals}{1}{subsection.9}
-\contentsline {subsubsection}{\numberline {1.1.1.1}Hypotheses}{2}{subsubsection.14}
-\contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{2}{subsubsection.18}
-\contentsline {subsection}{\numberline {1.1.2}Methods}{3}{subsection.19}
-\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{3}{subsubsection.20}
-\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{3}{subsubsection.21}
-\contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Groups}{4}{subsubsection.25}
-\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{4}{subsubsection.26}
-\contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{4}{subsubsection.27}
-\contentsline {subsubsection}{\numberline {1.1.2.6}Design}{5}{subsubsection.28}
-\contentsline {subsubsection}{\numberline {1.1.2.7}Procedure}{5}{subsubsection.29}
-\contentsline {subsubsection}{\numberline {1.1.2.8}Independent and Dependent Variables}{6}{subsubsection.30}
-\contentsline {subsection}{\numberline {1.1.3}Problems/Limitations - Threats to Validity}{7}{subsection.31}
-\contentsline {section}{\numberline {1.2}Results}{7}{section.32}
-\contentsline {section}{\numberline {1.3}Discussion}{7}{section.33}
-\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{7}{subsection.34}
-\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{8}{subsection.35}
-\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{8}{subsection.36}
-\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{8}{subsection.37}
-\contentsline {subsection}{\numberline {1.3.5}Research agenda}{8}{subsection.38}
-\contentsline {section}{\numberline {1.4}Conclusions}{8}{section.39}
-\contentsline {chapter}{Bibliography}{9}{chapter*.40}
+\contentsline {chapter}{\numberline {1}The Design and Development of the Immotion Exergame}{1}{chapter.7}
+\contentsline {section}{\numberline {1.1}Overview of User Centered Design}{1}{section.8}
+\contentsline {section}{\numberline {1.2}The Context of Use}{2}{section.9}
+\contentsline {section}{\numberline {1.3}Overview of the Development Phases}{3}{section.10}
+\contentsline {subsection}{\numberline {1.3.1}Requirements Gathering}{4}{subsection.12}
+\contentsline {subsection}{\numberline {1.3.2}Prototype Development}{5}{subsection.13}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Game Description}{5}{subsubsection.14}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Gamification Elements}{6}{subsubsection.17}
+\contentsline {subsubsection}{\numberline {1.3.2.3}Feedback}{7}{subsubsection.18}
+\contentsline {subsubsection}{\numberline {1.3.2.4}Gamification Components}{7}{subsubsection.19}
+\contentsline {paragraph}{Points}{7}{section*.20}
+\contentsline {paragraph}{Avatar}{8}{figure.caption.21}
+\contentsline {paragraph}{Visual Feedback}{8}{figure.caption.22}
+\contentsline {paragraph}{Audio Feedback}{9}{figure.caption.22}
+\contentsline {subsection}{\numberline {1.3.3}Game Scenes}{9}{subsection.23}
+\contentsline {section}{\numberline {1.4}Evaluation}{9}{section.25}
+\contentsline {section}{\numberline {1.5}Final Exergame Solution}{9}{section.26}
+\contentsline {chapter}{Bibliography}{11}{chapter*.27}
