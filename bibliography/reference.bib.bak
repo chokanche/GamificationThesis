@@ -1,3 +1,21 @@
+@book{mayr2015prevention,
+  title={Prevention of Injuries and Overuse in Sports},
+  author={Mayr, Hermann O and Zaffagnini, Stefano and others},
+  year={2015},
+  publisher={Springer}
+}
+
+@article{warburton2006health,
+  title={Health benefits of physical activity: the evidence},
+  author={Warburton, Darren ER and Nicol, Crystal Whitney and Bredin, Shannon SD},
+  journal={Canadian medical association journal},
+  volume={174},
+  number={6},
+  pages={801--809},
+  year={2006},
+  publisher={Can Med Assoc}
+}
+
 @article{shellock1985warming,
   title={Warming-up and stretching for improved physical performance and prevention of sports-related injuries},
   author={Shellock, Frank G and Prentice, William E},
@@ -160,13 +178,19 @@
 }
 
 @misc{toGamify,
-  title = {Gamify},
+  title = {Gamify - a definition},
   howpublished = {\url{https://badgeville.com/wiki/Gamify}},
   note = {Accessed: 2017-01-20}
 }
 
+@misc{strava,
+  title = {Strava application and website for runners and cyclists},
+  howpublished = {\url{https://www.strava.com/}},
+  note = {Accessed: 2017-12-20}
+}
+
 @misc{gamificationExamples,
-  title = {Gamification examples},
+  title = {Gamification examples given by Badgeville.com},
   howpublished = {\url{https://badgeville.com/wiki/Gamification_Examples}},
   note = {Accessed: 2017-01-25}
 }
@@ -176,6 +200,7 @@
   howpublished = {\url{http://www.psychologyofgames.com/2013/11/the-psychology-of-video-game-avatars/}},
   note = {Accessed: 2017-10-25}
 }
+
 
 @misc{gamificationWiki,
   title = {Gamification - Applications},
@@ -582,12 +607,7 @@
   year={2016},
   organization={ACM}
 }
-@book{mayr2015prevention,
-  title={Prevention of Injuries and Overuse in Sports},
-  author={Mayr, Hermann O and Zaffagnini, Stefano and others},
-  year={2015},
-  publisher={Springer}
-}
+
 
 @article{van1997severity,
   title={The severity of sports injuries},
@@ -652,16 +672,6 @@
   year={2017}
 }
 
-@article{warburton2006health,
-  title={Health benefits of physical activity: the evidence},
-  author={Warburton, Darren ER and Nicol, Crystal Whitney and Bredin, Shannon SD},
-  journal={Canadian medical association journal},
-  volume={174},
-  number={6},
-  pages={801--809},
-  year={2006},
-  publisher={Can Med Assoc}
-}
 @article{oh2010defining,
   title={Defining exergames and exergaming},
   author={Oh, Yoonsin and Yang, Stephen},

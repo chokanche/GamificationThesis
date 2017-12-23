@@ -169,10 +169,10 @@ Marko Vuji\'c
 \mainmatter
 
 %\input{chapters/intro}
-%\input{chapters/relatedwork}
+\input{chapters/relatedwork}
 %\input{chapters/survey_one}
 %\input{chapters/studydesign}
-\input{chapters/implementation}
+%\input{chapters/implementation}
 %\input{chapters/behaviorism}
 %
 %\input{chapters/gamification}
@@ -188,7 +188,7 @@ Marko Vuji\'c
 
 
 % *************** Bibliography ***************
-\bibliographystyle{plain}
+\bibliographystyle{ieeetr}
 {\small\bibliography{bibliography/reference}}
 \clearpage
 
