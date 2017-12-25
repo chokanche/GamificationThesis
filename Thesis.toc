@@ -14,25 +14,25 @@
 \contentsline {subsection}{\numberline {1.1.5}The Types of Warm Up}{5}{subsection.15}
 \contentsline {section}{\numberline {1.2}Gamification and Exergames}{7}{section.16}
 \contentsline {subsection}{\numberline {1.2.1}Video Games and Exercise}{7}{subsection.17}
-\contentsline {paragraph}{A Primer on Gamification}{7}{section*.19}
-\contentsline {paragraph}{A Primer on Exergames}{9}{figure.caption.22}
-\contentsline {section}{\numberline {1.3}Theories of Motivation}{11}{section.24}
-\contentsline {subsection}{\numberline {1.3.1}The Rules of Motivation}{11}{subsection.25}
-\contentsline {subsection}{\numberline {1.3.2}Self Determination Theory}{12}{subsection.26}
-\contentsline {subsubsection}{\numberline {1.3.2.1}Gamification and SDT}{16}{subsubsection.29}
-\contentsline {subsection}{\numberline {1.3.3}State of Flow}{17}{subsection.30}
-\contentsline {subsubsection}{\numberline {1.3.3.1}Flow in Gamification}{20}{subsubsection.33}
-\contentsline {subsection}{\numberline {1.3.4}Motivation and Sports}{21}{subsection.35}
-\contentsline {subsection}{\numberline {1.3.5}Defining Gamification}{21}{subsection.36}
-\contentsline {subsection}{\numberline {1.3.6}Defining Exergames}{23}{subsection.38}
-\contentsline {subsection}{\numberline {1.3.7}Player Types}{24}{subsection.39}
-\contentsline {paragraph}{Bartle's Four Player Types}{24}{section*.40}
-\contentsline {paragraph}{Marczewski's User Types Hexed}{26}{figure.caption.41}
-\contentsline {subsection}{\numberline {1.3.8}Gamificaton elements}{27}{subsection.43}
-\contentsline {subsubsection}{\numberline {1.3.8.1}Dynamics}{28}{subsubsection.46}
-\contentsline {subsubsection}{\numberline {1.3.8.2}Mechanics}{30}{subsubsection.47}
-\contentsline {subsubsection}{\numberline {1.3.8.3}Components}{31}{subsubsection.48}
-\contentsline {subsubsection}{\numberline {1.3.8.4}Elements and Player Types}{34}{subsubsection.57}
-\contentsline {subsubsection}{\numberline {1.3.8.5}Gamification Design}{34}{subsubsection.58}
-\contentsline {subsection}{\numberline {1.3.9}Gamification of Health and Fitness}{34}{subsection.59}
-\contentsline {chapter}{Bibliography}{35}{chapter*.60}
+\contentsline {subsection}{\numberline {1.2.2}A Primer on Gamification}{7}{subsection.19}
+\contentsline {paragraph}{Defining Gamification}{9}{figure.caption.22}
+\contentsline {subsection}{\numberline {1.2.3}A Primer on Exergames}{11}{subsection.24}
+\contentsline {paragraph}{Defining Exergames}{12}{figure.caption.25}
+\contentsline {section}{\numberline {1.3}Theories of Motivation}{14}{section.26}
+\contentsline {subsection}{\numberline {1.3.1}The Rules of Motivation}{14}{subsection.27}
+\contentsline {subsection}{\numberline {1.3.2}Self Determination Theory}{15}{subsection.28}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Gamification and SDT}{19}{subsubsection.31}
+\contentsline {subsection}{\numberline {1.3.3}State of Flow}{20}{subsection.32}
+\contentsline {subsubsection}{\numberline {1.3.3.1}Flow and Gamification}{23}{subsubsection.35}
+\contentsline {subsection}{\numberline {1.3.4}Motivation and Sports}{24}{subsection.37}
+\contentsline {subsection}{\numberline {1.3.5}Player Types}{24}{subsection.38}
+\contentsline {paragraph}{Bartle's Four Player Types}{24}{section*.39}
+\contentsline {paragraph}{Marczewski's User Types Hexed}{26}{figure.caption.40}
+\contentsline {subsection}{\numberline {1.3.6}Gamificaton elements}{27}{subsection.42}
+\contentsline {subsubsection}{\numberline {1.3.6.1}Dynamics}{29}{subsubsection.45}
+\contentsline {subsubsection}{\numberline {1.3.6.2}Mechanics}{30}{subsubsection.46}
+\contentsline {subsubsection}{\numberline {1.3.6.3}Components}{31}{subsubsection.47}
+\contentsline {subsubsection}{\numberline {1.3.6.4}Elements and Player Types}{35}{subsubsection.56}
+\contentsline {subsubsection}{\numberline {1.3.6.5}Gamification Design}{35}{subsubsection.57}
+\contentsline {subsection}{\numberline {1.3.7}Gamification of Health and Fitness}{35}{subsection.58}
+\contentsline {chapter}{Bibliography}{37}{chapter*.59}

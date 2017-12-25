@@ -407,7 +407,36 @@ http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html/}},
   year={2012},
   publisher={John Wiley \& Sons}
 }
-
+@article{barry2014role,
+  title={The role of exergaming in Parkinson’s disease rehabilitation: a systematic review of the evidence},
+  author={Barry, Gillian and Galna, Brook and Rochester, Lynn},
+  journal={Journal of neuroengineering and rehabilitation},
+  volume={11},
+  number={1},
+  pages={33},
+  year={2014},
+  publisher={BioMed Central}
+}
+@article{taylor2015use,
+  title={The use of gaming technology for rehabilitation in people with multiple sclerosis},
+  author={Taylor, Matthew JD and Griffin, Murray},
+  journal={Multiple Sclerosis Journal},
+  volume={21},
+  number={4},
+  pages={355--371},
+  year={2015},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+@article{webster2014systematic,
+  title={Systematic review of Kinect applications in elderly care and stroke rehabilitation},
+  author={Webster, David and Celik, Ozkan},
+  journal={Journal of neuroengineering and rehabilitation},
+  volume={11},
+  number={1},
+  pages={108},
+  year={2014},
+  publisher={BioMed Central}
+}
 @inproceedings{hunicke2004mda,
   title={MDA: A formal approach to game design and game research},
   author={Hunicke, Robin and LeBlanc, Marc and Zubek, Robert},
@@ -557,6 +586,17 @@ http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html/}},
   howpublished = {\url{https://community.lithium.com/t5/Science-of-Social-blog/Gamification-101-The-Psychology-of-Motivation/ba-p/21864}},
   note = {Accessed: 2017-02-27}
 }
+@article{kowal1999motivational,
+  title={Motivational determinants of flow: Contributions from self-determination theory},
+  author={Kowal, John and Fortier, Michelle S},
+  journal={The Journal of Social Psychology},
+  volume={139},
+  number={3},
+  pages={355--368},
+  year={1999},
+  publisher={Taylor \& Francis}
+}
+
 @incollection{csikszentmihalyi2014flow,
   title={Flow},
   author={Csikszentmihalyi, Mihaly and Abuhamdeh, Sami and Nakamura, Jeanne},

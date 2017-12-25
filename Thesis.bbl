@@ -187,6 +187,11 @@ J.~Hamari, J.~Koivisto, and H.~Sarsa, ``Does gamification work?--a literature
   (HICSS), 2014 47th Hawaii International Conference on}, pp.~3025--3034, IEEE,
   2014.
 
+\bibitem{staiano2011exergames}
+A.~E. Staiano and S.~L. Calvert, ``Exergames for physical education courses:
+  Physical, social, and cognitive benefits,'' {\em Child development
+  perspectives}, vol.~5, no.~2, pp.~93--98, 2011.
+
 \bibitem{altamimi2012survey}
 R.~Altamimi and G.~Skinner, ``A survey of active video game literature,'' {\em
   Journal of Computer and Information Technology}, vol.~1, no.~1, pp.~20--35,
@@ -196,16 +201,26 @@ R.~Altamimi and G.~Skinner, ``A survey of active video game literature,'' {\em
 ``Nintendo wii.'' \url{https://en.wikipedia.org/wiki/Wii/}.
 \newblock Accessed: 2017-12-20.
 
-\bibitem{staiano2011exergames}
-A.~E. Staiano and S.~L. Calvert, ``Exergames for physical education courses:
-  Physical, social, and cognitive benefits,'' {\em Child development
-  perspectives}, vol.~5, no.~2, pp.~93--98, 2011.
-
 \bibitem{delgado2009low}
 C.~Delgado-Mata, R.~Ruvalcaba-Manzano, O.~Quezada-Patino, D.~Gomez-Pimentel,
   and J.~Ibanez-Martinez, ``Low cost video game technology to measure and
   improve motor skills in children,'' in {\em AFRICON, 2009. AFRICON'09.},
   pp.~1--6, IEEE, 2009.
+
+\bibitem{zichermann2011gamification}
+G.~Zichermann and C.~Cunningham, {\em Gamification by design: Implementing game
+  mechanics in web and mobile apps}.
+\newblock " O'Reilly Media, Inc.", 2011.
+
+\bibitem{gamificationPurpose}
+``The purpose of gamification.'' \url{
+  http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html/}.
+\newblock Accessed: 2017-12-20.
+
+\bibitem{ryan2000intrinsic}
+R.~M. Ryan and E.~L. Deci, ``Intrinsic and extrinsic motivations: Classic
+  definitions and new directions,'' {\em Contemporary educational psychology},
+  vol.~25, no.~1, pp.~54--67, 2000.
 
 \bibitem{pardee1990motivation}
 R.~L. Pardee, ``Motivation theories of maslow, herzberg, mcgregor \&
@@ -217,20 +232,15 @@ R.~M. Ryan and E.~L. Deci, ``Self-determination theory and the facilitation of
   intrinsic motivation, social development, and well-being.,'' {\em American
   psychologist}, vol.~55, no.~1, p.~68, 2000.
 
-\bibitem{zichermann2012}
-``Intrinsic and extrinsic motivation in gamification.''
-  \url{http://www.gamification.co/2011/10/27/intrinsic-and-extrinsic-motivation-in-gamification/}.
-\newblock Accessed: 2017-02-12.
-
-\bibitem{ryan2000intrinsic}
-R.~M. Ryan and E.~L. Deci, ``Intrinsic and extrinsic motivations: Classic
-  definitions and new directions,'' {\em Contemporary educational psychology},
-  vol.~25, no.~1, pp.~54--67, 2000.
-
 \bibitem{deci2000and}
 E.~L. Deci and R.~M. Ryan, ``The" what" and" why" of goal pursuits: Human needs
   and the self-determination of behavior,'' {\em Psychological inquiry},
   vol.~11, no.~4, pp.~227--268, 2000.
+
+\bibitem{zichermann2012}
+``Intrinsic and extrinsic motivation in gamification.''
+  \url{http://www.gamification.co/2011/10/27/intrinsic-and-extrinsic-motivation-in-gamification/}.
+\newblock Accessed: 2017-02-12.
 
 \bibitem{broeck2010capturing}
 A.~Broeck, M.~Vansteenkiste, H.~Witte, B.~Soenens, and W.~Lens, ``Capturing
@@ -267,6 +277,11 @@ C.~Flow, ``The psychology of optimal experience,'' {\em Harper\&Row, New York},
 \bibitem{csikszentmihalyi2014flow}
 M.~Csikszentmihalyi, S.~Abuhamdeh, and J.~Nakamura, ``Flow,'' in {\em Flow and
   the foundations of positive psychology}, pp.~227--238, Springer, 2014.
+
+\bibitem{kowal1999motivational}
+J.~Kowal and M.~S. Fortier, ``Motivational determinants of flow: Contributions
+  from self-determination theory,'' {\em The Journal of Social Psychology},
+  vol.~139, no.~3, pp.~355--368, 1999.
 
 \bibitem{kiili2006evaluations}
 K.~Kiili, ``Evaluations of an experiential gaming model,'' {\em Human
@@ -337,11 +352,6 @@ Y.~Oh and S.~Yang, ``Defining exergames and exergaming,'' {\em Proceedings of
 \bibitem{yee2006motivations}
 N.~Yee, ``Motivations for play in online games,'' {\em CyberPsychology \&
   behavior}, vol.~9, no.~6, pp.~772--775, 2006.
-
-\bibitem{zichermann2011gamification}
-G.~Zichermann and C.~Cunningham, {\em Gamification by design: Implementing game
-  mechanics in web and mobile apps}.
-\newblock " O'Reilly Media, Inc.", 2011.
 
 \bibitem{bartle1996hearts}
 R.~Bartle, ``Hearts, clubs, diamonds, spades: Players who suit muds,'' {\em
