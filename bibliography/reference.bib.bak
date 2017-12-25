@@ -245,6 +245,13 @@ http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html/}},
   note = {Accessed: 2017-01-20}
 }
 
+@misc{mud,
+  title = {Multi-User Dungeon},
+  howpublished = {\url{https://en.wikipedia.org/wiki/MUD/}},
+  note = {Accessed: 2017-10-20}
+}
+
+
 @misc{codeacademy,
   title = {CodeAcademy- Gamafication},
   howpublished = {\url{http://www.enterprise-gamification.com/mediawiki/index.php?title=Codecademy}},
