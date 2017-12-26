@@ -23,8 +23,12 @@
 \usepackage{graphicx}
 \usepackage{titlesec}
 \graphicspath{ {figures/} }
-
+\usepackage[toc,page]{appendix}
 \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+\usepackage[utf8]{inputenc}
+\usepackage[acronym, toc]{glossaries}
+
+\makeglossaries
 
 \newcolumntype{Y}{>{\centering\arraybackslash}X}
 \newcolumntype{L}{>{\centering\arraybackslash}m{3cm}}
@@ -60,6 +64,8 @@
 
 	\begin{document}
 \input{commands}
+\input{bibliography/acronyms.tex}
+
 %\setcode{utf8}
 
 % *************** Front matter ***************
@@ -161,13 +167,12 @@ Marko Vuji\'c
 %\newpage
 %\listofalgorithmes
 \end{spacing}
-
 \clearpage
 
 \setstretch{1.3}
 % *************** Main matter ***************
 \mainmatter
-
+\printglossary[type=\acronymtype]
 %\input{chapters/intro}
 \input{chapters/relatedwork}
 %\input{chapters/survey_one}
@@ -185,6 +190,7 @@ Marko Vuji\'c
 %\input{chapters/evaluation}
 %
 %\input{chapters/conclusion}
+%\input{appendices/injury_causes}
 
 
 % *************** Bibliography ***************
@@ -195,11 +201,11 @@ Marko Vuji\'c
 % *************** Appendixes ***************
 \addtocontents{toc}{\vspace{2em}}
 \appendix
+
 %\appendixpage*
 
 
 % *************** Back matter ***************
 %\backmatter
 %\input{back.tex}
-
 \end{document} 

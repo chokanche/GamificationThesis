@@ -1,0 +1,180 @@
+\ifglsentryexists{wu}{}%
+{%
+\gls@defglossaryentry{wu}%
+{%
+name={WU},%
+sort={WU},%
+type={acronym},%
+first={Warm Up\glsspace (WU)},%
+firstplural={Warm Ups\glsspace (WUs)},%
+text={WU},%
+plural={WUs},%
+description={Warm Up},%
+descriptionplural={Warm Up\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Warm Up},%
+longplural={Warm Ups},%
+short={WU},%
+shortplural={WUs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fmarc}{}%
+{%
+\gls@defglossaryentry{fmarc}%
+{%
+name={F-MARC},%
+sort={F-MARC},%
+type={acronym},%
+first={FIFA Medical and Research Centre\glsspace (F-MARC)},%
+firstplural={FIFA Medical and Research Centres\glsspace (F-MARCs)},%
+text={F-MARC},%
+plural={F-MARCs},%
+description={FIFA Medical and Research Centre},%
+descriptionplural={FIFA Medical and Research Centre\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={FIFA Medical and Research Centre},%
+longplural={FIFA Medical and Research Centres},%
+short={F-MARC},%
+shortplural={F-MARCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{avg}{}%
+{%
+\gls@defglossaryentry{avg}%
+{%
+name={AVG},%
+sort={AVG},%
+type={acronym},%
+first={Active Video Gaming\glsspace (AVG)},%
+firstplural={Active Video Gamings\glsspace (AVGs)},%
+text={AVG},%
+plural={AVGs},%
+description={Active Video Gaming},%
+descriptionplural={Active Video Gaming\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Active Video Gaming},%
+longplural={Active Video Gamings},%
+short={AVG},%
+shortplural={AVGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sdt}{}%
+{%
+\gls@defglossaryentry{sdt}%
+{%
+name={SDT},%
+sort={SDT},%
+type={acronym},%
+first={Self Determination Theory\glsspace (SDT)},%
+firstplural={Self Determination Theorys\glsspace (SDTs)},%
+text={SDT},%
+plural={SDTs},%
+description={Self Determination Theory},%
+descriptionplural={Self Determination Theory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Self Determination Theory},%
+longplural={Self Determination Theorys},%
+short={SDT},%
+shortplural={SDTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cet}{}%
+{%
+\gls@defglossaryentry{cet}%
+{%
+name={CET},%
+sort={CET},%
+type={acronym},%
+first={Cognitive Evaluation Theory\glsspace (CET)},%
+firstplural={Cognitive Evaluation Theorys\glsspace (CETs)},%
+text={CET},%
+plural={CETs},%
+description={Cognitive Evaluation Theory},%
+descriptionplural={Cognitive Evaluation Theory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cognitive Evaluation Theory},%
+longplural={Cognitive Evaluation Theorys},%
+short={CET},%
+shortplural={CETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{oit}{}%
+{%
+\gls@defglossaryentry{oit}%
+{%
+name={OIT},%
+sort={OIT},%
+type={acronym},%
+first={Organismic Integration Theory\glsspace (OIT)},%
+firstplural={Organismic Integration Theorys\glsspace (OITs)},%
+text={OIT},%
+plural={OITs},%
+description={Organismic Integration Theory},%
+descriptionplural={Organismic Integration Theory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Organismic Integration Theory},%
+longplural={Organismic Integration Theorys},%
+short={OIT},%
+shortplural={OITs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
