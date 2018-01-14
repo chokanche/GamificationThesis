@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  26 DEC 2017 22:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  14 JAN 2018 22:03
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1394,15 +1394,46 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 Package: glossary-tree 2017/11/14 v4.35 (NLCT)
 \glstreeindent=\skip100
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count194
+\calc@Bcount=\count195
+\calc@Adimen=\dimen295
+\calc@Bdimen=\dimen296
+\calc@Askip=\skip101
+\calc@Bskip=\skip102
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count196
+\calc@Cskip=\skip103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen297
+\AM@pageheight=\dimen298
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box64
+\AM@global@opts=\toks61
+\AM@toc@title=\toks62
+\c@AM@survey=\count197
+\AM@templatesizebox=\box65
+)
 \glswrite=\write4
 \glo@main@file=\write5
 \openout5 = `Thesis.glo'.
 
-Package glossaries Info: Writing glossary file Thesis.glo on input line 31.
+Package glossaries Info: Writing glossary file Thesis.glo on input line 32.
 \glo@acronym@file=\write6
 \openout6 = `Thesis.acn'.
 
-Package glossaries Info: Writing glossary file Thesis.acn on input line 31.
+Package glossaries Info: Writing glossary file Thesis.acn on input line 32.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
@@ -1410,207 +1441,207 @@ Package: expl3 2017/09/18 L3 programming layer (loader)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2017/09/18 L3 programming layer (code)
-\c_max_int=\count194
-\l_tmpa_int=\count195
-\l_tmpb_int=\count196
-\g_tmpa_int=\count197
-\g_tmpb_int=\count198
-\g__intarray_font_int=\count199
+\c_max_int=\count198
+\l_tmpa_int=\count199
 Normal \count register pool exhausted, switching to extended pool.
-\g__prg_map_int=\count277
-\c_log_iow=\count278
-\l_iow_line_count_int=\count279
-\l__iow_line_target_int=\count280
-\l__iow_one_indent_int=\count281
-\l__iow_indent_int=\count282
-\c_zero_dim=\dimen295
-\c_max_dim=\dimen296
-\l_tmpa_dim=\dimen297
-\l_tmpb_dim=\dimen298
-\g_tmpa_dim=\dimen299
-\g_tmpb_dim=\dimen300
-\c_zero_skip=\skip101
-\c_max_skip=\skip102
-\l_tmpa_skip=\skip103
-\l_tmpb_skip=\skip104
-\g_tmpa_skip=\skip105
-\g_tmpb_skip=\skip106
+\l_tmpb_int=\count277
+\g_tmpa_int=\count278
+\g_tmpb_int=\count279
+\g__intarray_font_int=\count280
+\g__prg_map_int=\count281
+\c_log_iow=\count282
+\l_iow_line_count_int=\count283
+\l__iow_line_target_int=\count284
+\l__iow_one_indent_int=\count285
+\l__iow_indent_int=\count286
+\c_zero_dim=\dimen299
+\c_max_dim=\dimen300
+\l_tmpa_dim=\dimen301
+\l_tmpb_dim=\dimen302
+\g_tmpa_dim=\dimen303
+\g_tmpb_dim=\dimen304
+\c_zero_skip=\skip104
+\c_max_skip=\skip105
+\l_tmpa_skip=\skip106
+\l_tmpb_skip=\skip107
+\g_tmpa_skip=\skip108
+\g_tmpb_skip=\skip109
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count283
-\c__fp_leading_shift_int=\count284
-\c__fp_middle_shift_int=\count285
-\c__fp_trailing_shift_int=\count286
-\c__fp_big_leading_shift_int=\count287
-\c__fp_big_middle_shift_int=\count288
-\c__fp_big_trailing_shift_int=\count289
-\c__fp_Bigg_leading_shift_int=\count290
-\c__fp_Bigg_middle_shift_int=\count291
-\c__fp_Bigg_trailing_shift_int=\count292
-\c__fp_rand_size_int=\count293
-\c__fp_rand_four_int=\count294
-\c__fp_rand_eight_int=\count295
-\l__sort_length_int=\count296
-\l__sort_min_int=\count297
-\l__sort_top_int=\count298
-\l__sort_max_int=\count299
-\l__sort_true_max_int=\count300
-\l__sort_block_int=\count301
-\l__sort_begin_int=\count302
-\l__sort_end_int=\count303
-\l__sort_A_int=\count304
-\l__sort_B_int=\count305
-\l__sort_C_int=\count306
-\l__tl_build_start_index_int=\count307
-\l__tl_build_index_int=\count308
-\l__tl_analysis_normal_int=\count309
-\l__tl_analysis_index_int=\count310
-\l__tl_analysis_nesting_int=\count311
-\l__tl_analysis_type_int=\count312
-\l__regex_internal_a_int=\count313
-\l__regex_internal_b_int=\count314
-\l__regex_internal_c_int=\count315
-\l__regex_balance_int=\count316
-\l__regex_group_level_int=\count317
-\l__regex_mode_int=\count318
-\c__regex_cs_in_class_mode_int=\count319
-\c__regex_cs_mode_int=\count320
-\l__regex_catcodes_int=\count321
-\l__regex_default_catcodes_int=\count322
-\c__regex_catcode_D_int=\count323
-\c__regex_catcode_S_int=\count324
-\c__regex_catcode_L_int=\count325
-\c__regex_catcode_O_int=\count326
-\c__regex_catcode_A_int=\count327
-\c__regex_all_catcodes_int=\count328
-\l__regex_show_lines_int=\count329
-\l__regex_min_state_int=\count330
-\l__regex_max_state_int=\count331
-\l__regex_left_state_int=\count332
-\l__regex_right_state_int=\count333
-\l__regex_capturing_group_int=\count334
-\l__regex_min_pos_int=\count335
-\l__regex_max_pos_int=\count336
-\l__regex_curr_pos_int=\count337
-\l__regex_start_pos_int=\count338
-\l__regex_success_pos_int=\count339
-\l__regex_curr_char_int=\count340
-\l__regex_curr_catcode_int=\count341
-\l__regex_last_char_int=\count342
-\l__regex_case_changed_char_int=\count343
-\l__regex_curr_state_int=\count344
-\l__regex_step_int=\count345
-\l__regex_min_active_int=\count346
-\l__regex_max_active_int=\count347
-\l__regex_replacement_csnames_int=\count348
-\l__regex_match_count_int=\count349
-\l__regex_min_submatch_int=\count350
-\l__regex_submatch_int=\count351
-\l__regex_zeroth_submatch_int=\count352
-\g__debug_trace_regex_int=\count353
-\c_empty_box=\box64
-\l_tmpa_box=\box65
-\l_tmpb_box=\box66
-\g_tmpa_box=\box67
-\g_tmpb_box=\box68
-\l__box_top_dim=\dimen301
-\l__box_bottom_dim=\dimen302
-\l__box_left_dim=\dimen303
-\l__box_right_dim=\dimen304
-\l__box_top_new_dim=\dimen305
-\l__box_bottom_new_dim=\dimen306
-\l__box_left_new_dim=\dimen307
-\l__box_right_new_dim=\dimen308
-\l__box_internal_box=\box69
-\l__coffin_internal_box=\box70
-\l__coffin_internal_dim=\dimen309
-\l__coffin_offset_x_dim=\dimen310
-\l__coffin_offset_y_dim=\dimen311
-\l__coffin_x_dim=\dimen312
-\l__coffin_y_dim=\dimen313
-\l__coffin_x_prime_dim=\dimen314
-\l__coffin_y_prime_dim=\dimen315
-\c_empty_coffin=\box71
-\l__coffin_aligned_coffin=\box72
-\l__coffin_aligned_internal_coffin=\box73
-\l_tmpa_coffin=\box74
-\l_tmpb_coffin=\box75
-\l__coffin_display_coffin=\box76
-\l__coffin_display_coord_coffin=\box77
-\l__coffin_display_pole_coffin=\box78
-\l__coffin_display_offset_dim=\dimen316
-\l__coffin_display_x_dim=\dimen317
-\l__coffin_display_y_dim=\dimen318
-\l__coffin_bounding_shift_dim=\dimen319
-\l__coffin_left_corner_dim=\dimen320
-\l__coffin_right_corner_dim=\dimen321
-\l__coffin_bottom_corner_dim=\dimen322
-\l__coffin_top_corner_dim=\dimen323
-\l__coffin_scaled_total_height_dim=\dimen324
-\l__coffin_scaled_width_dim=\dimen325
+\l_keys_choice_int=\count287
+\c__fp_leading_shift_int=\count288
+\c__fp_middle_shift_int=\count289
+\c__fp_trailing_shift_int=\count290
+\c__fp_big_leading_shift_int=\count291
+\c__fp_big_middle_shift_int=\count292
+\c__fp_big_trailing_shift_int=\count293
+\c__fp_Bigg_leading_shift_int=\count294
+\c__fp_Bigg_middle_shift_int=\count295
+\c__fp_Bigg_trailing_shift_int=\count296
+\c__fp_rand_size_int=\count297
+\c__fp_rand_four_int=\count298
+\c__fp_rand_eight_int=\count299
+\l__sort_length_int=\count300
+\l__sort_min_int=\count301
+\l__sort_top_int=\count302
+\l__sort_max_int=\count303
+\l__sort_true_max_int=\count304
+\l__sort_block_int=\count305
+\l__sort_begin_int=\count306
+\l__sort_end_int=\count307
+\l__sort_A_int=\count308
+\l__sort_B_int=\count309
+\l__sort_C_int=\count310
+\l__tl_build_start_index_int=\count311
+\l__tl_build_index_int=\count312
+\l__tl_analysis_normal_int=\count313
+\l__tl_analysis_index_int=\count314
+\l__tl_analysis_nesting_int=\count315
+\l__tl_analysis_type_int=\count316
+\l__regex_internal_a_int=\count317
+\l__regex_internal_b_int=\count318
+\l__regex_internal_c_int=\count319
+\l__regex_balance_int=\count320
+\l__regex_group_level_int=\count321
+\l__regex_mode_int=\count322
+\c__regex_cs_in_class_mode_int=\count323
+\c__regex_cs_mode_int=\count324
+\l__regex_catcodes_int=\count325
+\l__regex_default_catcodes_int=\count326
+\c__regex_catcode_D_int=\count327
+\c__regex_catcode_S_int=\count328
+\c__regex_catcode_L_int=\count329
+\c__regex_catcode_O_int=\count330
+\c__regex_catcode_A_int=\count331
+\c__regex_all_catcodes_int=\count332
+\l__regex_show_lines_int=\count333
+\l__regex_min_state_int=\count334
+\l__regex_max_state_int=\count335
+\l__regex_left_state_int=\count336
+\l__regex_right_state_int=\count337
+\l__regex_capturing_group_int=\count338
+\l__regex_min_pos_int=\count339
+\l__regex_max_pos_int=\count340
+\l__regex_curr_pos_int=\count341
+\l__regex_start_pos_int=\count342
+\l__regex_success_pos_int=\count343
+\l__regex_curr_char_int=\count344
+\l__regex_curr_catcode_int=\count345
+\l__regex_last_char_int=\count346
+\l__regex_case_changed_char_int=\count347
+\l__regex_curr_state_int=\count348
+\l__regex_step_int=\count349
+\l__regex_min_active_int=\count350
+\l__regex_max_active_int=\count351
+\l__regex_replacement_csnames_int=\count352
+\l__regex_match_count_int=\count353
+\l__regex_min_submatch_int=\count354
+\l__regex_submatch_int=\count355
+\l__regex_zeroth_submatch_int=\count356
+\g__debug_trace_regex_int=\count357
+\c_empty_box=\box66
+\l_tmpa_box=\box67
+\l_tmpb_box=\box68
+\g_tmpa_box=\box69
+\g_tmpb_box=\box70
+\l__box_top_dim=\dimen305
+\l__box_bottom_dim=\dimen306
+\l__box_left_dim=\dimen307
+\l__box_right_dim=\dimen308
+\l__box_top_new_dim=\dimen309
+\l__box_bottom_new_dim=\dimen310
+\l__box_left_new_dim=\dimen311
+\l__box_right_new_dim=\dimen312
+\l__box_internal_box=\box71
+\l__coffin_internal_box=\box72
+\l__coffin_internal_dim=\dimen313
+\l__coffin_offset_x_dim=\dimen314
+\l__coffin_offset_y_dim=\dimen315
+\l__coffin_x_dim=\dimen316
+\l__coffin_y_dim=\dimen317
+\l__coffin_x_prime_dim=\dimen318
+\l__coffin_y_prime_dim=\dimen319
+\c_empty_coffin=\box73
+\l__coffin_aligned_coffin=\box74
+\l__coffin_aligned_internal_coffin=\box75
+\l_tmpa_coffin=\box76
+\l_tmpb_coffin=\box77
+\l__coffin_display_coffin=\box78
+\l__coffin_display_coord_coffin=\box79
+\l__coffin_display_pole_coffin=\box80
+\l__coffin_display_offset_dim=\dimen320
+\l__coffin_display_x_dim=\dimen321
+\l__coffin_display_y_dim=\dimen322
+\l__coffin_bounding_shift_dim=\dimen323
+\l__coffin_left_corner_dim=\dimen324
+\l__coffin_right_corner_dim=\dimen325
+\l__coffin_bottom_corner_dim=\dimen326
+\l__coffin_top_corner_dim=\dimen327
+\l__coffin_scaled_total_height_dim=\dimen328
+\l__coffin_scaled_width_dim=\dimen329
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count354
-\l__driver_tmp_box=\box79
+\l__driver_color_stack_int=\count358
+\l__driver_tmp_box=\box81
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
 Package: xparse 2017/09/18 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count355
-\g__xparse_grabber_int=\count356
-\l__xparse_m_args_int=\count357
-\l__xparse_mandatory_args_int=\count358
-\l__xparse_v_nesting_int=\count359
+\l__xparse_current_arg_int=\count359
+\g__xparse_grabber_int=\count360
+\l__xparse_m_args_int=\count361
+\l__xparse_mandatory_args_int=\count362
+\l__xparse_v_nesting_int=\count363
 )
 Package: siunitx 2017/08/02 v2.7j A comprehensive (SI) units package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2017/09/18 LaTeX2e option processing using LaTeX3 keys
 )
-\l__siunitx_tmp_box=\box80
-\l__siunitx_tmp_dim=\dimen326
-\l__siunitx_tmp_int=\count360
-\l__siunitx_number_mantissa_length_int=\count361
-\l__siunitx_number_uncert_length_int=\count362
-\l__siunitx_round_int=\count363
-\l__siunitx_process_decimal_int=\count364
-\l__siunitx_process_uncertainty_int=\count365
-\l__siunitx_process_fixed_int=\count366
-\l__siunitx_process_integer_min_int=\count367
-\l__siunitx_process_precision_int=\count368
-\l__siunitx_group_min_int=\count369
-\l__siunitx_angle_marker_box=\box81
-\l__siunitx_angle_unit_box=\box82
-\l__siunitx_angle_marker_dim=\dimen327
-\l__siunitx_angle_unit_dim=\dimen328
-\l__siunitx_unit_int=\count370
-\l__siunitx_unit_denominator_int=\count371
-\l__siunitx_unit_numerator_int=\count372
-\l__siunitx_unit_prefix_int=\count373
-\l__siunitx_unit_prefix_base_int=\count374
-\l__siunitx_unit_prefix_gram_int=\count375
-\l__siunitx_number_product_int=\count376
-\c__siunitx_one_fill_skip=\skip107
-\l__siunitx_table_unit_align_skip=\skip108
-\l__siunitx_table_exponent_dim=\dimen329
-\l__siunitx_table_integer_dim=\dimen330
-\l__siunitx_table_mantissa_dim=\dimen331
-\l__siunitx_table_marker_dim=\dimen332
-\l__siunitx_table_result_dim=\dimen333
-\l__siunitx_table_uncert_dim=\dimen334
-\l__siunitx_table_fill_pre_dim=\dimen335
-\l__siunitx_table_fill_post_dim=\dimen336
-\l__siunitx_table_fill_mid_dim=\dimen337
-\l__siunitx_table_pre_box=\box83
-\l__siunitx_table_post_box=\box84
-\l__siunitx_table_mantissa_box=\box85
-\l__siunitx_table_result_box=\box86
-\l__siunitx_table_number_align_skip=\skip109
-\l__siunitx_table_text_align_skip=\skip110
+\l__siunitx_tmp_box=\box82
+\l__siunitx_tmp_dim=\dimen330
+\l__siunitx_tmp_int=\count364
+\l__siunitx_number_mantissa_length_int=\count365
+\l__siunitx_number_uncert_length_int=\count366
+\l__siunitx_round_int=\count367
+\l__siunitx_process_decimal_int=\count368
+\l__siunitx_process_uncertainty_int=\count369
+\l__siunitx_process_fixed_int=\count370
+\l__siunitx_process_integer_min_int=\count371
+\l__siunitx_process_precision_int=\count372
+\l__siunitx_group_min_int=\count373
+\l__siunitx_angle_marker_box=\box83
+\l__siunitx_angle_unit_box=\box84
+\l__siunitx_angle_marker_dim=\dimen331
+\l__siunitx_angle_unit_dim=\dimen332
+\l__siunitx_unit_int=\count374
+\l__siunitx_unit_denominator_int=\count375
+\l__siunitx_unit_numerator_int=\count376
+\l__siunitx_unit_prefix_int=\count377
+\l__siunitx_unit_prefix_base_int=\count378
+\l__siunitx_unit_prefix_gram_int=\count379
+\l__siunitx_number_product_int=\count380
+\c__siunitx_one_fill_skip=\skip110
+\l__siunitx_table_unit_align_skip=\skip111
+\l__siunitx_table_exponent_dim=\dimen333
+\l__siunitx_table_integer_dim=\dimen334
+\l__siunitx_table_mantissa_dim=\dimen335
+\l__siunitx_table_marker_dim=\dimen336
+\l__siunitx_table_result_dim=\dimen337
+\l__siunitx_table_uncert_dim=\dimen338
+\l__siunitx_table_fill_pre_dim=\dimen339
+\l__siunitx_table_fill_post_dim=\dimen340
+\l__siunitx_table_fill_mid_dim=\dimen341
+\l__siunitx_table_pre_box=\box85
+\l__siunitx_table_post_box=\box86
+\l__siunitx_table_mantissa_box=\box87
+\l__siunitx_table_result_box=\box88
+\l__siunitx_table_number_align_skip=\skip112
+\l__siunitx_table_text_align_skip=\skip113
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1735,22 +1766,22 @@ Package: translator 2010/06/12 ver 1.10
 appings.tex"))) (Thesis.aux)
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1766,39 +1797,39 @@ Package caption Info: End \AtBeginDocument code.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count377
-\scratchdimen=\dimen338
-\scratchbox=\box87
-\nofMPsegments=\count378
-\nofMParguments=\count379
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count380
-\MPscratchDim=\dimen339
-\MPnumerator=\count381
-\makeMPintoPDFobject=\count382
-\everyMPtoPDFconversion=\toks62
+\scratchcounter=\count381
+\scratchdimen=\dimen342
+\scratchbox=\box89
+\nofMPsegments=\count382
+\nofMParguments=\count383
+\everyMPshowfont=\toks63
+\MPscratchCnt=\count384
+\MPscratchDim=\dimen343
+\MPnumerator=\count385
+\makeMPintoPDFobject=\count386
+\everyMPtoPDFconversion=\toks64
 )
-\c@lstlisting=\count383
-\AtBeginShipoutBox=\box88
-Package hyperref Info: Link coloring ON on input line 65.
+\c@lstlisting=\count387
+\AtBeginShipoutBox=\box90
+Package hyperref Info: Link coloring ON on input line 66.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count384
+\c@section@level=\count388
 )
-LaTeX Info: Redefining \ref on input line 65.
-LaTeX Info: Redefining \pageref on input line 65.
-LaTeX Info: Redefining \nameref on input line 65.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (Thesis.out) (Thesis.out)
 \@outlinefile=\write7
 \openout7 = `Thesis.out'.
 
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 65.
+LaTeX Info: Redefining \microtypecontext on input line 66.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1812,9 +1843,18 @@ Package microtype Info: No adjustment of character kerning.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-) (Thesis.glsdefs)
+) (Thesis.glsdefs) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.s
+ty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
@@ -1894,8 +1934,8 @@ Dictionary: translator-basic-dictionary, Language: English
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/08/02 v2.7j siunitx: Abbreviated units
 )
-\c__siunitx_mathsf_int=\count385
-LaTeX Font Info:    Try loading font information for U+msa on input line 65.
+\c__siunitx_mathsf_int=\count389
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1903,7 +1943,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 65.
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1915,13 +1955,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c__siunitx_mathtt_int=\count386
+\c__siunitx_mathtt_int=\count390
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  (commands.tex
-\c@myenumctr=\count387
+\c@myenumctr=\count391
 )
 (bibliography/acronyms.tex
 \@gls@deffile=\write8
@@ -1931,23 +1971,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=157, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=130, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 
 <use ./Template_Figures/saarland_logo.png>
 Package pdftex.def Info: ./Template_Figures/saarland_logo.png used on input lin
-e 86.
+e 87.
 (pdftex.def)             Requested size: 62.7342pt x 61.73045pt.
 
-<./Template_Figures/logo_dfki.png, id=158, 123.0999pt x 45.5301pt>
+<./Template_Figures/logo_dfki.png, id=131, 123.0999pt x 45.5301pt>
 File: ./Template_Figures/logo_dfki.png Graphic file (type png)
 
 <use ./Template_Figures/logo_dfki.png>
-Package pdftex.def Info: ./Template_Figures/logo_dfki.png used on input line 86
+Package pdftex.def Info: ./Template_Figures/logo_dfki.png used on input line 87
 .
 (pdftex.def)             Requested size: 123.09958pt x 45.52998pt.
 
-Overfull \hbox (32.37935pt too wide) in paragraph at lines 86--86
+Overfull \hbox (32.37935pt too wide) in paragraph at lines 87--87
  [][] 
  []
 
@@ -1996,386 +2036,95 @@ nd_logo.png> <./Template_Figures/logo_dfki.png>] [2
 
 ]
 No file Thesis.acr.
-(chapters/relatedwork.tex [1] [2
+(chapters/studydesign.tex [1] [2
 
 ]
 Chapter 1.
 ------------------------------------------------------------------------------
- 1 Literature review
+ 1 Study Design
 ------------------------------------------------------------------------------
-<figures/diagram.png, id=327, 406.51875pt x 298.86656pt>
-File: figures/diagram.png Graphic file (type png)
-
-<use figures/diagram.png>
-Package pdftex.def Info: figures/diagram.png used on input line 6.
-(pdftex.def)             Requested size: 272.1676pt x 200.09818pt.
- [3 <./figures/diagram.png>]
-<figures/injuries.png, id=352, 678.28406pt x 283.81032pt>
-File: figures/injuries.png Graphic file (type png)
-
-<use figures/injuries.png>
-Package pdftex.def Info: figures/injuries.png used on input line 23.
-(pdftex.def)             Requested size: 385.56963pt x 161.33183pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--29
-
- []
-
-[4] [5 <./figures/injuries.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 30--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--65
-
- []
-
-[6]
+[3] [4]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
- [7] [8]
-<figures/buzz.png, id=451, 638.385pt x 314.67563pt>
-File: figures/buzz.png Graphic file (type png)
- <use figures/buzz.png>
-Package pdftex.def Info: figures/buzz.png used on input line 109.
-(pdftex.def)             Requested size: 453.60808pt x 223.5941pt.
+ [5] [6]
+[7] [8] [9] [10] [11] [12] [13
 
-<figures/iosApps.png, id=456, 443.40656pt x 240.9pt>
-File: figures/iosApps.png Graphic file (type png)
- <use figures/iosApps.png>
-Package pdftex.def Info: figures/iosApps.png used on input line 116.
-(pdftex.def)             Requested size: 385.56963pt x 209.4894pt.
 
-<figures/pub.png, id=466, 526.96875pt x 269.50688pt>
-File: figures/pub.png Graphic file (type png)
- <use figures/pub.png>
-Package pdftex.def Info: figures/pub.png used on input line 123.
-(pdftex.def)             Requested size: 453.60808pt x 231.99756pt.
-
-[9] [10 <./figures/buzz.png> <./figures/iosApps.png>]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 128.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-[11 <./figures/pub.png>]
-<figures/gamification-btw-game-and-play.png, id=522, 485.815pt x 427.5975pt>
-File: figures/gamification-btw-game-and-play.png Graphic file (type png)
-
-<use figures/gamification-btw-game-and-play.png>
-Package pdftex.def Info: figures/gamification-btw-game-and-play.png used on inp
-ut line 137.
-(pdftex.def)             Requested size: 294.84247pt x 259.5096pt.
- [12 <./figures/gamification-btw-game-and-play.png>] <figures/pubEx.png, id=552
-, 543.53062pt x 300.3722pt>
-File: figures/pubEx.png Graphic file (type png)
-
-<use figures/pubEx.png>
-Package pdftex.def Info: figures/pubEx.png used on input line 152.
-(pdftex.def)             Requested size: 408.24449pt x 225.61774pt.
- [13]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 157.
-
-[14 <./figures/pubEx.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 173--177
-
- []
-
-[15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
-
- []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 188--191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--191
-
- []
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
-
- []
-
-<figures/ss.png, id=632, 584.1825pt x 489.32813pt>
-File: figures/ss.png Graphic file (type png)
- <use figures/ss.png>
-Package pdftex.def Info: figures/ss.png used on input line 199.
-(pdftex.def)             Requested size: 272.1676pt x 227.98322pt.
-
-<figures/sdt.png, id=654, 807.015pt x 368.87813pt>
-File: figures/sdt.png Graphic file (type png)
- <use figures/sdt.png>
-Package pdftex.def Info: figures/sdt.png used on input line 209.
-(pdftex.def)             Requested size: 453.60808pt x 207.34145pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--216
-
- []
-
-[19 <./figures/ss.png>] [20] [21 <./figures/sdt.png>] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 224--232
-
- []
-
-[23] <figures/flowZone.png, id=712, 348.55219pt x 230.36063pt>
-File: figures/flowZone.png Graphic file (type png)
-
-<use figures/flowZone.png>
-Package pdftex.def Info: figures/flowZone.png used on input line 256.
-(pdftex.def)             Requested size: 317.52426pt x 209.86398pt.
-
-<figures/flow-model.jpg, id=718, 433.62pt x 340.27126pt>
-File: figures/flow-model.jpg Graphic file (type jpg)
-
-<use figures/flow-model.jpg>
-Package pdftex.def Info: figures/flow-model.jpg used on input line 264.
-(pdftex.def)             Requested size: 317.52426pt x 249.17995pt.
- [24]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25 <./figures/flowZone.png>]
-<figures/dfs2.png, id=741, 770.12718pt x 258.9675pt>
-File: figures/dfs2.png Graphic file (type png)
- <use figures/dfs2.png>
-Package pdftex.def Info: figures/dfs2.png used on input line 273.
-(pdftex.def)             Requested size: 453.60808pt x 152.53264pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[26 <./figures/flow-model.jpg>] [27 <./figures/dfs2.png>]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 286.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 286.
-
-<figures/userTypes.png, id=770, 548.80031pt x 349.305pt>
-File: figures/userTypes.png Graphic file (type png)
-
-<use figures/userTypes.png>
-Package pdftex.def Info: figures/userTypes.png used on input line 299.
-(pdftex.def)             Requested size: 385.56963pt x 245.41792pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[28] [29 <./figures/userTypes.png>]
-<figures/playerHex.png, id=797, 393.72093pt x 346.29375pt>
-File: figures/playerHex.png Graphic file (type png)
-
-<use figures/playerHex.png>
-Package pdftex.def Info: figures/playerHex.png used on input line 320.
-(pdftex.def)             Requested size: 340.20605pt x 299.22292pt.
-
-<figures/mdc.png, id=817, 511.9125pt x 368.87813pt>
-File: figures/mdc.png Graphic file (type png)
- <use figures/mdc.png>
-Package pdftex.def Info: figures/mdc.png used on input line 356.
-(pdftex.def)             Requested size: 340.20605pt x 245.1489pt.
-
-[30 <./figures/playerHex.png>] [31] [32 <./figures/mdc.png>]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 361.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 371.
-
-[33] [34] [35] [36] [37] [38] [39
-
-
-] [40]
+] [14]
 Appendix A.
 ------------------------------------------------------------------------------
- A Major Causes of Sports Injuries
+ A Self-Assessment Manikin Scale
 ------------------------------------------------------------------------------
-<figures/injuries_types.png, id=909, 556.32843pt x 630.85687pt>
-File: figures/injuries_types.png Graphic file (type png)
+<figures/manikin.png, id=319, 615.0478pt x 534.49687pt>
+File: figures/manikin.png Graphic file (type png)
 
-<use figures/injuries_types.png>
-Package pdftex.def Info: figures/injuries_types.png used on input line 458.
-(pdftex.def)             Requested size: 317.52426pt x 360.06383pt.
-) (Thesis.bbl [41
+<use figures/manikin.png>
+Package pdftex.def Info: figures/manikin.png used on input line 222.
+(pdftex.def)             Requested size: 453.60808pt x 394.2084pt.
+) (Thesis.bbl [15
 
- <./figures/injuries_types.png>] [42
+ <./figures/manikin.png>] [16
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 9--12
-[]\OT1/cmr/m/n/10 (+20) ``Fitness app pop-u-lar-ity.'' [][]$\OT1/cmtt/m/n/10 ht
-tps : / / www . spaceotechnologies . com /
- []
-
-
-Underfull \hbox (badness 3396) in paragraph at lines 9--12
-\OT1/cmtt/m/n/10 fitness-[]apps-[]gaining-[]popularity-[]hire-[]iphone-[]app-[]
-developer-[]now/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
- []
-
-
-Underfull \hbox (badness 2772) in paragraph at lines 28--31
-[]\OT1/cmr/m/n/10 (+20) ``Bartle's tax-on-omy of player types.'' [][]$\OT1/cmtt
-/m/n/10 https : / / gamedevelopment . tutsplus . com / articles /
- []
-
-
-Overfull \hbox (16.20091pt too wide) in paragraph at lines 28--31
-\OT1/cmtt/m/n/10 bartles-[]taxonomy-[]of-[]player-[]types-[]and-[]why-[]it-[]do
-esnt-[]apply-[]to-[]everything-[]-[]gamedev-[]4173$[][]\OT1/cmr/m/n/10 (-20) .
- []
-
-[43] [44]
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
-[]\OT1/cmr/m/n/10 (+20) ``Marketing gam-i-fi-ca-tion: Toy-ota turns charg-ing y
-our iphone into
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
-\OT1/cmr/m/n/10 (+20) an epic game.'' [][]$\OT1/cmtt/m/n/10 http : / / yukaicho
-u . com / marketing-[]gamification /
- []
-
-
-Underfull \hbox (badness 3590) in paragraph at lines 175--179
-\OT1/cmtt/m/n/10 marketing-[]gamification-[]toyota-[]turns-[]charging-[]iphone-
-[]epic-[]game/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 241--244
-[]\OT1/cmr/m/n/10 (+20) ``Game de-sign el-e-ments def-i-ni-tion.'' [][]$\OT1/cm
-tt/m/n/10 https : / / en . wikipedia . org / wiki / Game _ design # Design _
- []
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 300--303
-[]\OT1/cmr/m/n/10 (+20) ``The pur-pose of gam-i-fi-ca-tion.'' [][]$\OT1/cmtt/m/
-n/10 http : / / radar . oreilly . com / 2011 / 04 /
- []
-
-[46]
-Underfull \hbox (badness 3209) in paragraph at lines 352--355
-[]\OT1/cmr/m/n/10 (+20) ``Gamification 101, the psy-chol-ogy of mo-ti-va-tion.'
-' [][]$\OT1/cmtt/m/n/10 https : / / community . lithium . com / t5 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--355
-\OT1/cmtt/m/n/10 Science-[]of-[]Social-[]blog / Gamification-[]101-[]The-[]Psyc
-hology-[]of-[]Motivation / ba-[]p / 21864$[][]\OT1/cmr/m/n/10 (+20) .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--400
-[]\OT1/cmr/m/n/10 (+20) ``50 gam-i-fi-ca-tion me-chan-ics and el-e-ments.'' [][
-]$\OT1/cmtt/m/n/10 https : / / www . gamified . uk / user-[]types /
- []
-
-) [47]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+])
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
  (Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 39F1DF34C583E21AC240BAAA6B9DEE68;6828.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+(rerunfilecheck)             Checksum: 0803131DBAAF41E08990FF41D322A3BB;5162.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 43033 strings out of 493333
- 788771 string characters out of 3139193
- 912745 words of memory out of 3000000
- 45396 multiletter control sequences out of 15000+200000
- 556214 words of font info for 213 fonts, out of 3000000 for 9000
+ 43375 strings out of 493333
+ 794616 string characters out of 3139193
+ 907785 words of memory out of 3000000
+ 46025 multiletter control sequences out of 15000+200000
+ 544145 words of font info for 114 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,15n,80p,10359b,1249s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{glo:oit} has been referenced but do
+ 55i,11n,56p,10359b,1165s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{glo:geq} has been referenced but do
 es not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{glo:cet} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:sus} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:sdt} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:paces} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sam} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:avg} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:rpe} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:wu} has been referenced but does not exist, rep
-laced by a fixed one
+pdfTeX warning (dest): name{glo:parq} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:bsa} has been referenced but does not exist, re
+placed by a fixed one
 
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmtt10.pfb>
-Output written on Thesis.pdf (59 pages, 1475586 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.
+pfb>
+Output written on Thesis.pdf (29 pages, 353655 bytes).
 PDF statistics:
- 1075 PDF objects out of 1200 (max. 8388607)
- 216 named destinations out of 1000 (max. 500000)
- 37783 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 23316 words of extra memory for PDF output out of 24883 (max. 10000000)
 

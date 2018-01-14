@@ -178,3 +178,213 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{bsa}{}%
+{%
+\gls@defglossaryentry{bsa}%
+{%
+name={BSA-F},%
+sort={BSA-F},%
+type={acronym},%
+first={Bewegungs und Sportaktivit\"at Fragebogen\glsspace (BSA-F)},%
+firstplural={Bewegungs und Sportaktivit\"at Fragebogens\glsspace (BSA-Fs)},%
+text={BSA-F},%
+plural={BSA-Fs},%
+description={Bewegungs und Sportaktivit\"at Fragebogen},%
+descriptionplural={Bewegungs und Sportaktivit\"at Fragebogen\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Bewegungs und Sportaktivit\"at Fragebogen},%
+longplural={Bewegungs und Sportaktivit\"at Fragebogens},%
+short={BSA-F},%
+shortplural={BSA-Fs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{parq}{}%
+{%
+\gls@defglossaryentry{parq}%
+{%
+name={PARQ},%
+sort={PARQ},%
+type={acronym},%
+first={Physical Activity Readiness Questionnaire\glsspace (PARQ)},%
+firstplural={Physical Activity Readiness Questionnaires\glsspace (PARQs)},%
+text={PARQ},%
+plural={PARQs},%
+description={Physical Activity Readiness Questionnaire},%
+descriptionplural={Physical Activity Readiness Questionnaire\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Physical Activity Readiness Questionnaire},%
+longplural={Physical Activity Readiness Questionnaires},%
+short={PARQ},%
+shortplural={PARQs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rpe}{}%
+{%
+\gls@defglossaryentry{rpe}%
+{%
+name={RPE},%
+sort={RPE},%
+type={acronym},%
+first={BORG rating of Perceived Exertion\glsspace (RPE)},%
+firstplural={BORG rating of Perceived Exertions\glsspace (RPEs)},%
+text={RPE},%
+plural={RPEs},%
+description={BORG rating of Perceived Exertion},%
+descriptionplural={BORG rating of Perceived Exertion\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={BORG rating of Perceived Exertion},%
+longplural={BORG rating of Perceived Exertions},%
+short={RPE},%
+shortplural={RPEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sam}{}%
+{%
+\gls@defglossaryentry{sam}%
+{%
+name={SAM},%
+sort={SAM},%
+type={acronym},%
+first={Self-Assessment Manikin Scale\glsspace (SAM)},%
+firstplural={Self-Assessment Manikin Scales\glsspace (SAMs)},%
+text={SAM},%
+plural={SAMs},%
+description={Self-Assessment Manikin Scale},%
+descriptionplural={Self-Assessment Manikin Scale\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Self-Assessment Manikin Scale},%
+longplural={Self-Assessment Manikin Scales},%
+short={SAM},%
+shortplural={SAMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{paces}{}%
+{%
+\gls@defglossaryentry{paces}%
+{%
+name={PACES},%
+sort={PACES},%
+type={acronym},%
+first={Physical Activity Enjoyment Scale\glsspace (PACES)},%
+firstplural={Physical Activity Enjoyment Scales\glsspace (PACESs)},%
+text={PACES},%
+plural={PACESs},%
+description={Physical Activity Enjoyment Scale},%
+descriptionplural={Physical Activity Enjoyment Scale\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Physical Activity Enjoyment Scale},%
+longplural={Physical Activity Enjoyment Scales},%
+short={PACES},%
+shortplural={PACESs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{geq}{}%
+{%
+\gls@defglossaryentry{geq}%
+{%
+name={GEQ},%
+sort={GEQ},%
+type={acronym},%
+first={Game Experience/Engagement Questionnaire\glsspace (GEQ)},%
+firstplural={Game Experience/Engagement Questionnaires\glsspace (GEQs)},%
+text={GEQ},%
+plural={GEQs},%
+description={Game Experience/Engagement Questionnaire},%
+descriptionplural={Game Experience/Engagement Questionnaire\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Game Experience/Engagement Questionnaire},%
+longplural={Game Experience/Engagement Questionnaires},%
+short={GEQ},%
+shortplural={GEQs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sus}{}%
+{%
+\gls@defglossaryentry{sus}%
+{%
+name={SUS},%
+sort={SUS},%
+type={acronym},%
+first={System Usability Scale\glsspace (SUS)},%
+firstplural={System Usability Scales\glsspace (SUSs)},%
+text={SUS},%
+plural={SUSs},%
+description={System Usability Scale},%
+descriptionplural={System Usability Scale\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={System Usability Scale},%
+longplural={System Usability Scales},%
+short={SUS},%
+shortplural={SUSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

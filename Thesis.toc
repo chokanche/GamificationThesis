@@ -5,37 +5,29 @@
 \contentsline {chapter}{Contents}{vii}{chapter*.4}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.5}
 \contentsline {chapter}{List of Tables}{xi}{chapter*.6}
-\contentsline {chapter}{\numberline {1}Literature review}{3}{chapter.7}
-\contentsline {section}{\numberline {1.1}Warm Up in Sports}{4}{section.9}
-\contentsline {subsection}{\numberline {1.1.1}The Importance of Physical Activity}{4}{subsection.10}
-\contentsline {subsection}{\numberline {1.1.2}Overview of Sports Injury}{4}{subsection.11}
-\contentsline {subsection}{\numberline {1.1.3}Defining Warm Up}{6}{subsection.13}
-\contentsline {subsection}{\numberline {1.1.4}The Benefits of Warm Up}{6}{subsection.14}
-\contentsline {subsection}{\numberline {1.1.5}The Types of Warm Up}{7}{subsection.15}
-\contentsline {section}{\numberline {1.2}Gamification and Exergames}{9}{section.16}
-\contentsline {subsection}{\numberline {1.2.1}Video Games and Exercise}{9}{subsection.17}
-\contentsline {subsection}{\numberline {1.2.2}A Primer on Gamification}{9}{subsection.19}
-\contentsline {paragraph}{Defining Gamification}{11}{figure.caption.25}
-\contentsline {subsection}{\numberline {1.2.3}A Primer on Exergames}{13}{subsection.28}
-\contentsline {paragraph}{Defining Exergames}{15}{figure.caption.30}
-\contentsline {section}{\numberline {1.3}Theories of Motivation}{17}{section.31}
-\contentsline {subsection}{\numberline {1.3.1}The Rules of Motivation}{17}{subsection.32}
-\contentsline {subsection}{\numberline {1.3.2}Self Determination Theory}{18}{subsection.33}
-\contentsline {subsubsection}{\numberline {1.3.2.1}SDT and Gamification}{22}{subsubsection.36}
-\contentsline {subsection}{\numberline {1.3.3}State of Flow}{23}{subsection.37}
-\contentsline {subsubsection}{\numberline {1.3.3.1}Flow and Gamification}{26}{subsubsection.40}
-\contentsline {subsection}{\numberline {1.3.4}Motivation and Sports}{27}{subsection.42}
-\contentsline {subsection}{\numberline {1.3.5}Player Types}{27}{subsection.43}
-\contentsline {paragraph}{Bartle's Four Player Types}{28}{section*.44}
-\contentsline {paragraph}{Marczewski's User Types Hexed}{29}{figure.caption.45}
-\contentsline {subsection}{\numberline {1.3.6}Gamificaton elements}{31}{subsection.47}
-\contentsline {paragraph}{Dynamics}{33}{figure.caption.49}
-\contentsline {paragraph}{Mechanics}{34}{section*.50}
-\contentsline {paragraph}{Components}{34}{section*.50}
-\contentsline {subsubsection}{\numberline {1.3.6.1}Elements and Player Types}{38}{subsubsection.59}
-\contentsline {subsubsection}{\numberline {1.3.6.2}Gamification Design}{38}{subsubsection.60}
-\contentsline {subsection}{\numberline {1.3.7}Gamification of Health and Fitness}{38}{subsection.61}
-\contentsline {chapter}{Appendices}{39}{section*.62}
-\vspace {2em}
-\contentsline {chapter}{\numberline {A}Major Causes of Sports Injuries}{41}{Appendix.63}
-\contentsline {chapter}{Bibliography}{43}{chapter*.65}
+\contentsline {chapter}{\numberline {1}Study Design}{3}{chapter.7}
+\contentsline {section}{\numberline {1.1}Description of the Experiment}{3}{section.8}
+\contentsline {subsection}{\numberline {1.1.1}Introduction and Goals}{3}{subsection.9}
+\contentsline {subsubsection}{\numberline {1.1.1.1}Hypotheses}{4}{subsubsection.14}
+\contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{5}{subsubsection.18}
+\contentsline {subsection}{\numberline {1.1.2}Methods}{5}{subsection.19}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{5}{subsubsection.20}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{6}{subsubsection.21}
+\contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Groups}{6}{subsubsection.24}
+\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{6}{subsubsection.25}
+\contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{8}{subsubsection.26}
+\contentsline {subsubsection}{\numberline {1.1.2.6}Design}{8}{subsubsection.27}
+\contentsline {subsubsection}{\numberline {1.1.2.7}Procedure}{9}{subsubsection.28}
+\contentsline {subsubsection}{\numberline {1.1.2.8}Independent and Dependent Variables}{10}{subsubsection.29}
+\contentsline {subsection}{\numberline {1.1.3}Problems/Limitations - Threats to Validity}{10}{subsection.30}
+\contentsline {section}{\numberline {1.2}Results}{10}{section.31}
+\contentsline {section}{\numberline {1.3}Discussion}{11}{section.32}
+\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{11}{subsection.33}
+\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{11}{subsection.34}
+\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{11}{subsection.35}
+\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{11}{subsection.36}
+\contentsline {subsection}{\numberline {1.3.5}Research agenda}{11}{subsection.37}
+\contentsline {section}{\numberline {1.4}Conclusions}{12}{section.38}
+\contentsline {chapter}{Appendices}{13}{section*.39}
+\contentsline {chapter}{\numberline {A}Self-Assessment Manikin Scale}{15}{Appendix.40}
+\contentsline {chapter}{Bibliography}{17}{chapter*.41}

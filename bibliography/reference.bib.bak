@@ -5,6 +5,52 @@
   publisher={Springer}
 }
 
+@article{fuchs2015messung,
+  title={Messung der bewegungs-und sportaktivit{\"a}t mit dem BSA-fragebogen: eine methodische zwischenbilanz},
+  author={Fuchs, Reinhard and Klaperski, Sandra and Gerber, Markus and Seelig, Harald},
+  journal={Zeitschrift f{\"u}r Gesundheitspsychologie},
+  volume={23},
+  number={2},
+  pages={60--76},
+  year={2015},
+  publisher={Hogrefe Verlag G{\"o}ttingen}
+}
+
+@article{kendzierski1991physical,
+  title={Physical activity enjoyment scale: Two validation studies},
+  author={Kendzierski, Deborah and DeCarlo, Kenneth J},
+  journal={Journal of Sport and Exercise Psychology},
+  volume={13},
+  number={1},
+  pages={50--64},
+  year={1991}
+}
+@article{bradley1994measuring,
+  title={Measuring emotion: the self-assessment manikin and the semantic differential},
+  author={Bradley, Margaret M and Lang, Peter J},
+  journal={Journal of behavior therapy and experimental psychiatry},
+  volume={25},
+  number={1},
+  pages={49--59},
+  year={1994},
+  publisher={Elsevier}
+}
+
+@book{borg1998borg,
+  title={Borg's perceived exertion and pain scales.},
+  author={Borg, Gunnar},
+  year={1998},
+  publisher={Human kinetics}
+}
+
+@article{thomas1992revision,
+  title={Revision of the Physical Activity Readiness Questionnaire (PAR-Q).},
+  author={Thomas, Scott and Reading, Jeff and Shephard, Roy J},
+  journal={Canadian journal of sport sciences},
+  year={1992},
+  publisher={Human Kinetics}
+}
+
 @article{warburton2006health,
   title={Health benefits of physical activity: the evidence},
   author={Warburton, Darren ER and Nicol, Crystal Whitney and Bredin, Shannon SD},
