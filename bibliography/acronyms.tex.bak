@@ -2,6 +2,7 @@
 \newacronym{fmarc}{F-MARC}{FIFA Medical and Research Centre}
 \newacronym{avg}{AVG}{Active Video Gaming}
 \newacronym{sdt}{SDT}{Self Determination Theory}
+\newacronym{flow}{FLOW}{The State of Flow}
 \newacronym{cet}{CET}{Cognitive Evaluation Theory}
 \newacronym{oit}{OIT}{Organismic Integration Theory}
 \newacronym{bsa}{BSA-F}{Bewegungs und Sportaktivit\"at Fragebogen}
@@ -11,3 +12,9 @@
 \newacronym{paces}{PACES}{Physical Activity Enjoyment Scale}
 \newacronym{geq}{GEQ}{Game Experience/Engagement Questionnaire}
 \newacronym{sus}{SUS}{System Usability Scale}
+\newacronym{ucd}{UCD}{User Centered Design}
+\newacronym{dsf}{DSF-2}{Dispositional Flow Scale - 2}
+\newacronym{mud}{MUD}{Multi-User Dungeon}
+\newacronym{hexad}{The Hexad Model}{Gamification User Types Hexad}
+\newacronym{pbl}{The PBL Triad}{The Point-Badge- Leaderboard Triad}
+\newacronym{mda}{MDA}{The Mechanics-Dynamics-Aesthetics Framework}

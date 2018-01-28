@@ -118,6 +118,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{flow}{}%
+{%
+\gls@defglossaryentry{flow}%
+{%
+name={FLOW},%
+sort={FLOW},%
+type={acronym},%
+first={The State of Flow\glsspace (FLOW)},%
+firstplural={The State of Flows\glsspace (FLOWs)},%
+text={FLOW},%
+plural={FLOWs},%
+description={The State of Flow},%
+descriptionplural={The State of Flow\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={The State of Flow},%
+longplural={The State of Flows},%
+short={FLOW},%
+shortplural={FLOWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{cet}{}%
 {%
 \gls@defglossaryentry{cet}%
@@ -383,6 +413,186 @@ long={System Usability Scale},%
 longplural={System Usability Scales},%
 short={SUS},%
 shortplural={SUSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ucd}{}%
+{%
+\gls@defglossaryentry{ucd}%
+{%
+name={UCD},%
+sort={UCD},%
+type={acronym},%
+first={User Centered Design\glsspace (UCD)},%
+firstplural={User Centered Designs\glsspace (UCDs)},%
+text={UCD},%
+plural={UCDs},%
+description={User Centered Design},%
+descriptionplural={User Centered Design\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={User Centered Design},%
+longplural={User Centered Designs},%
+short={UCD},%
+shortplural={UCDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dsf}{}%
+{%
+\gls@defglossaryentry{dsf}%
+{%
+name={DSF-2},%
+sort={DSF-2},%
+type={acronym},%
+first={Dispositional Flow Scale - 2\glsspace (DSF-2)},%
+firstplural={Dispositional Flow Scale - 2s\glsspace (DSF-2s)},%
+text={DSF-2},%
+plural={DSF-2s},%
+description={Dispositional Flow Scale - 2},%
+descriptionplural={Dispositional Flow Scale - 2\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dispositional Flow Scale - 2},%
+longplural={Dispositional Flow Scale - 2s},%
+short={DSF-2},%
+shortplural={DSF-2s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mud}{}%
+{%
+\gls@defglossaryentry{mud}%
+{%
+name={MUD},%
+sort={MUD},%
+type={acronym},%
+first={Multi-User Dungeon\glsspace (MUD)},%
+firstplural={Multi-User Dungeons\glsspace (MUDs)},%
+text={MUD},%
+plural={MUDs},%
+description={Multi-User Dungeon},%
+descriptionplural={Multi-User Dungeon\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Multi-User Dungeon},%
+longplural={Multi-User Dungeons},%
+short={MUD},%
+shortplural={MUDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hexad}{}%
+{%
+\gls@defglossaryentry{hexad}%
+{%
+name={The Hexad Model},%
+sort={The Hexad Model},%
+type={acronym},%
+first={Gamification User Types Hexad\glsspace (The Hexad Model)},%
+firstplural={Gamification User Types Hexads\glsspace (The Hexad Models)},%
+text={The Hexad Model},%
+plural={The Hexad Models},%
+description={Gamification User Types Hexad},%
+descriptionplural={Gamification User Types Hexad\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Gamification User Types Hexad},%
+longplural={Gamification User Types Hexads},%
+short={The Hexad Model},%
+shortplural={The Hexad Models},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pbl}{}%
+{%
+\gls@defglossaryentry{pbl}%
+{%
+name={The PBL Triad},%
+sort={The PBL Triad},%
+type={acronym},%
+first={The Point-Badge- Leaderboard Triad\glsspace (The PBL Triad)},%
+firstplural={The Point-Badge- Leaderboard Triads\glsspace (The PBL Triads)},%
+text={The PBL Triad},%
+plural={The PBL Triads},%
+description={The Point-Badge- Leaderboard Triad},%
+descriptionplural={The Point-Badge- Leaderboard Triad\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={The Point-Badge- Leaderboard Triad},%
+longplural={The Point-Badge- Leaderboard Triads},%
+short={The PBL Triad},%
+shortplural={The PBL Triads},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mda}{}%
+{%
+\gls@defglossaryentry{mda}%
+{%
+name={MDA},%
+sort={MDA},%
+type={acronym},%
+first={The Mechanics-Dynamics-Aesthetics Framework\glsspace (MDA)},%
+firstplural={The Mechanics-Dynamics-Aesthetics Frameworks\glsspace (MDAs)},%
+text={MDA},%
+plural={MDAs},%
+description={The Mechanics-Dynamics-Aesthetics Framework},%
+descriptionplural={The Mechanics-Dynamics-Aesthetics Framework\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={The Mechanics-Dynamics-Aesthetics Framework},%
+longplural={The Mechanics-Dynamics-Aesthetics Frameworks},%
+short={MDA},%
+shortplural={MDAs},%
 counter={page},%
 parent={},%
 %
