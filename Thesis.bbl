@@ -10,6 +10,12 @@ H.~O. Mayr, S.~Zaffagnini, {\em et~al.}, {\em Prevention of Injuries and
   \url{https://www.spaceotechnologies.com/fitness-apps-gaining-popularity-hire-iphone-app-developer-now/}.
 \newblock Accessed: 2017-12-20.
 
+\bibitem{hamari2014does}
+J.~Hamari, J.~Koivisto, and H.~Sarsa, ``Does gamification work?--a literature
+  review of empirical studies on gamification,'' in {\em System Sciences
+  (HICSS), 2014 47th Hawaii International Conference on}, pp.~3025--3034, IEEE,
+  2014.
+
 \bibitem{deterding2011game}
 S.~Deterding, D.~Dixon, R.~Khaled, and L.~Nacke, ``From game design elements to
   gamefulness: defining gamification,'' in {\em Proceedings of the 15th
@@ -55,11 +61,6 @@ K.~Werbach and D.~Hunter, {\em For the win: How game thinking can revolutionize
   your business}.
 \newblock Wharton Digital Press, 2012.
 
-\bibitem{lefevre2016major}
-N.~Lefevre, Y.~Bohu, S.~Herman, S.~Klouche, and E.~Servien, ``Major causes of
-  sports injuries,'' in {\em Prevention of Injuries and Overuse in Sports},
-  pp.~15--25, Springer, 2016.
-
 \bibitem{warburton2006health}
 D.~E. Warburton, C.~W. Nicol, and S.~S. Bredin, ``Health benefits of physical
   activity: the evidence,'' {\em Canadian medical association journal},
@@ -74,6 +75,11 @@ P.~Edouard, N.~Feddermann-Demont, J.~M. Alonso, P.~Branco, and A.~Junge, ``Sex
   differences in injury during top-level international athletics championships:
   surveillance data from 14 championships between 2007 and 2014,'' {\em British
   journal of sports medicine}, vol.~49, no.~7, pp.~472--477, 2015.
+
+\bibitem{lefevre2016major}
+N.~Lefevre, Y.~Bohu, S.~Herman, S.~Klouche, and E.~Servien, ``Major causes of
+  sports injuries,'' in {\em Prevention of Injuries and Overuse in Sports},
+  pp.~15--25, Springer, 2016.
 
 \bibitem{fischer2016causes}
 F.~Fischer, J.~Menetrey, M.~Herbort, P.~Gf{\"o}ller, C.~Hepperger, and C.~Fink,
@@ -219,24 +225,18 @@ A.~J. Fradkin, T.~R. Zazryn, and J.~M. Smoliga, ``Effects of warming-up on
 ``Codeacademy- gamafication.'' \url{https://badgeville.com/}.
 \newblock Accessed: 2017-01-20.
 
-\bibitem{hamari2014does}
-J.~Hamari, J.~Koivisto, and H.~Sarsa, ``Does gamification work?--a literature
-  review of empirical studies on gamification,'' in {\em System Sciences
-  (HICSS), 2014 47th Hawaii International Conference on}, pp.~3025--3034, IEEE,
-  2014.
-
 \bibitem{marczewski2013gamification}
 A.~Marczewski, {\em Gamification: a simple introduction}.
 \newblock Andrzej Marczewski, 2013.
+
+\bibitem{toGamify}
+``Gamify - a definition.'' \url{https://badgeville.com/wiki/Gamify/}.
+\newblock Accessed: 2017-01-20.
 
 \bibitem{kapp2012gamification}
 K.~M. Kapp, {\em The gamification of learning and instruction: game-based
   methods and strategies for training and education}.
 \newblock John Wiley \& Sons, 2012.
-
-\bibitem{toGamify}
-``Gamify - a definition.'' \url{https://badgeville.com/wiki/Gamify}.
-\newblock Accessed: 2017-01-20.
 
 \bibitem{salen2004rules}
 K.~Salen and E.~Zimmerman, {\em Rules of play: Game design fundamentals}.
@@ -250,6 +250,16 @@ J.~Juul, {\em Half-real: Video games between real rules and fictional worlds}.
 ``{Game design elements} definition.''
   \url{https://en.wikipedia.org/wiki/Game_design#Design_elements}.
 \newblock Accessed: 2017-01-20.
+
+\bibitem{seaborn2015gamification}
+K.~Seaborn and D.~I. Fels, ``Gamification in theory and action: A survey,''
+  {\em International Journal of human-computer studies}, vol.~74, pp.~14--31,
+  2015.
+
+\bibitem{gamifDesign}
+``Game design and gamification design.''
+  \url{https://www.gamified.uk/2014/03/25/gamification-design-vs-game-design/}.
+\newblock Accessed: 2018-01-20.
 
 \bibitem{staiano2011exergames}
 A.~E. Staiano and S.~L. Calvert, ``Exergames for physical education courses:
@@ -305,16 +315,6 @@ G.~Zichermann and C.~Cunningham, {\em Gamification by design: Implementing game
   mechanics in web and mobile apps}.
 \newblock " O'Reilly Media, Inc.", 2011.
 
-\bibitem{gamificationPurpose}
-``The purpose of gamification.'' \url{
-  http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html/}.
-\newblock Accessed: 2017-12-20.
-
-\bibitem{pardee1990motivation}
-R.~L. Pardee, ``Motivation theories of maslow, herzberg, mcgregor \&
-  mcclelland. a literature review of selected theories dealing with job
-  satisfaction and motivation.,'' 1990.
-
 \bibitem{ryan2000self}
 R.~M. Ryan and E.~L. Deci, ``Self-determination theory and the facilitation of
   intrinsic motivation, social development, and well-being.,'' {\em American
@@ -324,6 +324,16 @@ R.~M. Ryan and E.~L. Deci, ``Self-determination theory and the facilitation of
 E.~L. Deci and R.~M. Ryan, ``The" what" and" why" of goal pursuits: Human needs
   and the self-determination of behavior,'' {\em Psychological inquiry},
   vol.~11, no.~4, pp.~227--268, 2000.
+
+\bibitem{gamificationPurpose}
+``The purpose of gamification.'' \url{
+  http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html/}.
+\newblock Accessed: 2017-12-20.
+
+\bibitem{pardee1990motivation}
+R.~L. Pardee, ``Motivation theories of maslow, herzberg, mcgregor \&
+  mcclelland. a literature review of selected theories dealing with job
+  satisfaction and motivation.,'' 1990.
 
 \bibitem{zichermann2012}
 ``Intrinsic and extrinsic motivation in gamification.''
@@ -415,45 +425,5 @@ E.~D. Mekler, F.~Br{\"u}hlmann, K.~Opwis, and A.~N. Tuch, ``Do points, levels
   gamification elements,'' in {\em Proceedings of the First International
   Conference on gameful design, research, and applications}, pp.~66--73, ACM,
   2013.
-
-\bibitem{amateurvsproffesional}
-``Amateur vs. professional athletes.''
-  \url{https://education.uslegal.com/amateur-athletics/amateur-vs-professional-athletes/}.
-\newblock Accessed: 2017-07-01.
-
-\bibitem{kay2012effect}
-A.~D. Kay and A.~J. Blazevich, ``Effect of acute static stretch on maximal
-  muscle performance: a systematic review,'' {\em Medicine \& Science in Sports
-  \& Exercise}, vol.~44, no.~1, pp.~154--164, 2012.
-
-\bibitem{avatar}
-``The psychology of video game avatars.''
-  \url{http://www.psychologyofgames.com/2013/11/the-psychology-of-video-game-avatars/}.
-\newblock Accessed: 2017-10-25.
-
-\bibitem{fuchs2015messung}
-R.~Fuchs, S.~Klaperski, M.~Gerber, and H.~Seelig, ``Messung der bewegungs-und
-  sportaktivit{\"a}t mit dem bsa-fragebogen: eine methodische zwischenbilanz,''
-  {\em Zeitschrift f{\"u}r Gesundheitspsychologie}, vol.~23, no.~2, pp.~60--76,
-  2015.
-
-\bibitem{thomas1992revision}
-S.~Thomas, J.~Reading, and R.~J. Shephard, ``Revision of the physical activity
-  readiness questionnaire (par-q).,'' {\em Canadian journal of sport sciences},
-  1992.
-
-\bibitem{borg1998borg}
-G.~Borg, {\em Borg's perceived exertion and pain scales.}
-\newblock Human kinetics, 1998.
-
-\bibitem{bradley1994measuring}
-M.~M. Bradley and P.~J. Lang, ``Measuring emotion: the self-assessment manikin
-  and the semantic differential,'' {\em Journal of behavior therapy and
-  experimental psychiatry}, vol.~25, no.~1, pp.~49--59, 1994.
-
-\bibitem{kendzierski1991physical}
-D.~Kendzierski and K.~J. DeCarlo, ``Physical activity enjoyment scale: Two
-  validation studies,'' {\em Journal of Sport and Exercise Psychology},
-  vol.~13, no.~1, pp.~50--64, 1991.
 
 \end{thebibliography}

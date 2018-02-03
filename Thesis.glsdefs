@@ -58,6 +58,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{fifa}{}%
+{%
+\gls@defglossaryentry{fifa}%
+{%
+name={FIFA 11+},%
+sort={FIFA 11+},%
+type={acronym},%
+first={FIFA 11+ Warm Up Program\glsspace (FIFA 11+)},%
+firstplural={FIFA 11+ Warm Up Programs\glsspace (FIFA 11+s)},%
+text={FIFA 11+},%
+plural={FIFA 11+s},%
+description={FIFA 11+ Warm Up Program},%
+descriptionplural={FIFA 11+ Warm Up Program\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={FIFA 11+ Warm Up Program},%
+longplural={FIFA 11+ Warm Up Programs},%
+short={FIFA 11+},%
+shortplural={FIFA 11+s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{avg}{}%
 {%
 \gls@defglossaryentry{avg}%
