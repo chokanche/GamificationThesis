@@ -16,6 +16,24 @@
   publisher={Hogrefe Verlag G{\"o}ttingen}
 }
 
+@inproceedings{song2010effects,
+  title={The effects of competition on intrinsic motivation in exergames and the conditional indirect effects of presence},
+  author={Song, Hayeon and Kim, Jihyun and Tenzek, Kelly Elizabeth and Lee, Kwan Min},
+  booktitle={annual conference of the International Communication Association, Singapore},
+  year={2010}
+}
+
+@article{peng2012need,
+  title={Need satisfaction supportive game features as motivational determinants: An experimental study of a self-determination theory guided exergame},
+  author={Peng, Wei and Lin, Jih-Hsuan and Pfeiffer, Karin A and Winn, Brian},
+  journal={Media Psychology},
+  volume={15},
+  number={2},
+  pages={175--196},
+  year={2012},
+  publisher={Taylor \& Francis}
+}
+
 @misc{gamifDesign,
   title = {Game Design and Gamification Design},
   howpublished = {\url{https://www.gamified.uk/2014/03/25/gamification-design-vs-game-design/}},
