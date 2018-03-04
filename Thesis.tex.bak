@@ -175,8 +175,9 @@ Marko Vuji\'c
 \mainmatter
 \printglossary[type=\acronymtype]
 %\input{chapters/intro}
-\input{chapters/relatedwork}
+%\input{chapters/relatedwork}
 %\input{chapters/implementation}
+\input{chapters/finalImplementation}
 %\input{chapters/survey_one}
 %\input{chapters/studydesign}
 

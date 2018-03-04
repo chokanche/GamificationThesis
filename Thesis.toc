@@ -5,31 +5,14 @@
 \contentsline {chapter}{Contents}{vii}{chapter*.4}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.5}
 \contentsline {chapter}{List of Tables}{xi}{chapter*.6}
-\contentsline {chapter}{\numberline {1}Literature review}{3}{chapter.7}
-\contentsline {section}{\numberline {1.1}Warm Up in Sports}{4}{section.9}
-\contentsline {subsection}{\numberline {1.1.1}The Importance of Physical Activity}{4}{subsection.10}
-\contentsline {subsection}{\numberline {1.1.2}Overview of Sports Injury}{4}{subsection.11}
-\contentsline {subsection}{\numberline {1.1.3}Defining Warm Up}{6}{subsection.13}
-\contentsline {subsection}{\numberline {1.1.4}The Benefits of Warm Up}{6}{subsection.14}
-\contentsline {subsection}{\numberline {1.1.5}Types of Warm Up}{7}{subsection.15}
-\contentsline {section}{\numberline {1.2}Gamification and Exergames}{9}{section.16}
-\contentsline {subsection}{\numberline {1.2.1}Video Games and Exercise}{9}{subsection.17}
-\contentsline {subsection}{\numberline {1.2.2}A Primer on Gamification}{9}{subsection.19}
-\contentsline {paragraph}{Defining Gamification}{11}{figure.caption.25}
-\contentsline {subsection}{\numberline {1.2.3}A Primer on Exergames}{13}{subsection.28}
-\contentsline {paragraph}{Defining Exergames}{15}{figure.caption.30}
-\contentsline {section}{\numberline {1.3}Theories of Motivation}{16}{section.31}
-\contentsline {subsection}{\numberline {1.3.1}The Rules of Motivation}{16}{subsection.32}
-\contentsline {subsection}{\numberline {1.3.2}Self Determination Theory}{17}{subsection.33}
-\contentsline {subsubsection}{\numberline {1.3.2.1}SDT, Gamification and Exergames}{21}{subsubsection.36}
-\contentsline {subsection}{\numberline {1.3.3}State of Flow}{23}{subsection.37}
-\contentsline {subsubsection}{\numberline {1.3.3.1}Flow, Gamification and Exergames}{26}{subsubsection.40}
-\contentsline {chapter}{\numberline {2}Gamification Elements}{29}{chapter.42}
-\contentsline {section}{\numberline {2.1}Bartle's Four Player Types}{29}{section.43}
-\contentsline {section}{\numberline {2.2}Marczewski's User Types Hexad}{31}{section.45}
-\contentsline {subsection}{\numberline {2.2.1}Game design elements}{32}{subsection.47}
-\contentsline {paragraph}{Dynamics}{34}{figure.caption.49}
-\contentsline {paragraph}{Mechanics}{35}{section*.50}
-\contentsline {paragraph}{Components}{36}{section*.50}
-\contentsline {subsubsection}{\numberline {2.2.1.1}Elements and Player Types}{39}{subsubsection.59}
-\contentsline {chapter}{Bibliography}{41}{chapter*.60}
+\contentsline {chapter}{\numberline {1}Final Design Overview}{3}{chapter.7}
+\contentsline {section}{\numberline {1.1}A Modular Design Approach}{3}{section.8}
+\contentsline {section}{\numberline {1.2}Home Window Overview}{4}{section.9}
+\contentsline {paragraph}{Start Menu}{5}{figure.caption.10}
+\contentsline {paragraph}{Help Menu}{6}{figure.caption.13}
+\contentsline {paragraph}{Volume Menu}{7}{figure.caption.14}
+\contentsline {paragraph}{High Score Menu}{7}{figure.caption.15}
+\contentsline {paragraph}{Quit Menu}{7}{figure.caption.16}
+\contentsline {section}{\numberline {1.3}Game Segments Overview}{8}{section.17}
+\contentsline {section}{\numberline {1.4}Game End Overview}{13}{section.33}
+\contentsline {chapter}{Bibliography}{21}{chapter*.35}
