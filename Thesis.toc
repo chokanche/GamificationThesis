@@ -7,12 +7,14 @@
 \contentsline {chapter}{List of Tables}{xi}{chapter*.6}
 \contentsline {chapter}{\numberline {1}Final Design Overview}{3}{chapter.7}
 \contentsline {section}{\numberline {1.1}A Modular Design Approach}{3}{section.8}
-\contentsline {section}{\numberline {1.2}Home Window Overview}{4}{section.9}
-\contentsline {paragraph}{Start Menu}{5}{figure.caption.10}
+\contentsline {section}{\numberline {1.2}Discussions With Fitness Experts}{4}{section.9}
+\contentsline {section}{\numberline {1.3}Home Window Overview}{5}{section.11}
+\contentsline {paragraph}{Start Menu}{6}{figure.caption.12}
 \contentsline {paragraph}{Help Menu}{6}{figure.caption.13}
 \contentsline {paragraph}{Volume Menu}{7}{figure.caption.14}
-\contentsline {paragraph}{High Score Menu}{7}{figure.caption.15}
-\contentsline {paragraph}{Quit Menu}{7}{figure.caption.16}
-\contentsline {section}{\numberline {1.3}Game Segments Overview}{8}{section.17}
-\contentsline {section}{\numberline {1.4}Game End Overview}{13}{section.33}
-\contentsline {chapter}{Bibliography}{21}{chapter*.35}
+\contentsline {paragraph}{High Score Menu}{8}{figure.caption.15}
+\contentsline {paragraph}{Quit Menu}{8}{figure.caption.16}
+\contentsline {section}{\numberline {1.4}Game Start Overview}{8}{section.17}
+\contentsline {section}{\numberline {1.5}Game Segments Overview}{10}{section.21}
+\contentsline {section}{\numberline {1.6}Game End Overview}{25}{section.48}
+\contentsline {chapter}{Bibliography}{27}{chapter*.50}

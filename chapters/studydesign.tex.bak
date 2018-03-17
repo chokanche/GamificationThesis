@@ -63,16 +63,41 @@ Based on the research questions outlined in the previous section, the following 
 \pagebreak
 %Introduce your experiment, and give the reader the specific goals you expect it to address. It is common at this stage to give the reader a hint of your hypotheses (if they are not already hinted at in the Introduction).%
 \subsubsection{Apparatus}
-The experiment was conducted in the laboratory room in DFKI on (add date). Description of the room - measures to be added. The following equipment has been used:
+The experiment was conducted in the laboratory room in DFKI on (add date). The laboratory is presented in Figure \ref{fig:lab1}.\\ 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Room1}
+    \caption{Laboratory.}
+    \label{fig:lab1}
+\end{figure}\\
+The following equipment has been used during the experiment:
 \begin{itemize}
 \item Kinect for Xbox One (2.0 2013) motion sensing input devices by Microsoft used for movement detection and controlling the exergame avatar. 
 \item PC running the game engine.
 \item Projector used to display the game (video) on the wall in front of the participant.
 \item Microsoft Band used for gathering heart rate data.
 \item Goniometer used for measuring participants' ROM.
-\end{itemize}
-TODO: describe where and how is the equipment positioned.
-
+\end{itemize}\pagebreak
+The Kinect motion sensor has been placed in front of the display panel facing the participant playing the exergame. The participant was instructed to keep at least 2 meter distance from the sensor during the gameplay. This distance was the most optimal in order to ... The sensor is presented in Figure \ref{fig:kinect}.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Kinect}
+    \caption{Kinect motion sensor.}
+    \label{fig:kinect}
+\end{figure}\\
+We used XXX beamer in order to project the exergame to the display. The beamer, showed in Figure \ref{fig:projector} was placed above the user so it did not interfere with the game flow. The desktop set up that consisted of XXX is presented in Figure \ref{fig:desktop}.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Desktop}
+    \caption{Desktop set up.}
+    \label{fig:desktop}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Projector}
+    \caption{Projector.}
+    \label{fig:projector}
+\end{figure}
 \subsection{Methods} 
 In this section we outline the methodology adopted for the Immotion exergame evaluation. For this purpose we utilize the traditional (moderated) usability test since it gives direct input on how real users use the system. %First, we measure users' performance. That is, we measure the time users' will spend performing the warm up exercises with the exergame and with the video. The amount of time users' feel warmed up sufficiently. 
 %We decide to follow a mixed-methods approach, and by doing so, utilize both qualitative and quantitative data sources in combination. Second, we measure users' satisfaction level. What the user thinks about his interaction with the product (visually appealing) 

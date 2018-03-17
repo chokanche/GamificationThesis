@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  4 MAR 2018 12:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  17 MAR 2018 19:21
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1763,7 +1763,14 @@ Package: l3keys2e 2017/09/18 LaTeX2e option processing using LaTeX3 keys
 Package: translator 2010/06/12 ver 1.10
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator-language-m
-appings.tex"))) (Thesis.aux)
+appings.tex"))) (Thesis.aux
+
+LaTeX Warning: Label `fig:expertLeftDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:squatlong' multiply defined.
+
+)
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -1787,8 +1794,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
@@ -1971,7 +1977,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=70, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=78, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 
 <use ./Template_Figures/saarland_logo.png>
@@ -1979,7 +1985,7 @@ Package pdftex.def Info: ./Template_Figures/saarland_logo.png used on input lin
 e 87.
 (pdftex.def)             Requested size: 62.7342pt x 61.73045pt.
 
-<./Template_Figures/logo_dfki.png, id=71, 123.0999pt x 45.5301pt>
+<./Template_Figures/logo_dfki.png, id=79, 123.0999pt x 45.5301pt>
 File: ./Template_Figures/logo_dfki.png Graphic file (type png)
 
 <use ./Template_Figures/logo_dfki.png>
@@ -2021,17 +2027,17 @@ nd_logo.png> <./Template_Figures/logo_dfki.png>] [2
 
  [7] [8
 
-] (Thesis.lof)
+] (Thesis.lof [9])
 \tf@lof=\write10
 \openout10 = `Thesis.lof'.
 
- [9] [10
-
-] (Thesis.lot)
+ [10] (Thesis.lot)
 \tf@lot=\write11
 \openout11 = `Thesis.lot'.
 
- [11] [12
+ [11
+
+] [12
 
 
 ]
@@ -2043,247 +2049,355 @@ Chapter 1.
 ------------------------------------------------------------------------------
  1 Final Design Overview
 ------------------------------------------------------------------------------
-[3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+<figures/expertsDesign.png, id=233, 1994.95313pt x 1460.45625pt>
+File: figures/expertsDesign.png Graphic file (type png)
+
+<use figures/expertsDesign.png>
+Package pdftex.def Info: figures/expertsDesign.png used on input line 9.
+(pdftex.def)             Requested size: 453.60808pt x 332.0649pt.
+ [3] [4 <./figures/expertsDesign.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
 
-<figures/Start.png, id=201, 927.465pt x 504.08325pt>
+<figures/Start.png, id=246, 927.465pt x 504.08325pt>
 File: figures/Start.png Graphic file (type png)
  <use figures/Start.png>
-Package pdftex.def Info: figures/Start.png used on input line 16.
+Package pdftex.def Info: figures/Start.png used on input line 25.
 (pdftex.def)             Requested size: 453.60808pt x 246.54144pt.
 
-[4 <./figures/Start.png>]
+[5 <./figures/Start.png>]
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 21.
+(hyperref)                than one, level fixed on input line 30.
 
-<figures/EnterName.png, id=210, 929.27174pt x 498.663pt>
+
+LaTeX Warning: Reference `fig:individualScore' on page 6 undefined on input lin
+e 31.
+
+<figures/EnterName.png, id=254, 831.105pt x 479.54156pt>
 File: figures/EnterName.png Graphic file (type png)
 
 <use figures/EnterName.png>
-Package pdftex.def Info: figures/EnterName.png used on input line 25.
-(pdftex.def)             Requested size: 453.60808pt x 243.4187pt.
+Package pdftex.def Info: figures/EnterName.png used on input line 34.
+(pdftex.def)             Requested size: 453.60808pt x 261.72913pt.
 
-<figures/Counter.png, id=214, 926.2605pt x 508.299pt>
-File: figures/Counter.png Graphic file (type png)
-
-<use figures/Counter.png>
-Package pdftex.def Info: figures/Counter.png used on input line 32.
-(pdftex.def)             Requested size: 453.60808pt x 248.92131pt.
-
-<figures/WaitingForUser.png, id=215, 929.27174pt x 519.1395pt>
-File: figures/WaitingForUser.png Graphic file (type png)
-
-<use figures/WaitingForUser.png>
-Package pdftex.def Info: figures/WaitingForUser.png used on input line 38.
-(pdftex.def)             Requested size: 453.60808pt x 253.41415pt.
- [5 <./figures/EnterName.png>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 43.
+(hyperref)                than one, level fixed on input line 38.
 
-<figures/Help.png, id=221, 928.6695pt x 516.7305pt>
+<figures/Help.png, id=256, 746.79pt x 438.13687pt>
 File: figures/Help.png Graphic file (type png)
  <use figures/Help.png>
-Package pdftex.def Info: figures/Help.png used on input line 47.
-(pdftex.def)             Requested size: 453.60808pt x 252.39592pt.
+Package pdftex.def Info: figures/Help.png used on input line 42.
+(pdftex.def)             Requested size: 453.60808pt x 266.12657pt.
 
-[6 <./figures/Counter.png> <./figures/WaitingForUser.png>]
-<figures/Volume.png, id=227, 925.65825pt x 500.46976pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/Volume.png, id=258, 925.65825pt x 500.46976pt>
 File: figures/Volume.png Graphic file (type png)
 
 <use figures/Volume.png>
-Package pdftex.def Info: figures/Volume.png used on input line 55.
+Package pdftex.def Info: figures/Volume.png used on input line 50.
 (pdftex.def)             Requested size: 453.60808pt x 245.25523pt.
+ [6 <./figures/EnterName.png>]
 
+LaTeX Warning: Reference `fig:individualScore' on page 7 undefined on input lin
+e 55.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/HighScore.png, id=230, 927.465pt x 527.571pt>
+<figures/HighScore.png, id=264, 804.75656pt x 459.96844pt>
 File: figures/HighScore.png Graphic file (type png)
 
 <use figures/HighScore.png>
-Package pdftex.def Info: figures/HighScore.png used on input line 63.
-(pdftex.def)             Requested size: 453.60808pt x 258.02905pt.
+Package pdftex.def Info: figures/HighScore.png used on input line 58.
+(pdftex.def)             Requested size: 453.60808pt x 259.26501pt.
+ [7 <./figures/Help.png> <./figures/Volume.png>]
 
+LaTeX Warning: Reference `fig:individualScore' on page 8 undefined on input lin
+e 65.
+
+<figures/Counter.png, id=272, 926.2605pt x 508.299pt>
+File: figures/Counter.png Graphic file (type png)
+
+<use figures/Counter.png>
+Package pdftex.def Info: figures/Counter.png used on input line 68.
+(pdftex.def)             Requested size: 453.60808pt x 248.92131pt.
+
+<figures/LiveScore.png, id=273, 309.40594pt x 181.42781pt>
+File: figures/LiveScore.png Graphic file (type png)
+
+<use figures/LiveScore.png>
+Package pdftex.def Info: figures/LiveScore.png used on input line 74.
+(pdftex.def)             Requested size: 272.1676pt x 159.60713pt.
+
+<figures/WaitingForUser.png, id=274, 828.09375pt x 481.19775pt>
+File: figures/WaitingForUser.png Graphic file (type png)
+
+<use figures/WaitingForUser.png>
+Package pdftex.def Info: figures/WaitingForUser.png used on input line 80.
+(pdftex.def)             Requested size: 453.60808pt x 263.59492pt.
+ [8 <./figures/HighScore.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/SegmentsTopView.png, id=232, 455.90324pt x 340.27126pt>
+[9 <./figures/Counter.png> <./figures/LiveScore.png>]
+<figures/SegmentsTopView.png, id=285, 655.69969pt x 436.63126pt>
 File: figures/SegmentsTopView.png Graphic file (type png)
 
 <use figures/SegmentsTopView.png>
-Package pdftex.def Info: figures/SegmentsTopView.png used on input line 73.
-(pdftex.def)             Requested size: 408.24449pt x 304.71481pt.
-
-<figures/HandUpRightWolf.png, id=235, 417.9615pt x 317.988pt>
-File: figures/HandUpRightWolf.png Graphic file (type png)
-
-<use figures/HandUpRightWolf.png>
-Package pdftex.def Info: figures/HandUpRightWolf.png used on input line 80.
-(pdftex.def)             Requested size: 362.88783pt x 276.09903pt.
-
-<figures/Bridge.png, id=237, 461.3235pt x 322.806pt>
-File: figures/Bridge.png Graphic file (type png)
- <use figures/Bridge.png>
-Package pdftex.def Info: figures/Bridge.png used on input line 87.
-(pdftex.def)             Requested size: 362.88783pt x 253.9303pt.
-
-<figures/GoblinHandLeftOrRight.png, id=240, 502.2765pt x 336.0555pt>
-File: figures/GoblinHandLeftOrRight.png Graphic file (type png)
-
-<use figures/GoblinHandLeftOrRight.png>
-Package pdftex.def Info: figures/GoblinHandLeftOrRight.png used on input line 9
-4.
-(pdftex.def)             Requested size: 362.88783pt x 242.80585pt.
-
-<figures/2WolfsRight.png, id=241, 456.5055pt x 282.45525pt>
-File: figures/2WolfsRight.png Graphic file (type png)
-
-<use figures/2WolfsRight.png>
-Package pdftex.def Info: figures/2WolfsRight.png used on input line 100.
-(pdftex.def)             Requested size: 362.88783pt x 224.52928pt.
-
-<figures/JumpinJack.png, id=243, 493.24275pt x 320.397pt>
-File: figures/JumpinJack.png Graphic file (type png)
-
-<use figures/JumpinJack.png>
-Package pdftex.def Info: figures/JumpinJack.png used on input line 107.
-(pdftex.def)             Requested size: 362.88783pt x 235.73096pt.
-
-<figures/JumpLeft.png, id=246, 485.4135pt x 327.624pt>
-File: figures/JumpLeft.png Graphic file (type png)
-
-<use figures/JumpLeft.png>
-Package pdftex.def Info: figures/JumpLeft.png used on input line 114.
-(pdftex.def)             Requested size: 408.24449pt x 275.5422pt.
-
-<figures/JumpRight.png, id=247, 500.46976pt x 334.851pt>
-File: figures/JumpRight.png Graphic file (type png)
-
-<use figures/JumpRight.png>
-Package pdftex.def Info: figures/JumpRight.png used on input line 120.
-(pdftex.def)             Requested size: 408.24449pt x 273.15916pt.
-
-<figures/JumpUp.png, id=249, 450.483pt x 309.5565pt>
-File: figures/JumpUp.png Graphic file (type png)
- <use figures/JumpUp.png>
-Package pdftex.def Info: figures/JumpUp.png used on input line 127.
-(pdftex.def)             Requested size: 408.24449pt x 280.53961pt.
-
-<figures/LeftHandUp.png, id=252, 514.92375pt x 328.22626pt>
-File: figures/LeftHandUp.png Graphic file (type png)
-
-<use figures/LeftHandUp.png>
-Package pdftex.def Info: figures/LeftHandUp.png used on input line 134.
-(pdftex.def)             Requested size: 408.24449pt x 260.23245pt.
-
-<figures/RightHandUp.png, id=253, 436.029pt x 324.61275pt>
+Package pdftex.def Info: figures/SegmentsTopView.png used on input line 89.
+(pdftex.def)             Requested size: 453.60808pt x 302.06206pt.
+ [10 <./figures/WaitingForUser.png>]
+<figures/RightHandUp.png, id=293, 433.01775pt x 283.0575pt>
 File: figures/RightHandUp.png Graphic file (type png)
 
 <use figures/RightHandUp.png>
-Package pdftex.def Info: figures/RightHandUp.png used on input line 140.
-(pdftex.def)             Requested size: 408.24449pt x 303.94724pt.
- [7 <./figures/Help.png>] [8 <./figures/Volume.png> <./figures/HighScore.png>] 
-[9 <./figures/SegmentsTopView.png>]
+Package pdftex.def Info: figures/RightHandUp.png used on input line 107.
+(pdftex.def)             Requested size: 385.56963pt x 252.04994pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/ExpertRightHandUp.png, id=294, 774.7344pt x 520.344pt>
+File: figures/ExpertRightHandUp.png Graphic file (type png)
 
+<use figures/ExpertRightHandUp.png>
+Package pdftex.def Info: figures/ExpertRightHandUp.png used on input line 113.
+(pdftex.def)             Requested size: 385.56963pt x 258.9645pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/LeftHandUp.png, id=296, 514.92375pt x 328.22626pt>
+File: figures/LeftHandUp.png Graphic file (type png)
 
+<use figures/LeftHandUp.png>
+Package pdftex.def Info: figures/LeftHandUp.png used on input line 120.
+(pdftex.def)             Requested size: 385.56963pt x 245.77843pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/ExpertLeftHandUp.png, id=297, 875.49944pt x 531.9072pt>
+File: figures/ExpertLeftHandUp.png Graphic file (type png)
 
+<use figures/ExpertLeftHandUp.png>
+Package pdftex.def Info: figures/ExpertLeftHandUp.png used on input line 126.
+(pdftex.def)             Requested size: 385.56963pt x 234.25902pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/HandUpRightWolf.png, id=302, 605.26125pt x 391.4625pt>
+File: figures/HandUpRightWolf.png Graphic file (type png)
 
-[10 <./figures/HandUpRightWolf.png>]
+<use figures/HandUpRightWolf.png>
+Package pdftex.def Info: figures/HandUpRightWolf.png used on input line 133.
+(pdftex.def)             Requested size: 385.56963pt x 249.37633pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/GoblinHandLeftOrRight.png, id=303, 502.2765pt x 336.0555pt>
+File: figures/GoblinHandLeftOrRight.png Graphic file (type png)
 
+<use figures/GoblinHandLeftOrRight.png>
+Package pdftex.def Info: figures/GoblinHandLeftOrRight.png used on input line 1
+39.
+(pdftex.def)             Requested size: 385.56963pt x 257.97897pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/2WolfsRight.png, id=306, 588.69937pt x 362.85562pt>
+File: figures/2WolfsRight.png Graphic file (type png)
 
-[11 <./figures/Bridge.png> <./figures/GoblinHandLeftOrRight.png>]
+<use figures/2WolfsRight.png>
+Package pdftex.def Info: figures/2WolfsRight.png used on input line 146.
+(pdftex.def)             Requested size: 385.56963pt x 237.65279pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/TwoSides.png, id=307, 473.97075pt x 248.127pt>
+File: figures/TwoSides.png Graphic file (type png)
 
+<use figures/TwoSides.png>
+Package pdftex.def Info: figures/TwoSides.png used on input line 152.
+(pdftex.def)             Requested size: 385.56963pt x 201.84499pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/JumpRight.png, id=309, 500.46976pt x 334.851pt>
+File: figures/JumpRight.png Graphic file (type png)
 
+<use figures/JumpRight.png>
+Package pdftex.def Info: figures/JumpRight.png used on input line 159.
+(pdftex.def)             Requested size: 385.56963pt x 257.98933pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/ExpertHandDownLeft.png, id=310, 772.87602pt x 549.04552pt>
+File: figures/ExpertHandDownLeft.png Graphic file (type png)
 
-<figures/Squat.png, id=276, 441.44925pt x 325.215pt>
-File: figures/Squat.png Graphic file (type png)
- <use figures/Squat.png>
-Package pdftex.def Info: figures/Squat.png used on input line 148.
-(pdftex.def)             Requested size: 408.24449pt x 300.75961pt.
+<use figures/ExpertHandDownLeft.png>
+Package pdftex.def Info: figures/ExpertHandDownLeft.png used on input line 165.
 
-[12 <./figures/2WolfsRight.png> <./figures/JumpinJack.png>]
+(pdftex.def)             Requested size: 385.56963pt x 273.91049pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<figures/JumpLeft.png, id=312, 485.4135pt x 327.624pt>
+File: figures/JumpLeft.png Graphic file (type png)
 
-<figures/SquatRight.png, id=283, 536.0025pt x 327.02174pt>
-File: figures/SquatRight.png Graphic file (type png)
+<use figures/JumpLeft.png>
+Package pdftex.def Info: figures/JumpLeft.png used on input line 172.
+(pdftex.def)             Requested size: 385.56963pt x 260.23486pt.
 
-<use figures/SquatRight.png>
-Package pdftex.def Info: figures/SquatRight.png used on input line 156.
-(pdftex.def)             Requested size: 408.24449pt x 249.07301pt.
+<figures/ExpertHandDownRight.png, id=313, 765.64903pt x 498.86949pt>
+File: figures/ExpertHandDownRight.png Graphic file (type png)
 
-<figures/SquatLeft.png, id=284, 478.78876pt x 316.7835pt>
+<use figures/ExpertHandDownRight.png>
+Package pdftex.def Info: figures/ExpertHandDownRight.png used on input line 178
+.
+(pdftex.def)             Requested size: 385.56963pt x 251.23058pt.
+
+<figures/RightLeft.png, id=315, 627.84563pt x 389.95688pt>
+File: figures/RightLeft.png Graphic file (type png)
+
+<use figures/RightLeft.png>
+Package pdftex.def Info: figures/RightLeft.png used on input line 185.
+(pdftex.def)             Requested size: 385.56963pt x 239.47395pt.
+
+<figures/ExpertLeftRight.png, id=316, 1409.265pt x 1029.8475pt>
+File: figures/ExpertLeftRight.png Graphic file (type png)
+
+<use figures/ExpertLeftRight.png>
+Package pdftex.def Info: figures/ExpertLeftRight.png used on input line 191.
+(pdftex.def)             Requested size: 385.56963pt x 281.75537pt.
+
+<figures/SquatLeft.png, id=319, 478.78876pt x 316.7835pt>
 File: figures/SquatLeft.png Graphic file (type png)
 
 <use figures/SquatLeft.png>
-Package pdftex.def Info: figures/SquatLeft.png used on input line 162.
+Package pdftex.def Info: figures/SquatLeft.png used on input line 198.
 (pdftex.def)             Requested size: 408.24449pt x 270.1083pt.
 
+<figures/SquatRight.png, id=320, 536.0025pt x 327.02174pt>
+File: figures/SquatRight.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use figures/SquatRight.png>
+Package pdftex.def Info: figures/SquatRight.png used on input line 204.
+(pdftex.def)             Requested size: 408.24449pt x 249.07301pt.
 
+<figures/JumpUp.png, id=324, 691.83469pt x 374.90062pt>
+File: figures/JumpUp.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use figures/JumpUp.png>
+Package pdftex.def Info: figures/JumpUp.png used on input line 211.
+(pdftex.def)             Requested size: 408.24449pt x 221.22949pt.
 
-<figures/Filler1.png, id=285, 995.51926pt x 839.5365pt>
+<figures/JumpSmallRock.png, id=326, 554.07pt x 294.34969pt>
+File: figures/JumpSmallRock.png Graphic file (type png)
+
+<use figures/JumpSmallRock.png>
+Package pdftex.def Info: figures/JumpSmallRock.png used on input line 218.
+(pdftex.def)             Requested size: 408.24449pt x 216.88113pt.
+
+<figures/JumpinJack.png, id=328, 673.76718pt x 364.36125pt>
+File: figures/JumpinJack.png Graphic file (type png)
+
+<use figures/JumpinJack.png>
+Package pdftex.def Info: figures/JumpinJack.png used on input line 225.
+(pdftex.def)             Requested size: 385.56963pt x 208.5109pt.
+
+<figures/ExpertJump.png, id=329, 1562.83875pt x 1159.33125pt>
+File: figures/ExpertJump.png Graphic file (type png)
+
+<use figures/ExpertJump.png>
+Package pdftex.def Info: figures/ExpertJump.png used on input line 231.
+(pdftex.def)             Requested size: 385.56963pt x 286.01108pt.
+
+<figures/Squat.png, id=332, 441.44925pt x 325.215pt>
+File: figures/Squat.png Graphic file (type png)
+ <use figures/Squat.png>
+Package pdftex.def Info: figures/Squat.png used on input line 238.
+(pdftex.def)             Requested size: 385.56963pt x 284.0513pt.
+
+<figures/SquatLong.png, id=333, 540.51938pt x 340.27126pt>
+File: figures/SquatLong.png Graphic file (type png)
+
+<use figures/SquatLong.png>
+Package pdftex.def Info: figures/SquatLong.png used on input line 244.
+(pdftex.def)             Requested size: 385.56963pt x 242.73134pt.
+
+<figures/ExpertSquat.png, id=334, 875.49944pt x 584.76755pt>
+File: figures/ExpertSquat.png Graphic file (type png)
+
+<use figures/ExpertSquat.png>
+Package pdftex.def Info: figures/ExpertSquat.png used on input line 250.
+(pdftex.def)             Requested size: 385.56963pt x 257.53943pt.
+
+<figures/Bridge.png, id=336, 461.3235pt x 322.806pt>
+File: figures/Bridge.png Graphic file (type png)
+ <use figures/Bridge.png>
+Package pdftex.def Info: figures/Bridge.png used on input line 257.
+(pdftex.def)             Requested size: 385.56963pt x 269.80064pt.
+
+<figures/Filler1.png, id=338, 1171.37625pt x 1047.915pt>
 File: figures/Filler1.png Graphic file (type png)
 
 <use figures/Filler1.png>
-Package pdftex.def Info: figures/Filler1.png used on input line 171.
-(pdftex.def)             Requested size: 453.60808pt x 382.54054pt.
+Package pdftex.def Info: figures/Filler1.png used on input line 264.
+(pdftex.def)             Requested size: 453.60808pt x 405.80702pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
+
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
 
-<figures/individualScore.jpg, id=287, 4047.12pt x 3035.34pt>
-File: figures/individualScore.jpg Graphic file (type jpg)
-
-<use figures/individualScore.jpg>
-Package pdftex.def Info: figures/individualScore.jpg used on input line 182.
-(pdftex.def)             Requested size: 453.60808pt x 340.18735pt.
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
 
-) (Thesis.bbl [13 <./figures/JumpLeft.png>] [14 <./figures/JumpRight.png> <./fi
-gures/JumpUp.png>] [15 <./figures/LeftHandUp.png> <./figures/RightHandUp.png>]
-[16 <./figures/Squat.png> <./figures/SquatRight.png>] [17 <./figures/SquatLeft.
-png>] [18 <./figures/Filler1.png>] [19 <./figures/individualScore.jpg>]
-[20
+ []
 
-]) [21]
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--269
+
+ []
+
+[11 <./figures/SegmentsTopView.png>] [12 <./figures/RightHandUp.png> <./figures
+/ExpertRightHandUp.png>] [13 <./figures/LeftHandUp.png> <./figures/ExpertLeftHa
+ndUp.png>] [14 <./figures/HandUpRightWolf.png> <./figures/GoblinHandLeftOrRight
+.png>] [15 <./figures/2WolfsRight.png> <./figures/TwoSides.png>] [16 <./figures
+/JumpRight.png> <./figures/ExpertHandDownLeft.png>] [17 <./figures/JumpLeft.png
+> <./figures/ExpertHandDownRight.png>] [18 <./figures/RightLeft.png> <./figures
+/ExpertLeftRight.png>] [19 <./figures/SquatLeft.png> <./figures/SquatRight.png>
+] [20 <./figures/JumpUp.png> <./figures/JumpSmallRock.png>] [21 <./figures/Jump
+inJack.png> <./figures/ExpertJump.png>] [22 <./figures/Squat.png> <./figures/Sq
+uatLong.png>] [23 <./figures/ExpertSquat.png> <./figures/Bridge.png>] [24 <./fi
+gures/Filler1.png>]
+<figures/IndividualEndScene.png, id=409, 831.85782pt x 448.67625pt>
+File: figures/IndividualEndScene.png Graphic file (type png)
+
+<use figures/IndividualEndScene.png>
+Package pdftex.def Info: figures/IndividualEndScene.png used on input line 273.
+
+(pdftex.def)             Requested size: 453.60808pt x 244.66406pt.
+) (Thesis.bbl [25 <./figures/IndividualEndScene.png>] [26
+
+]) [27]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
  (Thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 270B043CE6C87166BF8D11C14D5B3697;2195.
+(rerunfilecheck)             Checksum: D4D40FE8306712519DA9A9E6731ECBE2;2622.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
  )
 (\end occurred inside a group at level 1)
@@ -2291,13 +2405,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 43726 strings out of 493333
- 800923 string characters out of 3139193
- 920080 words of memory out of 3000000
- 46365 multiletter control sequences out of 15000+200000
- 544488 words of font info for 113 fonts, out of 3000000 for 9000
+ 43837 strings out of 493333
+ 803293 string characters out of 3139193
+ 928088 words of memory out of 3000000
+ 46431 multiletter control sequences out of 15000+200000
+ 544794 words of font info for 119 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,80p,10359b,938s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,80p,10359b,943s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
@@ -2308,9 +2422,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
 ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmti12.pfb>
-Output written on Thesis.pdf (33 pages, 31762659 bytes).
+Output written on Thesis.pdf (39 pages, 100441287 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 25354 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 484 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 25435 words of extra memory for PDF output out of 29859 (max. 10000000)
 
