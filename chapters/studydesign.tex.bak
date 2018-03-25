@@ -145,13 +145,15 @@ prior to the experiment session and one post the session in order to gather self
 The pre-test questionnaires focused on participants' demographic information, overall physical and psychological abilities, hours spent on exercise, frequency and activity
 of warm up procedures, extent of video gameplay, and reason for playing. The pre-test questionnaires were as follows:
 \begin{itemize}
-\item \textit{Physical activity screening}. Pre-study physical activity levels have been assessed with a standardized questionnaire  \gls{bsa} \cite{fuchs2015messung}. Participants were instructed to indicate for how many minutes per week they performed everyday physical activities (e.g., taking the bike to work; taking a walk) in average during the last four (TODO: discuss the time frame) weeks. 
+%https://www.researchgate.net/publication/320572645_Exergaming_Feels_good_despite_working_harder
+
 \item \textit{Health status}. The current health status of the participants has been assessed via the \gls{parq}, which consists of seven dichotomous items \cite{thomas1992revision}. The individual response patterns were used in order to assess if participants were physically able to perform the warm up session.
 \item Demographic survey with included questions regarding warm up preferences, and previous exergame experience [Appendix].
+\item \textit{Physical activity screening}. Pre-study physical activity levels have been assessed with a standardized questionnaire  \gls{bsa} \cite{fuchs2015messung}. Participants were instructed to indicate for how many minutes per week they performed everyday physical activities (e.g., taking the bike to work; taking a walk) in average during the last four (TODO: discuss the time frame) weeks. 
 \end{itemize}
 The second set of questionnaires have been administered after the completion of the warm up procedure. In these questionnaires participants' level of exertion, emotional state, and game experience have been assessed. The questionnaires were as follows:
 \begin{itemize}
-\item \textit{Perceived exertion}. For assessing the perceived exertion of the warm up session, the \gls{rpe} has been utilized \cite{borg1998borg}. The perceived exertion reflects how difficult and strenuous the performed warm up exercise feels to the participants, combining all sensations and feelings of physical stress, effort, and fatigue.
+\item \textit{Perceived exertion}. For assessing the perceived exertion of the warm up session, the \gls{rpe} has been utilized \cite{borg1998borg}. The perceived exertion reflects how difficult and strenuous the performed warm up exercise feels to the participants, combining all sensations and feelings of physical stress, effort, and fatigue. All the participants received standardized instructions and were encouraged to focus upon their overall (wholebody) perceptions of exertion.
 \item \textit{Emotional state}. The pleasure, arousal, and dominance associated with a person's affective reaction to a wide variety of stimuli has been assessed with \gls{sam} \cite{bradley1994measuring}. 
 \item \textit{Enjoyment of the physical activity}. To test the enjoyment of the physical activity performed, in this case the warm up procedure, the \gls{paces} has been used \cite{kendzierski1991physical}. 
 \item \textit{System usability}. For assessing the exergame's instrumental qualities (e.g. controllability, effectiveness, learnability), the \gls{sus} has been used.

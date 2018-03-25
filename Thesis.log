@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  17 MAR 2018 19:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.10.11)  23 MAR 2018 20:22
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1763,14 +1763,7 @@ Package: l3keys2e 2017/09/18 LaTeX2e option processing using LaTeX3 keys
 Package: translator 2010/06/12 ver 1.10
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator-language-m
-appings.tex"))) (Thesis.aux
-
-LaTeX Warning: Label `fig:expertLeftDown' multiply defined.
-
-
-LaTeX Warning: Label `fig:squatlong' multiply defined.
-
-)
+appings.tex"))) (Thesis.aux)
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -1794,7 +1787,8 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
@@ -1977,7 +1971,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=78, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=185, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 
 <use ./Template_Figures/saarland_logo.png>
@@ -1985,7 +1979,7 @@ Package pdftex.def Info: ./Template_Figures/saarland_logo.png used on input lin
 e 87.
 (pdftex.def)             Requested size: 62.7342pt x 61.73045pt.
 
-<./Template_Figures/logo_dfki.png, id=79, 123.0999pt x 45.5301pt>
+<./Template_Figures/logo_dfki.png, id=186, 123.0999pt x 45.5301pt>
 File: ./Template_Figures/logo_dfki.png Graphic file (type png)
 
 <use ./Template_Figures/logo_dfki.png>
@@ -2021,382 +2015,247 @@ nd_logo.png> <./Template_Figures/logo_dfki.png>] [2
 ] [6
 
 
-] (Thesis.toc)
+] (Thesis.toc [7])
 \tf@toc=\write9
 \openout9 = `Thesis.toc'.
 
- [7] [8
-
-] (Thesis.lof [9])
+ [8] (Thesis.lof)
 \tf@lof=\write10
 \openout10 = `Thesis.lof'.
 
- [10] (Thesis.lot)
+ [9
+
+] [10
+
+] (Thesis.lot)
 \tf@lot=\write11
 \openout11 = `Thesis.lot'.
 
- [11
-
-] [12
+ [11] [12
 
 
 ]
 No file Thesis.acr.
-(chapters/finalImplementation.tex [1] [2
+(chapters/implementation.tex [1] [2
 
 ]
 Chapter 1.
 ------------------------------------------------------------------------------
- 1 Final Design Overview
+ 1 The Design and Development of the Immotion Exergame
 ------------------------------------------------------------------------------
-<figures/expertsDesign.png, id=233, 1994.95313pt x 1460.45625pt>
-File: figures/expertsDesign.png Graphic file (type png)
 
-<use figures/expertsDesign.png>
-Package pdftex.def Info: figures/expertsDesign.png used on input line 9.
-(pdftex.def)             Requested size: 453.60808pt x 332.0649pt.
- [3] [4 <./figures/expertsDesign.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+LaTeX Warning: Citation `userCenteredDesign' on page 3 undefined on input line 
+7.
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+ [3] [4]
+<figures/iterations.png, id=343, 469.15276pt x 442.65375pt>
+File: figures/iterations.png Graphic file (type png)
 
-<figures/Start.png, id=246, 927.465pt x 504.08325pt>
-File: figures/Start.png Graphic file (type png)
- <use figures/Start.png>
-Package pdftex.def Info: figures/Start.png used on input line 25.
-(pdftex.def)             Requested size: 453.60808pt x 246.54144pt.
+<use figures/iterations.png>
+Package pdftex.def Info: figures/iterations.png used on input line 27.
+(pdftex.def)             Requested size: 408.24449pt x 385.20695pt.
+ [5 <./figures/iterations.png>] [6]
+<figures/hardware_software.png, id=359, 595.023pt x 173.448pt>
+File: figures/hardware_software.png Graphic file (type png)
 
-[5 <./figures/Start.png>]
+<use figures/hardware_software.png>
+Package pdftex.def Info: figures/hardware_software.png used on input line 58.
+(pdftex.def)             Requested size: 453.60808pt x 132.22942pt.
 
-Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 30.
+<figures/prototypeUsage.png, id=361, 587.19376pt x 331.2375pt>
+File: figures/prototypeUsage.png Graphic file (type png)
 
+<use figures/prototypeUsage.png>
+Package pdftex.def Info: figures/prototypeUsage.png used on input line 65.
+(pdftex.def)             Requested size: 453.60808pt x 255.88255pt.
 
-LaTeX Warning: Reference `fig:individualScore' on page 6 undefined on input lin
-e 31.
+Underfull \hbox (badness 10000) in paragraph at lines 55--70
 
-<figures/EnterName.png, id=254, 831.105pt x 479.54156pt>
-File: figures/EnterName.png Graphic file (type png)
+ []
 
-<use figures/EnterName.png>
-Package pdftex.def Info: figures/EnterName.png used on input line 34.
-(pdftex.def)             Requested size: 453.60808pt x 261.72913pt.
+[7 <./figures/hardware_software.png>]
 
+LaTeX Warning: Reference `chapter:relatedwork' on page 8 undefined on input lin
+e 75.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 38.
+[8 <./figures/prototypeUsage.png>]
 
-<figures/Help.png, id=256, 746.79pt x 438.13687pt>
-File: figures/Help.png Graphic file (type png)
- <use figures/Help.png>
-Package pdftex.def Info: figures/Help.png used on input line 42.
-(pdftex.def)             Requested size: 453.60808pt x 266.12657pt.
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 79.
+
+<figures/points.png, id=376, 466.1415pt x 192.11775pt>
+File: figures/points.png Graphic file (type png)
+
+<use figures/points.png>
+Package pdftex.def Info: figures/points.png used on input line 83.
+(pdftex.def)             Requested size: 453.60808pt x 186.95787pt.
+ [9 <./figures/points.png>]
+<figures/avatar_prototype.png, id=386, 299.61937pt x 321.45094pt>
+File: figures/avatar_prototype.png Graphic file (type png)
+
+<use figures/avatar_prototype.png>
+Package pdftex.def Info: figures/avatar_prototype.png used on input line 92.
+(pdftex.def)             Requested size: 272.1676pt x 292.02051pt.
+ [10 <./figures/avatar_prototype.png>]
+<figures/prototype.png, id=393, 819.66225pt x 316.7835pt>
+File: figures/prototype.png Graphic file (type png)
+
+<use figures/prototype.png>
+Package pdftex.def Info: figures/prototype.png used on input line 104.
+(pdftex.def)             Requested size: 453.60808pt x 175.30937pt.
+) (chapters/studydesign.tex [11 <./figures/prototype.png>] [12
+
+]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Study Design
+------------------------------------------------------------------------------
+[13] [14] <figures/Room1.jpg, id=419, 1445.4pt x 963.6pt>
+File: figures/Room1.jpg Graphic file (type jpg)
+
+<use figures/Room1.jpg>
+Package pdftex.def Info: figures/Room1.jpg used on input line 69.
+(pdftex.def)             Requested size: 408.24449pt x 272.15869pt.
+ [15 <./figures/Room1.jpg>]
+<figures/Kinect.jpg, id=425, 1445.4pt x 963.6pt>
+File: figures/Kinect.jpg Graphic file (type jpg)
+ <use figures/Kinect.jpg>
+Package pdftex.def Info: figures/Kinect.jpg used on input line 84.
+(pdftex.def)             Requested size: 408.24449pt x 272.15869pt.
+
+<figures/Desktop.jpg, id=428, 1445.4pt x 963.6pt>
+File: figures/Desktop.jpg Graphic file (type jpg)
+ <use figures/Desktop.jpg>
+Package pdftex.def Info: figures/Desktop.jpg used on input line 91.
+(pdftex.def)             Requested size: 408.24449pt x 272.15869pt.
+
+<figures/Projector.jpg, id=429, 1445.4pt x 963.6pt>
+File: figures/Projector.jpg Graphic file (type jpg)
+
+<use figures/Projector.jpg>
+Package pdftex.def Info: figures/Projector.jpg used on input line 97.
+(pdftex.def)             Requested size: 408.24449pt x 272.15869pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/Volume.png, id=258, 925.65825pt x 500.46976pt>
-File: figures/Volume.png Graphic file (type png)
-
-<use figures/Volume.png>
-Package pdftex.def Info: figures/Volume.png used on input line 50.
-(pdftex.def)             Requested size: 453.60808pt x 245.25523pt.
- [6 <./figures/EnterName.png>]
-
-LaTeX Warning: Reference `fig:individualScore' on page 7 undefined on input lin
-e 55.
-
-<figures/HighScore.png, id=264, 804.75656pt x 459.96844pt>
-File: figures/HighScore.png Graphic file (type png)
-
-<use figures/HighScore.png>
-Package pdftex.def Info: figures/HighScore.png used on input line 58.
-(pdftex.def)             Requested size: 453.60808pt x 259.26501pt.
- [7 <./figures/Help.png> <./figures/Volume.png>]
-
-LaTeX Warning: Reference `fig:individualScore' on page 8 undefined on input lin
-e 65.
-
-<figures/Counter.png, id=272, 926.2605pt x 508.299pt>
-File: figures/Counter.png Graphic file (type png)
-
-<use figures/Counter.png>
-Package pdftex.def Info: figures/Counter.png used on input line 68.
-(pdftex.def)             Requested size: 453.60808pt x 248.92131pt.
-
-<figures/LiveScore.png, id=273, 309.40594pt x 181.42781pt>
-File: figures/LiveScore.png Graphic file (type png)
-
-<use figures/LiveScore.png>
-Package pdftex.def Info: figures/LiveScore.png used on input line 74.
-(pdftex.def)             Requested size: 272.1676pt x 159.60713pt.
-
-<figures/WaitingForUser.png, id=274, 828.09375pt x 481.19775pt>
-File: figures/WaitingForUser.png Graphic file (type png)
-
-<use figures/WaitingForUser.png>
-Package pdftex.def Info: figures/WaitingForUser.png used on input line 80.
-(pdftex.def)             Requested size: 453.60808pt x 263.59492pt.
- [8 <./figures/HighScore.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./figures/Counter.png> <./figures/LiveScore.png>]
-<figures/SegmentsTopView.png, id=285, 655.69969pt x 436.63126pt>
-File: figures/SegmentsTopView.png Graphic file (type png)
+[16 <./figures/Kinect.jpg>] [17 <./figures/Desktop.jpg>] [18 <./figures/Project
+or.jpg>] [19] [20] [21] [22] [23] [24] [25
 
-<use figures/SegmentsTopView.png>
-Package pdftex.def Info: figures/SegmentsTopView.png used on input line 89.
-(pdftex.def)             Requested size: 453.60808pt x 302.06206pt.
- [10 <./figures/WaitingForUser.png>]
-<figures/RightHandUp.png, id=293, 433.01775pt x 283.0575pt>
-File: figures/RightHandUp.png Graphic file (type png)
 
-<use figures/RightHandUp.png>
-Package pdftex.def Info: figures/RightHandUp.png used on input line 107.
-(pdftex.def)             Requested size: 385.56963pt x 252.04994pt.
+] [26]
+Appendix A.
+------------------------------------------------------------------------------
+ A Self-Assessment Manikin Scale
+------------------------------------------------------------------------------
+<figures/manikin.png, id=506, 615.0478pt x 534.49687pt>
+File: figures/manikin.png Graphic file (type png)
 
-<figures/ExpertRightHandUp.png, id=294, 774.7344pt x 520.344pt>
-File: figures/ExpertRightHandUp.png Graphic file (type png)
+<use figures/manikin.png>
+Package pdftex.def Info: figures/manikin.png used on input line 247.
+(pdftex.def)             Requested size: 453.60808pt x 394.2084pt.
+) (Thesis.bbl [27
 
-<use figures/ExpertRightHandUp.png>
-Package pdftex.def Info: figures/ExpertRightHandUp.png used on input line 113.
-(pdftex.def)             Requested size: 385.56963pt x 258.9645pt.
+ <./figures/manikin.png>] [28
 
-<figures/LeftHandUp.png, id=296, 514.92375pt x 328.22626pt>
-File: figures/LeftHandUp.png Graphic file (type png)
-
-<use figures/LeftHandUp.png>
-Package pdftex.def Info: figures/LeftHandUp.png used on input line 120.
-(pdftex.def)             Requested size: 385.56963pt x 245.77843pt.
-
-<figures/ExpertLeftHandUp.png, id=297, 875.49944pt x 531.9072pt>
-File: figures/ExpertLeftHandUp.png Graphic file (type png)
-
-<use figures/ExpertLeftHandUp.png>
-Package pdftex.def Info: figures/ExpertLeftHandUp.png used on input line 126.
-(pdftex.def)             Requested size: 385.56963pt x 234.25902pt.
-
-<figures/HandUpRightWolf.png, id=302, 605.26125pt x 391.4625pt>
-File: figures/HandUpRightWolf.png Graphic file (type png)
-
-<use figures/HandUpRightWolf.png>
-Package pdftex.def Info: figures/HandUpRightWolf.png used on input line 133.
-(pdftex.def)             Requested size: 385.56963pt x 249.37633pt.
-
-<figures/GoblinHandLeftOrRight.png, id=303, 502.2765pt x 336.0555pt>
-File: figures/GoblinHandLeftOrRight.png Graphic file (type png)
-
-<use figures/GoblinHandLeftOrRight.png>
-Package pdftex.def Info: figures/GoblinHandLeftOrRight.png used on input line 1
-39.
-(pdftex.def)             Requested size: 385.56963pt x 257.97897pt.
-
-<figures/2WolfsRight.png, id=306, 588.69937pt x 362.85562pt>
-File: figures/2WolfsRight.png Graphic file (type png)
-
-<use figures/2WolfsRight.png>
-Package pdftex.def Info: figures/2WolfsRight.png used on input line 146.
-(pdftex.def)             Requested size: 385.56963pt x 237.65279pt.
-
-<figures/TwoSides.png, id=307, 473.97075pt x 248.127pt>
-File: figures/TwoSides.png Graphic file (type png)
-
-<use figures/TwoSides.png>
-Package pdftex.def Info: figures/TwoSides.png used on input line 152.
-(pdftex.def)             Requested size: 385.56963pt x 201.84499pt.
-
-<figures/JumpRight.png, id=309, 500.46976pt x 334.851pt>
-File: figures/JumpRight.png Graphic file (type png)
-
-<use figures/JumpRight.png>
-Package pdftex.def Info: figures/JumpRight.png used on input line 159.
-(pdftex.def)             Requested size: 385.56963pt x 257.98933pt.
-
-<figures/ExpertHandDownLeft.png, id=310, 772.87602pt x 549.04552pt>
-File: figures/ExpertHandDownLeft.png Graphic file (type png)
-
-<use figures/ExpertHandDownLeft.png>
-Package pdftex.def Info: figures/ExpertHandDownLeft.png used on input line 165.
-
-(pdftex.def)             Requested size: 385.56963pt x 273.91049pt.
-
-<figures/JumpLeft.png, id=312, 485.4135pt x 327.624pt>
-File: figures/JumpLeft.png Graphic file (type png)
-
-<use figures/JumpLeft.png>
-Package pdftex.def Info: figures/JumpLeft.png used on input line 172.
-(pdftex.def)             Requested size: 385.56963pt x 260.23486pt.
-
-<figures/ExpertHandDownRight.png, id=313, 765.64903pt x 498.86949pt>
-File: figures/ExpertHandDownRight.png Graphic file (type png)
-
-<use figures/ExpertHandDownRight.png>
-Package pdftex.def Info: figures/ExpertHandDownRight.png used on input line 178
-.
-(pdftex.def)             Requested size: 385.56963pt x 251.23058pt.
-
-<figures/RightLeft.png, id=315, 627.84563pt x 389.95688pt>
-File: figures/RightLeft.png Graphic file (type png)
-
-<use figures/RightLeft.png>
-Package pdftex.def Info: figures/RightLeft.png used on input line 185.
-(pdftex.def)             Requested size: 385.56963pt x 239.47395pt.
-
-<figures/ExpertLeftRight.png, id=316, 1409.265pt x 1029.8475pt>
-File: figures/ExpertLeftRight.png Graphic file (type png)
-
-<use figures/ExpertLeftRight.png>
-Package pdftex.def Info: figures/ExpertLeftRight.png used on input line 191.
-(pdftex.def)             Requested size: 385.56963pt x 281.75537pt.
-
-<figures/SquatLeft.png, id=319, 478.78876pt x 316.7835pt>
-File: figures/SquatLeft.png Graphic file (type png)
-
-<use figures/SquatLeft.png>
-Package pdftex.def Info: figures/SquatLeft.png used on input line 198.
-(pdftex.def)             Requested size: 408.24449pt x 270.1083pt.
-
-<figures/SquatRight.png, id=320, 536.0025pt x 327.02174pt>
-File: figures/SquatRight.png Graphic file (type png)
-
-<use figures/SquatRight.png>
-Package pdftex.def Info: figures/SquatRight.png used on input line 204.
-(pdftex.def)             Requested size: 408.24449pt x 249.07301pt.
-
-<figures/JumpUp.png, id=324, 691.83469pt x 374.90062pt>
-File: figures/JumpUp.png Graphic file (type png)
-
-<use figures/JumpUp.png>
-Package pdftex.def Info: figures/JumpUp.png used on input line 211.
-(pdftex.def)             Requested size: 408.24449pt x 221.22949pt.
-
-<figures/JumpSmallRock.png, id=326, 554.07pt x 294.34969pt>
-File: figures/JumpSmallRock.png Graphic file (type png)
-
-<use figures/JumpSmallRock.png>
-Package pdftex.def Info: figures/JumpSmallRock.png used on input line 218.
-(pdftex.def)             Requested size: 408.24449pt x 216.88113pt.
-
-<figures/JumpinJack.png, id=328, 673.76718pt x 364.36125pt>
-File: figures/JumpinJack.png Graphic file (type png)
-
-<use figures/JumpinJack.png>
-Package pdftex.def Info: figures/JumpinJack.png used on input line 225.
-(pdftex.def)             Requested size: 385.56963pt x 208.5109pt.
-
-<figures/ExpertJump.png, id=329, 1562.83875pt x 1159.33125pt>
-File: figures/ExpertJump.png Graphic file (type png)
-
-<use figures/ExpertJump.png>
-Package pdftex.def Info: figures/ExpertJump.png used on input line 231.
-(pdftex.def)             Requested size: 385.56963pt x 286.01108pt.
-
-<figures/Squat.png, id=332, 441.44925pt x 325.215pt>
-File: figures/Squat.png Graphic file (type png)
- <use figures/Squat.png>
-Package pdftex.def Info: figures/Squat.png used on input line 238.
-(pdftex.def)             Requested size: 385.56963pt x 284.0513pt.
-
-<figures/SquatLong.png, id=333, 540.51938pt x 340.27126pt>
-File: figures/SquatLong.png Graphic file (type png)
-
-<use figures/SquatLong.png>
-Package pdftex.def Info: figures/SquatLong.png used on input line 244.
-(pdftex.def)             Requested size: 385.56963pt x 242.73134pt.
-
-<figures/ExpertSquat.png, id=334, 875.49944pt x 584.76755pt>
-File: figures/ExpertSquat.png Graphic file (type png)
-
-<use figures/ExpertSquat.png>
-Package pdftex.def Info: figures/ExpertSquat.png used on input line 250.
-(pdftex.def)             Requested size: 385.56963pt x 257.53943pt.
-
-<figures/Bridge.png, id=336, 461.3235pt x 322.806pt>
-File: figures/Bridge.png Graphic file (type png)
- <use figures/Bridge.png>
-Package pdftex.def Info: figures/Bridge.png used on input line 257.
-(pdftex.def)             Requested size: 385.56963pt x 269.80064pt.
-
-<figures/Filler1.png, id=338, 1171.37625pt x 1047.915pt>
-File: figures/Filler1.png Graphic file (type png)
-
-<use figures/Filler1.png>
-Package pdftex.def Info: figures/Filler1.png used on input line 264.
-(pdftex.def)             Requested size: 453.60808pt x 405.80702pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
-
+]
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/10 (+20) ``Fitness app pop-u-lar-ity.'' [][]$\OT1/cmtt/m/n/10 ht
+tps : / / www . spaceotechnologies . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
-
+Underfull \hbox (badness 3396) in paragraph at lines 9--12
+\OT1/cmtt/m/n/10 fitness-[]apps-[]gaining-[]popularity-[]hire-[]iphone-[]app-[]
+developer-[]now/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
-
+Underfull \hbox (badness 2772) in paragraph at lines 49--52
+[]\OT1/cmr/m/n/10 (+20) ``Bartle's tax-on-omy of player types.'' [][]$\OT1/cmtt
+/m/n/10 https : / / gamedevelopment . tutsplus . com / articles /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
+Overfull \hbox (16.20091pt too wide) in paragraph at lines 49--52
+\OT1/cmtt/m/n/10 bartles-[]taxonomy-[]of-[]player-[]types-[]and-[]why-[]it-[]do
+esnt-[]apply-[]to-[]everything-[]-[]gamedev-[]4173$[][]\OT1/cmr/m/n/10 (-20) .
+ []
 
+[29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 201--205
+[]\OT1/cmr/m/n/10 (+20) ``Marketing gam-i-fi-ca-tion: Toy-ota turns charg-ing y
+our iphone into
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
-
+Underfull \hbox (badness 10000) in paragraph at lines 201--205
+\OT1/cmr/m/n/10 (+20) an epic game.'' [][]$\OT1/cmtt/m/n/10 http : / / yukaicho
+u . com / marketing-[]gamification /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
-
+Underfull \hbox (badness 3590) in paragraph at lines 201--205
+\OT1/cmtt/m/n/10 marketing-[]gamification-[]toyota-[]turns-[]charging-[]iphone-
+[]epic-[]game/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--269
-
+Underfull \hbox (badness 1082) in paragraph at lines 250--253
+[]\OT1/cmr/m/n/10 (+20) ``Game de-sign el-e-ments def-i-ni-tion.'' [][]$\OT1/cm
+tt/m/n/10 https : / / en . wikipedia . org / wiki / Game _ design # Design _
  []
 
-[11 <./figures/SegmentsTopView.png>] [12 <./figures/RightHandUp.png> <./figures
-/ExpertRightHandUp.png>] [13 <./figures/LeftHandUp.png> <./figures/ExpertLeftHa
-ndUp.png>] [14 <./figures/HandUpRightWolf.png> <./figures/GoblinHandLeftOrRight
-.png>] [15 <./figures/2WolfsRight.png> <./figures/TwoSides.png>] [16 <./figures
-/JumpRight.png> <./figures/ExpertHandDownLeft.png>] [17 <./figures/JumpLeft.png
-> <./figures/ExpertHandDownRight.png>] [18 <./figures/RightLeft.png> <./figures
-/ExpertLeftRight.png>] [19 <./figures/SquatLeft.png> <./figures/SquatRight.png>
-] [20 <./figures/JumpUp.png> <./figures/JumpSmallRock.png>] [21 <./figures/Jump
-inJack.png> <./figures/ExpertJump.png>] [22 <./figures/Squat.png> <./figures/Sq
-uatLong.png>] [23 <./figures/ExpertSquat.png> <./figures/Bridge.png>] [24 <./fi
-gures/Filler1.png>]
-<figures/IndividualEndScene.png, id=409, 831.85782pt x 448.67625pt>
-File: figures/IndividualEndScene.png Graphic file (type png)
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
+[]\OT1/cmr/m/n/10 (+20) ``Game de-sign and gam-i-fi-ca-tion de-sign.'' [][]$\OT
+1/cmtt/m/n/10 https : / / www . gamified . uk / 2014 / 03 / 25 /
+ []
 
-<use figures/IndividualEndScene.png>
-Package pdftex.def Info: figures/IndividualEndScene.png used on input line 273.
 
-(pdftex.def)             Requested size: 453.60808pt x 244.66406pt.
-) (Thesis.bbl [25 <./figures/IndividualEndScene.png>] [26
+Underfull \hbox (badness 10000) in paragraph at lines 329--332
+[]\OT1/cmr/m/n/10 (+20) ``The pur-pose of gam-i-fi-ca-tion.'' [][]$\OT1/cmtt/m/
+n/10 http : / / radar . oreilly . com / 2011 / 04 /
+ []
 
-]) [27]
+[32]
+Underfull \hbox (badness 3209) in paragraph at lines 374--377
+[]\OT1/cmr/m/n/10 (+20) ``Gamification 101, the psy-chol-ogy of mo-ti-va-tion.'
+' [][]$\OT1/cmtt/m/n/10 https : / / community . lithium . com / t5 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--377
+\OT1/cmtt/m/n/10 Science-[]of-[]Social-[]blog / Gamification-[]101-[]The-[]Psyc
+hology-[]of-[]Motivation / ba-[]p / 21864$[][]\OT1/cmr/m/n/10 (+20) .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--422
+[]\OT1/cmr/m/n/10 (+20) ``50 gam-i-fi-ca-tion me-chan-ics and el-e-ments.'' [][
+]$\OT1/cmtt/m/n/10 https : / / www . gamified . uk / user-[]types /
+ []
+
+[33]) [34]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
  (Thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: D4D40FE8306712519DA9A9E6731ECBE2;2622.
+(rerunfilecheck)             Checksum: 7D98B796F20D7E624D5DE5A9BE702EEB;7872.
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
  )
@@ -2405,26 +2264,53 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 43837 strings out of 493333
- 803293 string characters out of 3139193
- 928088 words of memory out of 3000000
- 46431 multiletter control sequences out of 15000+200000
- 544794 words of font info for 119 fonts, out of 3000000 for 9000
+ 44065 strings out of 493333
+ 805426 string characters out of 3139193
+ 920116 words of memory out of 3000000
+ 46478 multiletter control sequences out of 15000+200000
+ 550933 words of font info for 174 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,80p,10359b,943s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
-x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti12.pfb>
-Output written on Thesis.pdf (39 pages, 100441287 bytes).
+ 55i,11n,80p,10359b,1293s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{glo:geq} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sus} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:paces} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sam} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rpe} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:parq} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:bsa} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:fifa} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ucd} has been referenced but does not exist, re
+placed by a fixed one
+
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Thesis.pdf (46 pages, 31316225 bytes).
 PDF statistics:
- 484 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 25435 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 748 PDF objects out of 1000 (max. 8388607)
+ 213 named destinations out of 1000 (max. 500000)
+ 31158 words of extra memory for PDF output out of 35830 (max. 10000000)
 
