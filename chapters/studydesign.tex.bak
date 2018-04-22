@@ -104,14 +104,12 @@ In this section we outline the methodology adopted for the Immotion exergame eva
 %
 %This is a detailed description of the experiment that should allow other researchers (familiar with HCI and experimental design in general, but not familiar with your experiment) to replicate your experiment.%
 \subsubsection{Participants}
-Demographic details of the participants to be added when the study is completed.\\
-Total of n = X individuals participated in the study that has been conducted DATE in DFKI. All participants were students from Saarland University. For recruiting participants, posters were distributed in print, and sent through social media and email (Appendix X). Each participant was given X euros for taking part in the study. All of the participants were amateur athletes who engage in some physical activity on average X times per week. For the study we particularly targeted individuals who exercise in gym or fitness centers and often avoid preforming warm up exercises before more strenuous physical activity. All participants were required to report to the laboratory in gym based clothing, preferably shorts and t-shirt, and all of them performed the required tests in the same location using the same equipment. Before the study, each participant signed a consent form (Appendix X). TODO: This should be updated later with real data.
-%Describe your participants (e.g., any relevant demographics, if/how they were divided into categories), including total number, and recruiting approach. Indicate if any incentives were used. Comment on the representativeness of your participants relative to the target population, if their representativeness isn’t immediately obvious.%
+The study has been conducted on \displaydate{date1} and \displaydate{date2} in DFKI. All participants were students from Saarland University. All the participants reported no physical impairment at the time of participating in the study. For recruiting participants, posters were distributed in print, and sent through social media and email (Appendix X). Each participant was given 10 euros cash for taking part in the study. All of the participants were amateur athletes who engage in some physical activity on average 4 times per week. For the study we particularly targeted individuals who exercise in gym or fitness centers and often avoid preforming warm up exercises before more strenuous physical activity. All participants were required to report to the laboratory in gym based clothing, preferably shorts and t-shirt, and all of them performed the required tests in the same location using the same equipment. Before the study, each participant signed a consent form (Appendix X).%Describe your participants (e.g., any relevant demographics, if/how they were divided into categories), including total number, and recruiting approach. Indicate if any incentives were used. Comment on the representativeness of your participants relative to the target population, if their representativeness isn’t immediately obvious.%
 \subsubsection{Conditions}
-First 20 participant who applied for the experiment have been accepted. These participants were sent a pre-test questionnaires (\acrshort{bsa}, \acrshort{parq}, and Demographic questionnaire) that needed to be completed before coming to the experiment. Based on the answers given, the participants were assigned to the control or the experiment group. Each assigned participant took part in a single test session one hour in duration. During this session, all the participants  performed one warm up session, after which they completed a set of questionnaires. Two conditions were evaluated:
+First 10 participant who applied for the experiment have been accepted. These participants were sent a pre-test questionnaires (\acrshort{bsa}, \acrshort{parq}, and a Demographic questionnaire) that needed to be completed before coming to the experiment. Based on the answers given, the participants were assigned to the control or the experiment group. Each assigned participant took part in a single test session one hour in duration. During this session, all the participants  performed one warm up session, after which they completed a set of questionnaires. Two conditions were evaluated:
 \begin{enumerate}
 \item Warming up with the exergame guiding through the warm up procedure, projected on a wall in front of the participant.
-\item Warmin up with a video of a professional (coach) guiding through the exact same warm up procedure as induced by the exergame, projected on a wall in front of the participant.
+\item Warming up with a video of a professional (coach) guiding through the exact same warm up procedure as induced by the exergame, projected on a wall in front of the participant.
 \end{enumerate}
 Depending on the group, each participant performed exercise that represent one of the conditions.
 \subsubsection{Control and Experiment Groups}
@@ -149,24 +147,25 @@ of warm up procedures, extent of video gameplay, and reason for playing. The pre
 
 \item \textit{Health status}. The current health status of the participants has been assessed via the \gls{parq}, which consists of seven dichotomous items \cite{thomas1992revision}. The individual response patterns were used in order to assess if participants were physically able to perform the warm up session.
 \item Demographic survey with included questions regarding warm up preferences, and previous exergame experience [Appendix].
-\item \textit{Physical activity screening}. Pre-study physical activity levels have been assessed with a standardized questionnaire  \gls{bsa} \cite{fuchs2015messung}. Participants were instructed to indicate for how many minutes per week they performed everyday physical activities (e.g., taking the bike to work; taking a walk) in average during the last four (TODO: discuss the time frame) weeks. 
+\item \textit{Physical activity screening}. Pre-study physical activity levels have been assessed with a standardized questionnaire  \gls{bsa} \cite{fuchs2015messung}. Participants were instructed to indicate for how many minutes per week they performed everyday physical activities (e.g., taking the bike to work; taking a walk) in average during the last four weeks. 
 \end{itemize}
 The second set of questionnaires have been administered after the completion of the warm up procedure. In these questionnaires participants' level of exertion, emotional state, and game experience have been assessed. The questionnaires were as follows:
 \begin{itemize}
-\item \textit{Perceived exertion}. For assessing the perceived exertion of the warm up session, the \gls{rpe} has been utilized \cite{borg1998borg}. The perceived exertion reflects how difficult and strenuous the performed warm up exercise feels to the participants, combining all sensations and feelings of physical stress, effort, and fatigue. All the participants received standardized instructions and were encouraged to focus upon their overall (wholebody) perceptions of exertion.
+\item \textit{Perceived exertion}. For assessing the perceived exertion of the warm up session, the \gls{rpe} has been utilized \cite{borg1998borg}. The perceived exertion reflects how difficult and strenuous the performed warm up exercise feels to the participants, combining all sensations and feelings of physical stress, effort, and fatigue.
 \item \textit{Emotional state}. The pleasure, arousal, and dominance associated with a person's affective reaction to a wide variety of stimuli has been assessed with \gls{sam} \cite{bradley1994measuring}. 
 \item \textit{Enjoyment of the physical activity}. To test the enjoyment of the physical activity performed, in this case the warm up procedure, the \gls{paces} has been used \cite{kendzierski1991physical}. 
 \item \textit{System usability}. For assessing the exergame's instrumental qualities (e.g. controllability, effectiveness, learnability), the \gls{sus} has been used.
-\item \textit{Enjoyment of digital games} In order to measure the enjoyment of digital games the \gls{geq} has been utilized. It is a general questionnaire with the goal of being able to be applied to any game regardless of genre or mechanics in order to measure their users' experience.
-\end{itemize}
-(TO BE DISCUSSED: Sport oriented questionnaire (SOQ), Task and Ego Orientation in Sport Questionnaire (TEOSQ), AttrakDiff, User Experience, Exergame Experience questionnaires are also used in some studies.)\\
+\item \textit{Enjoyment of the play}. In order to measure the play enjoyment and experience o the \gls{pes} has been utilized \cite{pavlas2012play}. 
+\end{itemize}\pagebreak
 During the experiment, the following metrics were collected from each participants:
 \begin{itemize}
-\item \textit{Range of motion}. The participants' ROM has been measured before and after the warm up routine using goniometer. (TODO)
-\item \textit{Heart rate}. The participant's heart rate data has been captured and the measured during the warm up procedure using Microsoft Band.
+\item \textit{Range of motion}. The participants' ROM has been measured before and after the warm up routine using goniometer.
+\item \textit{Heart rate and Respiratory rate}. The participant's heart rate data has been captured and the measured during the warm up procedure using Microsoft Band.
 \item \textit{Distance}. The overall distance the participants' moved during the warm up routine was measured using Microsoft Kinect. 
+\item \textit{Skin resistance}. TODO
+\item \textit{Participan's emotion}. TODO
 \end{itemize}
-%The warm up routine performed by the participant has been recorded using Canon XXX camera for further analysis of performed movements during the warm up procedure.
+The warm up routine performed by the participant has been recorded using a second Kinect sensor for further analysis of performed movements during the warm up procedure.
 %If your experiment is comparing multiple different interfaces or interactive systems or techniques, describe each of them. Screen snapshots of interfaces/systems are particularly useful.%
 \subsubsection{Tasks}
 In order to interact with the gamified system, the participants in the experiment group were required to perform a set of general movements. By performing these movements, the participant controlled the game avatar and, by doing so, avoided obstacles and collected coins. Based on the data and feedback gathered from the first study, we limited the movements the participants need to perform in the exergame. That is, only movements that are detectable with high accuracy using only one Kinect device and simplistic enough to be accomplished easily without no prior exercise knowledge or experience were required. These movements were: 
@@ -192,7 +191,13 @@ Before the experiment, the lab environment is set up. The Kinect sensor is place
 \item The participant completes the preliminary survey.
 \item The researcher explains the sensors and tools that are required for the experiment, after which the participant puts them on. 
 \item After the researcher confirms that the sensors are placed in a correct position, we start recording heart rate data.
-\item The researcher measures the participant's ROM before starting the warm up procedure for the following joints: (TODO decide which joint will be measured).
+\item The researcher measures the participant's ROM before starting the warm up procedure. The following ROM's are assessed: 
+\begin{itemize}
+\item Left and right shoulder rotation
+\item Left and right shoulder extension
+\item Left and right hip flexion
+\item Left and right hip extension
+\end{itemize}
 \item After the measurements are completed, the participant rests.
 \item The researcher gives a general explanation on the benefits of a proper warm up routine before physically more demanding exercise.
 \item The participant moves to the spot marked by the researcher.
@@ -202,29 +207,157 @@ Before the experiment, the lab environment is set up. The Kinect sensor is place
 \item If this participant is part of the experimental group, the game starts with the start scene where the participant enters his or her name. After 5 seconds, the game proceeds with scenes in which the participant performs specific movements in order to avoid obstacles and collect coins. The duration of the game is not fixed and it is played up to the point when the participant feels warmed up enough. 
 \item  In case the participant is part of the control group, the video that displays a coach who instructs the participants which movements need to be performed. As with with the sessions in the experiment group, the duration of the warm up is not fixed and the video is played up to the point when the participant feels warmed up enough.
 \end{itemize}
-\item After finishing with the warm up routine, the participant takes a rest. During this period the researcher assesses the ROM of the participant. 
-\item After taking the ROM measures, the sensors are removed.
+\item After finishing with the warm up routine, the participant takes a rest. During this period the sensors are removed from the participant. \item Researcher assesses the ROM of the participant. 
 \item The participant completes the post-test surveys . %https://www.verywell.com/rating-of-perceived-exertion-scale-3119445
 \end{itemize}
 \subsubsection{Independent and Dependent Variables}
-Include exactly how you intend to measure each dependent variable. 
+%Include exactly how you intend to measure each dependent variable. 
 %https://books.google.de/books?hl=de&lr=&id=bPhLeMBLEkAC&oi=fnd&pg=PP1&dq=measuring+the+user+experience&ots=R9KdcqS-vF&sig=2-V-FaMOeX24Rn0pG30lWVdvjSo#v=onepage&q=measuring%20the%20user%20experience&f=false
-Independent variables are the things you manipulate or control for, such as design's you are testing or the ages of the respondents. 
-Dependent variables are the things you measure, such as success rate, number of errors, user satisfaction, completion time, and many more. Have s clear idea what do you manipulate - independent variables, and what do you want to measure - dependent variables. The most interesting is the intersection - is one design results in a higher task success rate than other. 
-
-Independent and dependent variables can be measured by 4 types of data: nominal, ordinal, interval, and ratio. 
-Nominal (categorical) data: groups or categories. Mac vs Windows users, male vs female. These are independent variables, that allows you to segment data by these different groups. Nominal data also includes dependent variables like task success, number of users who clicked link A instead B... 
-Ordinal: ordered data - imdb. In user studies this comes from self-reported data. User states if someone is good better worse... These are relative rankings. You report it by frequencies: for example 40 percent said it is good. 
+%Independent variables are the things you manipulate or control for, such as design's you are testing or the ages of the respondents. 
+%Dependent variables are the things you measure, such as success rate, number of errors, user satisfaction, completion time, and many more. Have s clear idea what do you manipulate - independent variables, and what do you want to measure - dependent variables. The most interesting is the intersection - is one design results in a higher task success rate than other. Independent and dependent variables can be measured by 4 types of data: nominal, ordinal, interval, and ratio. 
+%Nominal (categorical) data: groups or categories. Mac vs Windows users, male vs female. These are independent variables, that allows you to segment data by these different groups. Nominal data also includes dependent variables like task success, number of users who clicked link A instead B... 
+%Ordinal: ordered data - imdb. In user studies this comes from self-reported data. User states if someone is good better worse... These are relative rankings. You report it by frequencies: for example 40 percent said it is good. 
 
 \subsection{Problems/Limitations - Threats to Validity}
-Describe any problems/limitations encountered that will help other researchers avoid or account for them if they decide to replicate your experiment.
+Our participant sample has an unbalanced gender ratio and a limited age range, which represent a limitation for the study results. Moreover,  the arms of the standard goniometer that has been used for measuring participants' \acrshort{rom} was not longer than 12-inches so it was dofficult to accurately pinpoint the exact landmark needed for measurement. \pagebreak
 \section{Results}
+Our subject group included 10 individuals, of which 2 were female and 8 were male. Participants were on average age \begin{math}\bar{x} = 26.7\end{math} years old (\begin{math}\sigma = 1.77, x_{max}=30 ,x_{min}= 24 \end{math}), with different levels of education, such as Bachelor's degree (n = 4) and Master's degree (n = 6). Two participants reported to exercise 7 to 8 times per week and only 1 participant 5 to 6 times per week. The majority of the participant either exercise 3 to 4 times (n = 4) or 1 to 2 times (n = 3) per week. The duration of the sport or fitness activity for most of the participant was between 1 and 2 hours long (n = 8). Only 2 participants reported engaging in sports activity with duration less than an hour. The most common exercises the participants reported doing during one fitness or sport session were:
+\begin{itemize}
+\item Anaerobic exercise, such as sit-ups, pull-ups and push-ups, squats and weight lifting (n = 8).
+\item Team sports such as football, basketball, cricket, handball, etc (n = 4).
+\item Running outdoors, running on treadmills, and doing yoga (n = 3).
+\item Cycling and jogging (n = 2).
+\end{itemize}
+The majority of the participants (n = 7) engage in physical activity alone, while only 3 participant enjoy sports activities performed in a group. The reasons reported by the respondents were time constraint (n = 2), the monotonous and tiresome nature of the warm up procedure, how the warm up procedure represents an insignificant and negligible activity, and lastly, that no one warms up either. Regarding duration of the warm up session, 6 participants reported spending less then 5 minutes for warming up, while 4 participants reported spending between 5 and 10 minutes for the this preparatory activity. Out of all the participants, 7 stated that they engage in sport specific warm up, whereas 3 reported engaging in general  (non-specific) warm up exercises. Half of the participants (n = 5) stated that they do not enjoy warming up in a group. When inquired about preferences regarding warming up when given instruction, 6 participants stated they prefer warming up when given instructions, while 4 participants stated they do not prefer warming up when given instructions. The engagement in playing video games varies among the participants: 1 plays video games daily, 1 few times per month, 1 once per month, 2 once a day, 3 few times per year, and 4 once per year or less. The most common video game types the participants engage in are depicted in Figure \ref{fig:gametypes}. We observe that the most common game types among participants are racing (n = 5) and sports games (n = 4). In addition, when inquired about participant's previous experience with Microsoft Kinect games, only 1 participant reported having a lot of experience with games in this area. The rest of the participants reported having either non or some experience with Kinect related games.\\\\
 
-This section is an objective report on what the numbers show. You should not try to interpret the meaning of the numbers in this section. Some of the things you may do here are: 
-report means and standard deviations in neat tables 
-indicate the statistics used and levels of significance 
-include graphs, plots, histograms, etc that tell a story about the actual figures obtained 
-Only critical raw data and summary statistics should be included in the actual report. However, you must keep all your raw data in a separate archival report, should anyone (a reviewer in the case of real scientific reporting) need more detail than is provided in the paper. 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{GameTypes}
+    \caption{Game types most often played by the participants.}
+    \label{fig:gametypes}
+\end{figure}\pagebreak
+
+\subsection{Range of Motion}
+The average \acrshort{rom} values for each condition are presented in Figure \ref{fig:romExperiment} and Figure \ref{fig:romControl}. The measures were taken for each condition before the warm up session and immediately the participants completed the procedure. For taking the measures a plastic goniometer with 1 degree increments has been utilized. It can be observed that the average values after the warm up session are higher in each condition. 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{ROMSummaryExperiment}
+    \caption{Summary of ROM results for experiment group.}
+    \label{fig:romExperiment}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{ROMSummaryControl}
+    \caption{Summary of ROM results for control group.}
+    \label{fig:romControl}
+\end{figure}
+\subsection{Warm Up Duration}
+The duration of the warm up session has been measured from the game or video start until the moment the participant stopped with the warm up session. The participants have been informed to play the game or follow the video instructions as long as they would spend on warming up session before some physically strenuous activity. The average warm up duration for the experiment condition was \begin{math}\bar{x} = 800.4 \end{math} seconds (\begin{math} \sigma = 205.4, x_{max}=1122, x_{min}=616 \end{math}). The average warm up duration for the control condition was \begin{math}\bar{x} = 444.2 \end{math} seconds (\begin{math} \sigma = 94.2, x_{max}= 576, x_{min}= 345\end{math}). The average duration with standard error of the WU session per conditions is presented in Figure \ref{fig:wuduration}. It can be observed that the average duration of the warm up session for the participant in the experiment group who played the exergame is significantly higher compared to the duration of the warm up session for the participants in the control group. That is, interacting with the exergame positively influenced the duration of the warm up session for all the participants in the experiment condition.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{AVGTime}
+    \caption{Average WU duration with standard errors per study group.}
+    \label{fig:wuduration}
+\end{figure}\pagebreak
+\subsection{Heart Rate}
+TODO: MAX or AVG?\\
+The heart rate data has been captured and monitored using Polar H7 Bluetooth Heart Rate Sensor and Fitness Tracker in order to determine the exercise intensity of a warm up session. The heart rate has been measure from the beginning of the warm up session until the moment the participant declared being warmed up enough for a subsequent hypothetical physical activity. The average heart rate for the participants in the experiment group was \begin{math}\bar{x} = 137.91
+ \end{math} (\begin{math} \sigma = 4.00, x_{max}=143.32, x_{min}=132.03 \end{math}). The average heart rate for the participants in the control group was \begin{math}\bar{x} = 123.20 \end{math} (\begin{math} \sigma = 13.20, x_{max}= 142.94, x_{min}= 108.46\end{math}). Figure \ref{fig:hrdata} presents the average heart rates with standard errors per condition. The exergame was more successful in placing more participants in their target heart rate range and in the target heart range for cardio-respiratory benefits. \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{AVGHr}
+    \caption{Average HR per study group.}
+    \label{fig:hrdata}
+\end{figure}\\
+TODO: Discuss RR.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{AVGRr}
+    \caption{Average RR per study group.}
+    \label{fig:hrdata}
+\end{figure}\\
+\subsection{PACES}
+The \acrshort{paces} test consists of 18 questions in a 1 to 7 Likert scale and it was originally designed to measure positive affect associated with involvement in physical activities in college students (Kendzierski and DeCarlo, 1991). Figure \ref{fig:pesPerQuestion} summarizes the results for all questions. It shows that the ratings for the experiment condition are consistently higher with respect to the control condition. Figure \ref{fig:pacesPerCondition} depicts the average scores for the conditions. It can be observed that the average score for the control condition is \begin{math}\bar{x} = 89.8 \end{math} (\begin{math} \sigma = 11.97, x_{max}= 104, x_{min}= 71\end{math}), which is already high, but for the experiment condition is even higher  \begin{math}\bar{x} = 114.4 \end{math} (\begin{math} \sigma = 5.98, x_{max}= 125, x_{min}= 111\end{math}). After performing a normality test on the scores (\begin{math}W_{exp} = .91, W_{con} = .98, pB = X, pG = X\end{math}), we compared the two means with a paired t-test (\begin{math}\alpha = 0.05\end{math}) and we found a significant difference; t(8) = 4.11, p = ?. The 95\% confidence interval is [?; ?]. Therefore, we can conclude that the participants 
+perceived a difference between the two conditions and that warming up by using the exergame positively affects the physical activity enjoyment.\\\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{PacesSummary}
+    \caption{Summary of PACES results for control and experiment group.}
+    \label{fig:pacees}
+\end{figure}\\\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.90\textwidth]{pacesPerCondition}
+    \caption{Average PACES scores for control and experiment condition.}
+    \label{fig:pacesPerCondition}
+\end{figure}\pagebreak
+%Some of the things you may do here are: report means and standard deviations in neat tables indicate the statistics used and levels of significance include graphs, plots, histograms, etc that tell a story about the actual figures obtained Only critical raw data and summary statistics should be included in the actual report. However, you must keep all your raw data in a separate archival report, should anyone (a reviewer in the case of real scientific reporting) need more detail than is provided in the paper. 
+\subsection{SUS}
+The \acrlong{sus} is a reliable tool for measuring the usability of a system under tests. It consists of a 10 item questionnaire with five response options for respondents from strongly agree to strongly disagree. The sum of the 10 items in the questionnaire leads to a general measure of perceived usability of the system. The participants' scores for each question are converted, added together and then multiplied by 2.5 to convert the original scores of 0-40 to 0-100. Even though the scores are 0-100, these are not percentages and should be considered only in terms of their percentile ranking. Based on research, a  \acrshort{sus} score above a 68 would be considered above average and anything below 68 is below average. The summary of the \acrshort{sus} scores is presented in Figure \ref{fig:sus}. Only the participants in the experiment condition evaluated took the \acrshort{sus} questionnaire. The \acrshort{sus} for our exergame average score is \begin{math}\bar{x} = 76.7 \end{math} (\begin{math} \sigma = 8.16, x_{max}= 90, x_{min}= 72.5\end{math}). This implies that our system usability received \textit{excelent} adjective rating and a \textit{B} on a grade scale \cite{brooke2013sus}. 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.90\textwidth]{SUSSummary}
+    \caption{Summary of SUS results per participant.}
+    \label{fig:sus}
+\end{figure}\\
+The \acrshort{sus} average scores per question is depicted in Figure \ref{fig:susPerQuestion}. It can be observed that the participants found that the various functions in the exergame have been well integrated and that they felt very confident using the exergame. Furthermore, all the participants agreed that people would learn to use the exergame very quickly. Also, they did not find the exergame unnecessarily complex or having any unconsistencies during gameplay. They also thought that it was not difficult or awkward to use, and that getting familiar with the game was pretty straightforward and fast. When asked if they would like to continue playing the game frequently, 3 participants agreed with this statement, 1  neither agreed nor disagreed, and 1 disagreed. 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{SUSPerQuestion}
+    \caption{Summary of average SUS results for each question.}
+    \label{fig:susPerQuestion}
+\end{figure}\pagebreak
+\subsection{PES}
+The Play Experience Scale is a valid and reliable 20 item questionnaire with five response options for respondents from strongly agree to strongly disagree \cite{pavlas2012play}. It has been utilized in order to assess play experience, usability, and enjoyment of our exergame. The PES scale collects responses across five experiential dimensions which are labeled: \begin{itemize}
+\item Freedom - when individuals are free in a play context, they are able to perform the actions they wish to perform.
+\item No extrinsic - addresses if the respondents feel there are consequences to their play.
+\item Play direct - addresses the play itself.
+\item Autotelic - when experience is autotelic, an individual engages in it solely for its own rewards. That is, the experience is intrinsically motivating.
+\item Focus - targets the states of immersion and concentration during play. It is related to engagement and flow and the items in this category  reflects on the loss of concern and focused concentration.
+\end{itemize}
+Figure \ref{fig:pesPerQuestion} summarizes the PES results for each question. TODO: 16item scale vs 20item scale. \pagebreak
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{PESSummaryPerQuestion}
+    \caption{Summary of PES Scores for each question.}
+    \label{fig:pesPerQuestion}
+\end{figure}\\
+It can be observed that 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{PESSummary}
+    \caption{Summary of PES results for participants.}
+    \label{fig:pes}
+\end{figure}
+
+
+\subsection{Perceived Exertion}
+The \gls{rpe} reflects how difficult the performed warm up exercise feels to the participants, combining all sensations and feelings of physical stress, effort, and fatigue. All the participants received standardized instructions and were encouraged to focus upon their overall (wholebody) perceptions of exertion.
+Figure \ref{fig:borg} depicts the average BORG results for each condition.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{BorgSummary}
+    \caption{Summary of BORG results for control and experiment group.}
+    \label{fig:borg}
+\end{figure}\pagebreak
+
+\subsection{SAM}
+Figure \ref{fig:sam} depicts the average SAM results for each condition.TODO: this has been done only after the WU session...\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{SamSummary}
+    \caption{Summary of SAM results for control and experiment group.}
+    \label{fig:sam}
+\end{figure}
+
+TODO:
+1. BSA-F
+2. Emotions
+3. Post study survey 
+4. RR data analysis
+5. Skin resistance
+6. Distance?
+
 \section{Discussion}
 Interpret the results. Although you should still try to be as objective as possible, the discussion section should illuminate your critical thinking about the results. Explain what the statistics mean, account for anomalies, and so on.
 \subsection{Interpretation of Results}
@@ -241,9 +374,9 @@ The best experiments suggest new avenues of exploration. In this section, you sh
 Summarize the report, and speculate on what is to come.
 Acknowledgements. This section should give thanks to the major people (supervisors, associates) and organizations (sponsoring agencies, funders) that helped you. For example, I would like to thank Ben Shneiderman, whose report framework was used to build this one.
 
-\begin{appendices}
-  \chapter{Self-Assessment Manikin Scale}
-  \centering
-  \includegraphics[width=\textwidth]{manikin}
-  \label{appendix:sam}
-\end{appendices}
+%\begin{appendices}
+%  \chapter{Self-Assessment Manikin Scale}
+%  \centering
+%  \includegraphics[width=\textwidth]{manikin}
+%  \label{appendix:sam}
+%\end{appendices}

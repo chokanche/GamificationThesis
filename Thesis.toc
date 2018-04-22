@@ -5,43 +5,34 @@
 \contentsline {chapter}{Contents}{vii}{chapter*.4}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.5}
 \contentsline {chapter}{List of Tables}{xi}{chapter*.6}
-\contentsline {chapter}{\numberline {1}The Design and Development of the Immotion Exergame}{3}{chapter.7}
-\contentsline {section}{\numberline {1.1}Overview of User Centered Design}{3}{section.8}
-\contentsline {section}{\numberline {1.2}The Context of Use}{4}{section.9}
-\contentsline {section}{\numberline {1.3}Overview of the Development Phases}{5}{section.10}
-\contentsline {subsection}{\numberline {1.3.1}Requirements Gathering}{6}{subsection.12}
-\contentsline {subsection}{\numberline {1.3.2}Prototype Development}{7}{subsection.13}
-\contentsline {subsubsection}{\numberline {1.3.2.1}Game Description}{7}{subsubsection.14}
-\contentsline {subsubsection}{\numberline {1.3.2.2}Gamification Elements}{8}{subsubsection.17}
-\contentsline {subsubsection}{\numberline {1.3.2.3}Feedback}{9}{subsubsection.18}
-\contentsline {subsubsection}{\numberline {1.3.2.4}Gamification Components}{9}{subsubsection.19}
-\contentsline {paragraph}{Points}{9}{section*.20}
-\contentsline {paragraph}{Avatar}{10}{figure.caption.21}
-\contentsline {paragraph}{Visual Feedback}{10}{figure.caption.22}
-\contentsline {paragraph}{Audio Feedback}{11}{figure.caption.22}
-\contentsline {subsection}{\numberline {1.3.3}Game Scenes}{11}{subsection.23}
-\contentsline {chapter}{\numberline {2}Study Design}{13}{chapter.25}
-\contentsline {section}{\numberline {2.1}Description of the Experiment}{13}{section.26}
-\contentsline {subsection}{\numberline {2.1.1}Introduction and Goals}{13}{subsection.27}
-\contentsline {subsubsection}{\numberline {2.1.1.1}Hypotheses}{14}{subsubsection.32}
-\contentsline {subsubsection}{\numberline {2.1.1.2}Apparatus}{15}{subsubsection.36}
-\contentsline {subsection}{\numberline {2.1.2}Methods}{16}{subsection.41}
-\contentsline {subsubsection}{\numberline {2.1.2.1}Participants}{16}{subsubsection.42}
-\contentsline {subsubsection}{\numberline {2.1.2.2}Conditions}{17}{subsubsection.43}
-\contentsline {subsubsection}{\numberline {2.1.2.3}Control and Experiment Groups}{18}{subsubsection.46}
-\contentsline {subsubsection}{\numberline {2.1.2.4}Measures and Metrics}{18}{subsubsection.47}
-\contentsline {subsubsection}{\numberline {2.1.2.5}Tasks}{20}{subsubsection.48}
-\contentsline {subsubsection}{\numberline {2.1.2.6}Procedure}{21}{subsubsection.49}
-\contentsline {subsubsection}{\numberline {2.1.2.7}Independent and Dependent Variables}{22}{subsubsection.50}
-\contentsline {subsection}{\numberline {2.1.3}Problems/Limitations - Threats to Validity}{22}{subsection.51}
-\contentsline {section}{\numberline {2.2}Results}{22}{section.52}
-\contentsline {section}{\numberline {2.3}Discussion}{23}{section.53}
-\contentsline {subsection}{\numberline {2.3.1}Interpretation of Results}{23}{subsection.54}
-\contentsline {subsection}{\numberline {2.3.2}Relation to other works}{23}{subsection.55}
-\contentsline {subsection}{\numberline {2.3.3}Impact for practitioners}{23}{subsection.56}
-\contentsline {subsection}{\numberline {2.3.4}Critical reflection}{23}{subsection.57}
-\contentsline {subsection}{\numberline {2.3.5}Research agenda}{23}{subsection.58}
-\contentsline {section}{\numberline {2.4}Conclusions}{24}{section.59}
-\contentsline {chapter}{Appendices}{25}{section*.60}
-\contentsline {chapter}{\numberline {A}Self-Assessment Manikin Scale}{27}{Appendix.61}
-\contentsline {chapter}{Bibliography}{29}{chapter*.62}
+\contentsline {chapter}{\numberline {1}Study Design}{3}{chapter.7}
+\contentsline {section}{\numberline {1.1}Description of the Experiment}{3}{section.8}
+\contentsline {subsection}{\numberline {1.1.1}Introduction and Goals}{3}{subsection.9}
+\contentsline {subsubsection}{\numberline {1.1.1.1}Hypotheses}{4}{subsubsection.14}
+\contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{5}{subsubsection.18}
+\contentsline {subsection}{\numberline {1.1.2}Methods}{6}{subsection.23}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{6}{subsubsection.24}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{7}{subsubsection.25}
+\contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Groups}{8}{subsubsection.28}
+\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{8}{subsubsection.29}
+\contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{10}{subsubsection.30}
+\contentsline {subsubsection}{\numberline {1.1.2.6}Procedure}{11}{subsubsection.31}
+\contentsline {subsubsection}{\numberline {1.1.2.7}Independent and Dependent Variables}{12}{subsubsection.32}
+\contentsline {subsection}{\numberline {1.1.3}Problems/Limitations - Threats to Validity}{12}{subsection.33}
+\contentsline {section}{\numberline {1.2}Results}{13}{section.34}
+\contentsline {subsection}{\numberline {1.2.1}Range of Motion}{15}{subsection.36}
+\contentsline {subsection}{\numberline {1.2.2}Warm Up Duration}{16}{subsection.39}
+\contentsline {subsection}{\numberline {1.2.3}Heart Rate}{17}{subsection.41}
+\contentsline {subsection}{\numberline {1.2.4}PACES}{18}{subsection.44}
+\contentsline {subsection}{\numberline {1.2.5}SUS}{19}{subsection.47}
+\contentsline {subsection}{\numberline {1.2.6}PES}{21}{subsection.50}
+\contentsline {subsection}{\numberline {1.2.7}Perceived Exertion}{22}{subsection.53}
+\contentsline {subsection}{\numberline {1.2.8}SAM}{24}{subsection.55}
+\contentsline {section}{\numberline {1.3}Discussion}{24}{section.57}
+\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{24}{subsection.58}
+\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{25}{subsection.59}
+\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{25}{subsection.60}
+\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{25}{subsection.61}
+\contentsline {subsection}{\numberline {1.3.5}Research agenda}{25}{subsection.62}
+\contentsline {section}{\numberline {1.4}Conclusions}{25}{section.63}
+\contentsline {chapter}{Bibliography}{27}{chapter*.64}

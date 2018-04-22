@@ -28,7 +28,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage[acronym, toc]{glossaries}
 \usepackage{pdfpages}
+\usepackage{datetime}
 
+\newdate{date1}{28}{03}{2018}
+\newdate{date2}{29}{03}{2018}
+
+\date{\displaydate{date1}}
+
+\date{\displaydate{date2}}
 \makeglossaries
 
 \newcolumntype{Y}{>{\centering\arraybackslash}X}
@@ -176,10 +183,13 @@ Marko Vuji\'c
 \printglossary[type=\acronymtype]
 %\input{chapters/intro}
 %\input{chapters/relatedwork}
-\input{chapters/implementation}
+%\input{chapters/implementation}
 %\input{chapters/survey_one}
 %\input{chapters/finalImplementation}
 \input{chapters/studydesign}
+%\input{chapters/experiment_results}
+
+
 
 %\input{chapters/behaviorism}
 %

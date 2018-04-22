@@ -628,3 +628,63 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{rom}{}%
+{%
+\gls@defglossaryentry{rom}%
+{%
+name={ROM},%
+sort={ROM},%
+type={acronym},%
+first={Range of Motion\glsspace (ROM)},%
+firstplural={Range of Motions\glsspace (ROMs)},%
+text={ROM},%
+plural={ROMs},%
+description={Range of Motion},%
+descriptionplural={Range of Motion\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Range of Motion},%
+longplural={Range of Motions},%
+short={ROM},%
+shortplural={ROMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pes}{}%
+{%
+\gls@defglossaryentry{pes}%
+{%
+name={PES},%
+sort={PES},%
+type={acronym},%
+first={Play Experience Scale\glsspace (PES)},%
+firstplural={Play Experience Scales\glsspace (PESs)},%
+text={PES},%
+plural={PESs},%
+description={Play Experience Scale},%
+descriptionplural={Play Experience Scale\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Play Experience Scale},%
+longplural={Play Experience Scales},%
+short={PES},%
+shortplural={PESs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
