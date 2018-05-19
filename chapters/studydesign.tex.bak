@@ -41,7 +41,7 @@ The first study evaluated the prototype exergame. Based on the results obtained,
 %\item A video has been recorded with the original procedure.
 %\end{itemize}http://edutechwiki.unige.ch/en/Usability_and_user_experience_surveys
 %http://www.nigelbevan.com/papers/What_is_the_difference_between_usability_and_user_experience_evaluation_methods.pdf
-In order to evaluate the effectiveness, perceived user experience, usefulness and usability of our gamified solution in the given context, the user base is divided into two groups: \textit{experimental group} and \textit{control group}. The first, experimental group, is the one that interacts with the exergame directly. Contrarily, the control group is presented with the video of a coach (professional) who guides the participant through the warm up routine. This division allows us to infer the influence of our gamified solution, as well as, to assess the main differences in completing the required activities between the two user groups. 
+In order to evaluate the effectiveness, perceived user experience, usefulness and usability of our gamified solution in the given context, the user base is divided into two groups: \textit{experiment group} and \textit{control group}. The first, experiment group, is the one that interacts with the exergame directly. Contrarily, the control group is presented with the video of a coach (professional) who guides the participant through the warm up routine. This division allows us to infer the influence of our gamified solution, as well as, to assess the main differences in completing the required activities between the two user groups. 
 %\subsubsection{Assumptions}
 %\begin{itemize}
 %\item The participants will be able to perform the requested movements.
@@ -52,10 +52,10 @@ In order to evaluate the effectiveness, perceived user experience, usefulness an
 %Remember to state these in terms of the independent and dependent variables. If it is not immediately clear why you would have a certain hypothesis (it often follows logically from the introduction of the experiment), then include a brief explanation separate from but following the hypothesis. You do not need to state the null hypothesis.%
 Based on the research questions outlined in the previous section, the following hypotheses are established to be tested: 
 \begin{enumerate}
-\item The exergame itself is sufficient for guiding the player through a proper warm up procedure with correct movements. 
-\item After the warm up routine is completed using the exergame, the player reached a significantly higher increase in ROM.
+\item \begin{math}H_{1}\end{math}: The exergame itself is sufficient for guiding the player through a proper warm up procedure with correct movements. 
+\item \begin{math}H_{2}\end{math}: After the warm up routine is completed using the exergame, player's ROM is increased.
 %\item Participants that are interactively guided through the warm up procedure using the exergame have perceived exertion during physical activityexertion during a testperceived user experience in terms of PRC scale, compared to the participants who warm up without the exergame.
-\item Participants had a more positive perceived warm up experience when using the exergame compared to the participants not using the exergame.  
+\item \begin{math}H_{3}\end{math}: Participants had a more positive perceived warm up experience when using the exergame compared to the participants not using the exergame.  
 %\item Participants can easily follow the exergame and perform all the required movements. MODIFY %felt more motivated to undertake warm up exercises when using the exergame compared to the participants not using the exergame.
 %\item The exergame will encourage more 
 %behavior change compared to the standard warm up %procedure. - for longer study
@@ -63,7 +63,7 @@ Based on the research questions outlined in the previous section, the following 
 \pagebreak
 %Introduce your experiment, and give the reader the specific goals you expect it to address. It is common at this stage to give the reader a hint of your hypotheses (if they are not already hinted at in the Introduction).%
 \subsubsection{Apparatus}
-The experiment was conducted in the laboratory room in DFKI on (add date). The laboratory is presented in Figure \ref{fig:lab1}.\\ 
+The experiment was conducted in the laboratory room in DFKI. The laboratory is presented in Figure \ref{fig:lab1}.\\ 
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{Room1}
@@ -73,19 +73,22 @@ The experiment was conducted in the laboratory room in DFKI on (add date). The l
 The following equipment has been used during the experiment:
 \begin{itemize}
 \item Kinect for Xbox One (2.0 2013) motion sensing input devices by Microsoft used for movement detection and controlling the exergame avatar. 
+\item Kinect for Xbox One (2.0 2013) motion sensing input devices by Microsoft used for recording the experiment. 
 \item PC running the game engine.
 \item Projector used to display the game (video) on the wall in front of the participant.
-\item Microsoft Band used for gathering heart rate data.
-\item Goniometer used for measuring participants' ROM.
+\item Microsoft Band used for gathering skin resistance data.
+\item Polar H7 Bluetooth Heart Rate Sensor and Fitness Tracker for hear rate and respiratory rate monitoring.
+\item Camera for taking photos of participants' facial expressions during the warm up procedure.
+\item Goniometer used for measuring participants' \acrshort{rom}.
 \end{itemize}\pagebreak
-The Kinect motion sensor has been placed in front of the display panel facing the participant playing the exergame. The participant was instructed to keep at least 2 meter distance from the sensor during the gameplay. This distance was the most optimal in order to ... The sensor is presented in Figure \ref{fig:kinect}.\\
+Both the Kinect motion sensors have been placed in front of the display panel facing the participant playing the exergame. The participant was instructed to keep at least 2 meter distance from the sensor during the gameplay. This distance was the most optimal in order for the system to function properly in terms of skeleton tracking. The sensor is presented in Figure \ref{fig:kinect}.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{Kinect}
     \caption{Kinect motion sensor.}
     \label{fig:kinect}
 \end{figure}\\
-We used XXX beamer in order to project the exergame to the display. The beamer, showed in Figure \ref{fig:projector} was placed above the user so it did not interfere with the game flow. The desktop set up that consisted of XXX is presented in Figure \ref{fig:desktop}.\\
+We used XXX projector in order to display the exergame and video to the participant. The projector, depicted in Figure \ref{fig:projector} was placed above the user so it did not interfere with the game flow. The desktop set up is presented in Figure \ref{fig:desktop}.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{Desktop}
@@ -156,10 +159,10 @@ The second set of questionnaires have been administered after the completion of 
 \item \textit{Enjoyment of the physical activity}. To test the enjoyment of the physical activity performed, in this case the warm up procedure, the \gls{paces} has been used \cite{kendzierski1991physical}. 
 \item \textit{System usability}. For assessing the exergame's instrumental qualities (e.g. controllability, effectiveness, learnability), the \gls{sus} has been used.
 \item \textit{Enjoyment of the play}. In order to measure the play enjoyment and experience o the \gls{pes} has been utilized \cite{pavlas2012play}. 
-\end{itemize}\pagebreak
+\end{itemize}
 During the experiment, the following metrics were collected from each participants:
 \begin{itemize}
-\item \textit{Range of motion}. The participants' ROM has been measured before and after the warm up routine using goniometer.
+\item \textit{Range of motion}. The participants' \acrshort{rom} has been measured before and after the warm up routine using goniometer.
 \item \textit{Heart rate and Respiratory rate}. The participant's heart rate data has been captured and the measured during the warm up procedure using Microsoft Band.
 \item \textit{Distance}. The overall distance the participants' moved during the warm up routine was measured using Microsoft Kinect. 
 \item \textit{Skin resistance}. TODO
@@ -178,7 +181,7 @@ In order to interact with the gamified system, the participants in the experimen
 \item star jump, and
 \item squat.
 \end{itemize}
-Participants who were in the control group and did not interact with the gamified system were required to perform the same set of general movements. However, participants in this group had to follow a video that was projected on the wall in front of them. The video was a recording of a professional (coach) who guided the participants through the warm up routine. By following the video, and thus the coach, the participants were required to execute the same movements as the participant in the experiment group who interacted with the exergame.
+Participants who were in the control group and did not interact with the gamified system were required to perform the same set of general movements. However, participants in this group had to follow a video that was projected on the wall in front of them. The video was a recording of a professional (coach) who guided the participants through the warm up routine. By following the video, and thus the coach, the participants were required to execute the same movements in the same order as the participants in the experiment group who interacted with the exergame.
 %Briefly describe what participants were asked to do with the interactive system(s).%
 %\subsubsection{Design}
 %TO DISCUSS this section. Write the formal experimental design (e.g., a 2 x 3 mixed factorial design, more specifically a 2 levels of expertise (between subjects) x 3 interfaces (within subjects) design). 
@@ -191,23 +194,23 @@ Before the experiment, the lab environment is set up. The Kinect sensor is place
 \item The participant completes the preliminary survey.
 \item The researcher explains the sensors and tools that are required for the experiment, after which the participant puts them on. 
 \item After the researcher confirms that the sensors are placed in a correct position, we start recording heart rate data.
-\item The researcher measures the participant's ROM before starting the warm up procedure. The following ROM's are assessed: 
+\item The researcher measures the participant's \acrshort{rom} before starting the warm up procedure. The following \acrshort{rom}'s are assessed: 
 \begin{itemize}
 \item Left and right shoulder rotation
 \item Left and right shoulder extension
 \item Left and right hip flexion
 \item Left and right hip extension
 \end{itemize}
-\item After the measurements are completed, the participant rests.
+\item After the measurements are completed, the participant rests while the researcher explains what is required from the participant.
 \item The researcher gives a general explanation on the benefits of a proper warm up routine before physically more demanding exercise.
 \item The participant moves to the spot marked by the researcher.
-\item The researcher starts recording the session. 
+\item The researcher starts recording the session. \\
 \item The warm up procedure begins:
 \begin{itemize}
-\item If this participant is part of the experimental group, the game starts with the start scene where the participant enters his or her name. After 5 seconds, the game proceeds with scenes in which the participant performs specific movements in order to avoid obstacles and collect coins. The duration of the game is not fixed and it is played up to the point when the participant feels warmed up enough. 
+\item If this participant is part of the experiment condition, the game begins with the \textit{Start scene}. The researcher inputs the participant's name and presses the \textit{Start} button. After 5 seconds, the game proceeds with scenes in which the participant is required to perform specific movements in order to avoid obstacles and collect coins. The duration of the game is not fixed and it is played up to the point when the participant feels warmed up enough. 
 \item  In case the participant is part of the control group, the video that displays a coach who instructs the participants which movements need to be performed. As with with the sessions in the experiment group, the duration of the warm up is not fixed and the video is played up to the point when the participant feels warmed up enough.
 \end{itemize}
-\item After finishing with the warm up routine, the participant takes a rest. During this period the sensors are removed from the participant. \item Researcher assesses the ROM of the participant. 
+\item After finishing with the warm up routine, the participant takes a rest. The data collection is stopped. During this period the sensors are removed from the participant. \item Researcher assesses the ROM of the participant. 
 \item The participant completes the post-test surveys . %https://www.verywell.com/rating-of-perceived-exertion-scale-3119445
 \end{itemize}
 \subsubsection{Independent and Dependent Variables}
@@ -219,7 +222,7 @@ Before the experiment, the lab environment is set up. The Kinect sensor is place
 %Ordinal: ordered data - imdb. In user studies this comes from self-reported data. User states if someone is good better worse... These are relative rankings. You report it by frequencies: for example 40 percent said it is good. 
 
 \subsection{Problems/Limitations - Threats to Validity}
-Our participant sample has an unbalanced gender ratio and a limited age range, which represent a limitation for the study results. Moreover,  the arms of the standard goniometer that has been used for measuring participants' \acrshort{rom} was not longer than 12-inches so it was dofficult to accurately pinpoint the exact landmark needed for measurement. \pagebreak
+Our participant sample has an unbalanced gender ratio and a limited age range, which represent a limitation for the study results. Moreover, the arms of the standard goniometer that has been used for measuring participants' \acrshort{rom} were not longer than 12-inches which made it difficult to accurately pinpoint the exact landmark needed for measurement. \pagebreak
 \section{Results}
 Our subject group included 10 individuals, of which 2 were female and 8 were male. Participants were on average age \begin{math}\bar{x} = 26.7\end{math} years old (\begin{math}\sigma = 1.77, x_{max}=30 ,x_{min}= 24 \end{math}), with different levels of education, such as Bachelor's degree (n = 4) and Master's degree (n = 6). Two participants reported to exercise 7 to 8 times per week and only 1 participant 5 to 6 times per week. The majority of the participant either exercise 3 to 4 times (n = 4) or 1 to 2 times (n = 3) per week. The duration of the sport or fitness activity for most of the participant was between 1 and 2 hours long (n = 8). Only 2 participants reported engaging in sports activity with duration less than an hour. The most common exercises the participants reported doing during one fitness or sport session were:
 \begin{itemize}
@@ -228,17 +231,22 @@ Our subject group included 10 individuals, of which 2 were female and 8 were mal
 \item Running outdoors, running on treadmills, and doing yoga (n = 3).
 \item Cycling and jogging (n = 2).
 \end{itemize}
-The majority of the participants (n = 7) engage in physical activity alone, while only 3 participant enjoy sports activities performed in a group. The reasons reported by the respondents were time constraint (n = 2), the monotonous and tiresome nature of the warm up procedure, how the warm up procedure represents an insignificant and negligible activity, and lastly, that no one warms up either. Regarding duration of the warm up session, 6 participants reported spending less then 5 minutes for warming up, while 4 participants reported spending between 5 and 10 minutes for the this preparatory activity. Out of all the participants, 7 stated that they engage in sport specific warm up, whereas 3 reported engaging in general  (non-specific) warm up exercises. Half of the participants (n = 5) stated that they do not enjoy warming up in a group. When inquired about preferences regarding warming up when given instruction, 6 participants stated they prefer warming up when given instructions, while 4 participants stated they do not prefer warming up when given instructions. The engagement in playing video games varies among the participants: 1 plays video games daily, 1 few times per month, 1 once per month, 2 once a day, 3 few times per year, and 4 once per year or less. The most common video game types the participants engage in are depicted in Figure \ref{fig:gametypes}. We observe that the most common game types among participants are racing (n = 5) and sports games (n = 4). In addition, when inquired about participant's previous experience with Microsoft Kinect games, only 1 participant reported having a lot of experience with games in this area. The rest of the participants reported having either non or some experience with Kinect related games.\\\\
-
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{participantExperiment}
+    \caption{Participants during the experiment performing the worm up procedure.}
+    \label{fig:participants}
+\end{figure}
+The majority of the participants (n = 7) engage in physical activity alone, while only 3 participant enjoy sports activities performed in a group. The reasons reported by the respondents were time constraint, the monotonous and tiresome nature of the warm up procedure, how the warm up procedure represents an insignificant and negligible activity, and lastly, that no one warms up either. Regarding duration of the warm up session, 6 participants reported spending less than 5 minutes for warming up, while 4 participants reported spending between 5 and 10 minutes for the this preparatory activity. Out of all the participants, 7 stated that they engage in sport specific warm up, whereas 3 reported engaging in general  (non-specific) warm up exercises. Half of the participants (n = 5) stated that they do not enjoy warming up in a group. When inquired about preferences regarding warming up when given instruction, 6 participants stated they prefer warming up when given instructions, while 4 participants stated they do not prefer warming up when given instructions. The engagement in playing video games varies among the participants: 1 plays video games daily, 1 few times per month, 1 once per month, 2 once a day, 3 few times per year, and 4 once per year or less. The most common video game types the participants engage in are depicted in Figure \ref{fig:gametypes}. We observe that the most common game types among participants are racing (n = 5) and sports games (n = 4). In addition, when inquired about participant's previous experience with Microsoft Kinect games, only 1 participant reported having a lot of experience with games in this area. The rest of the participants reported having either non or some experience with Kinect related games.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{GameTypes}
     \caption{Game types most often played by the participants.}
     \label{fig:gametypes}
-\end{figure}\pagebreak
+\end{figure}
 
 \subsection{Range of Motion}
-The average \acrshort{rom} values for each condition are presented in Figure \ref{fig:romExperiment} and Figure \ref{fig:romControl}. The measures were taken for each condition before the warm up session and immediately the participants completed the procedure. For taking the measures a plastic goniometer with 1 degree increments has been utilized. It can be observed that the average values after the warm up session are higher in each condition. 
+The average \acrshort{rom} values for each condition are presented in Figure \ref{fig:romExperiment} and Figure \ref{fig:romControl}. The measures were taken for each condition before the warm up session and immediately the participants completed the procedure. For taking the measures a plastic goniometer with 1 degree increments has been utilized. It can be observed that the average values after the warm up session for all measured joints are higher in each experiment condition. 
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{ROMSummaryExperiment}
@@ -252,7 +260,7 @@ The average \acrshort{rom} values for each condition are presented in Figure \re
     \label{fig:romControl}
 \end{figure}
 \subsection{Warm Up Duration}
-The duration of the warm up session has been measured from the game or video start until the moment the participant stopped with the warm up session. The participants have been informed to play the game or follow the video instructions as long as they would spend on warming up session before some physically strenuous activity. The average warm up duration for the experiment condition was \begin{math}\bar{x} = 800.4 \end{math} seconds (\begin{math} \sigma = 205.4, x_{max}=1122, x_{min}=616 \end{math}). The average warm up duration for the control condition was \begin{math}\bar{x} = 444.2 \end{math} seconds (\begin{math} \sigma = 94.2, x_{max}= 576, x_{min}= 345\end{math}). The average duration with standard error of the WU session per conditions is presented in Figure \ref{fig:wuduration}. It can be observed that the average duration of the warm up session for the participant in the experiment group who played the exergame is significantly higher compared to the duration of the warm up session for the participants in the control group. That is, interacting with the exergame positively influenced the duration of the warm up session for all the participants in the experiment condition.\\
+The duration of the warm up session has been measured from the game or video start until the moment the participant stopped with the warm up session. The participants have been informed to play the game or follow the video instructions as long as they usually spend on warming up session before some physically strenuous activity. The average warm up duration for the experiment condition was \begin{math}\bar{x} = 800.4 \end{math} seconds (\begin{math} \sigma = 205.4, x_{max}=1122, x_{min}=616 \end{math}). The average warm up duration for the control condition was \begin{math}\bar{x} = 444.2 \end{math} seconds (\begin{math} \sigma = 94.2, x_{max}= 576, x_{min}= 345\end{math}). The average duration with standard error of the warm up session for each conditions is presented in Figure \ref{fig:wuduration}. The average duration of the warm up session for the participant in the experiment group who played the exergame is significantly higher compared to the duration of the warm up session for the participants in the control group. That is, interacting with the exergame positively influenced the duration of the warm up session for all the participants in the experiment condition.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{AVGTime}
@@ -260,21 +268,65 @@ The duration of the warm up session has been measured from the game or video sta
     \label{fig:wuduration}
 \end{figure}\pagebreak
 \subsection{Heart Rate}
-TODO: MAX or AVG?\\
-The heart rate data has been captured and monitored using Polar H7 Bluetooth Heart Rate Sensor and Fitness Tracker in order to determine the exercise intensity of a warm up session. The heart rate has been measure from the beginning of the warm up session until the moment the participant declared being warmed up enough for a subsequent hypothetical physical activity. The average heart rate for the participants in the experiment group was \begin{math}\bar{x} = 137.91
- \end{math} (\begin{math} \sigma = 4.00, x_{max}=143.32, x_{min}=132.03 \end{math}). The average heart rate for the participants in the control group was \begin{math}\bar{x} = 123.20 \end{math} (\begin{math} \sigma = 13.20, x_{max}= 142.94, x_{min}= 108.46\end{math}). Figure \ref{fig:hrdata} presents the average heart rates with standard errors per condition. The exergame was more successful in placing more participants in their target heart rate range and in the target heart range for cardio-respiratory benefits. \\
+The heart rate data has been captured and monitored using Polar H7 Bluetooth Heart Rate Sensor and Fitness Tracker in order to determine the exercise intensity of a warm up session. The heart rate has been measure from the beginning of the warm up session until the moment the participant declared being warmed up enough for a subsequent hypothetical physical activity. The average maximum heart rate for the participants in the experiment group was \begin{math}\bar{x} = 174.20 \end{math} (\begin{math} \sigma = 7.01, x_{max}=186, x_{min}=170 \end{math}). The average maximum heart rate for the participants in the control group was \begin{math}\bar{x} = 158.8 \end{math} (\begin{math} \sigma = 10.06, x_{max}= 169, x_{min}= 144\end{math}). Figure \ref{fig:hrdata} presents the average heart rates with standard errors per condition. From the figure is evident that the participants in the experiment condition reached higher heart rate levels compared to the participants in the control condition.\\ %The exergame was more successful in placing more participants in their target heart rate range and in the target heart range for cardio-respiratory benefits.
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{AVGHr}
-    \caption{Average HR per study group.}
+    \caption{Average heart rate per study group.}
     \label{fig:hrdata}
 \end{figure}\\
-TODO: Discuss RR.\\
+The individual heart rate data for each participant is depicted in Figure \ref{fig:hrCumulative}. It can be observed, as previously pointed out, that the participants in the experiment group who interacted with the exergame solution, reached higher level of heart rates during the warm up session compared to the participants in the control condition. Furthermore, from the figure is evident that the duration of the warm up session for the participants in the experiment group is significantly longer also.\pagebreak
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{HRCumulative}
+    \caption{Heart rate data for each participant. The color represents the condition the participant belongs to.}
+    \label{fig:hrCumulative}
+\end{figure}\\
+For each participant we calculated the zone of the target heart rate (\begin{math} T_{HR}\end{math}) based on the maximum heart rate using the Karvonen method. A number of formulas are used to estimate  \begin{math} HR_{max}\end{math} [wiki]. Tanaka, Monahan, \& Seals (2001) proposed the following formula for calculating \begin{math}HR_{max}\end{math}\\
+\begin{equation}
+THR_{max} = 208-(0.7 * age)
+\end{equation}The resting heart rate \begin{math} R_{HR}\end{math} have not been measured during the experiment session. Hence, we utilized the generalized values for \begin{math} R_{HR}\end{math} based on age groups []. Since our participant engage in sports activities sami-regularly, we opted for the \textit{average} generalized \begin{math} R_{HR}\end{math} values. The heart rate reserve (\begin{math} HS_{R}\end{math}) represents the difference between participant's heart rate at rest and heart rate at maximum effort, and has been calculated as follows: \begin{equation}
+HR_{R} = THR_{max} - R_{HR} 
+\end{equation}The Target minimum heart rate (\begin{math} THR_{min}\end{math}) has been calculated for each participant using the following formula:\begin{equation}
+THR_{min} =  HR_{R}*0.5 + R_{HR} 
+\end{equation}
+Following, the Target moderate heart rate (\begin{math} THR_{mod}\end{math}) has been calculated as follows:\begin{equation}
+THR_{mod} =  HR_{R}*0.7 + R_{HR} 
+\end{equation}Lastly, the Intense target heart rate (\begin{math} THR_{int}\end{math}), to be reached during extreme-intensity anaerobic exercise, is calculated as follows: 
+\begin{equation}
+THR_{int} =  HR_{R}*0.85 + R_{HR} 
+\end{equation} If the participant's heart rate falls into the middle of the (\begin{math} T_{HR}\end{math}) range, that means the participant is exercising at moderate intensity (roughly 50 to 70\% of \begin{math} THR_{max}\end{math}). In case it verges toward the upper limit, the participant is exercising at high intensity (70 to 85\% of \begin{math} THR_{max}\end{math}). Figure \ref{fig:hrZones} presents the calculated target zones for the participants.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{HRTargetZones}
+    \caption{Computed target zones for participants in each condition.}
+    \label{fig:hrZones}
+\end{figure}\\
+It can be observed that the maximum heart rates of the participants in the experiment group obtained during the warm up fall in the middle and lower range of high intensity exercise. Only one participant's (ID = 4) heart rate was close to the maximum target heart rate (\begin{math} THR_{max}\end{math}). On the other hand, the maximum heart rate of the participants' in the control group fall in lower range of high intensity exercise with one participant (ID = 7) in the middle range of moderate intensity exercise zone. Figure \ref{fig:hrzones} depicts the distribution of maximum heart rates participants reached during warm up session in both condition per exercise intensity zones. Figure \ref{fig:hrzones} depicts three distinct zones (\textit{Low, Moderate, and High} intensity zones) that were computed based on participants' age, resting heart rate, and heart rate reserve (Figure \ref{fig:hrZones}). The figure gives a clearer overview of the intensity of the warm up performed in both condition. It can be observed that the participant in the experiment group reached higher levels of exertions compared to the participants in the control group. This can be attributed to the duration differences between the conditions.\pagebreak
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{HRZonesPic}
+    \caption{Target heart rate with exercise intensity for each participant}
+    \label{fig:hrzones}
+\end{figure}\\
+In general, participants reached the target minimum heart rate relatively promptly. 
+Overall, we conclude that  participants in both conditions reach an elevated heart rate sufficient to continue with the more strenuous physical activity. The results, however, suggest that the duration .. \\
+Lastly, we compared the times participants in the experiment and control conditions reached target minimum and moderate heart rate. Figure \ref{fig:hRTargetMinMod} depicts the differences between the conditions.\\ 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{HRTargetMinMod}
+    \caption{Minimum and moderate target HR.}
+    \label{fig:hRTargetMinMod}
+\end{figure}\\
+It can be observed that the participants in the control group have reached both target heart rate much faster than the participants in the experiment group. 
+
+\subsection{RR data}
+The average RR data per condition is presented in Figure \ref{fig:rrdata}.
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{AVGRr}
     \caption{Average RR per study group.}
-    \label{fig:hrdata}
+    \label{fig:rrdata}
 \end{figure}\\
 \subsection{PACES}
 The \acrshort{paces} test consists of 18 questions in a 1 to 7 Likert scale and it was originally designed to measure positive affect associated with involvement in physical activities in college students (Kendzierski and DeCarlo, 1991). Figure \ref{fig:pesPerQuestion} summarizes the results for all questions. It shows that the ratings for the experiment condition are consistently higher with respect to the control condition. Figure \ref{fig:pacesPerCondition} depicts the average scores for the conditions. It can be observed that the average score for the control condition is \begin{math}\bar{x} = 89.8 \end{math} (\begin{math} \sigma = 11.97, x_{max}= 104, x_{min}= 71\end{math}), which is already high, but for the experiment condition is even higher  \begin{math}\bar{x} = 114.4 \end{math} (\begin{math} \sigma = 5.98, x_{max}= 125, x_{min}= 111\end{math}). After performing a normality test on the scores (\begin{math}W_{exp} = .91, W_{con} = .98, pB = X, pG = X\end{math}), we compared the two means with a paired t-test (\begin{math}\alpha = 0.05\end{math}) and we found a significant difference; t(8) = 4.11, p = ?. The 95\% confidence interval is [?; ?]. Therefore, we can conclude that the participants 
@@ -319,14 +371,14 @@ Figure \ref{fig:pesPerQuestion} summarizes the PES results for each question. TO
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PESSummaryPerQuestion}
-    \caption{Summary of PES Scores for each question.}
+    \caption{Summary of average PES score for each question.}
     \label{fig:pesPerQuestion}
 \end{figure}\\
 It can be observed that 
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PESSummary}
-    \caption{Summary of PES results for participants.}
+    \caption{Summary of average PES score for participants.}
     \label{fig:pes}
 \end{figure}
 
@@ -342,7 +394,7 @@ Figure \ref{fig:borg} depicts the average BORG results for each condition.\\
 \end{figure}\pagebreak
 
 \subsection{SAM}
-Figure \ref{fig:sam} depicts the average SAM results for each condition.TODO: this has been done only after the WU session...\\
+Figure \ref{fig:sam} depicts the average SAM results for each condition. : this has been done only after the WU session...\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{SamSummary}

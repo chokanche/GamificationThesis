@@ -11,28 +11,29 @@
 \contentsline {subsubsection}{\numberline {1.1.1.1}Hypotheses}{4}{subsubsection.14}
 \contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{5}{subsubsection.18}
 \contentsline {subsection}{\numberline {1.1.2}Methods}{6}{subsection.23}
-\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{6}{subsubsection.24}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{7}{subsubsection.24}
 \contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{7}{subsubsection.25}
 \contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Groups}{8}{subsubsection.28}
-\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{8}{subsubsection.29}
+\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{9}{subsubsection.29}
 \contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{10}{subsubsection.30}
 \contentsline {subsubsection}{\numberline {1.1.2.6}Procedure}{11}{subsubsection.31}
 \contentsline {subsubsection}{\numberline {1.1.2.7}Independent and Dependent Variables}{12}{subsubsection.32}
 \contentsline {subsection}{\numberline {1.1.3}Problems/Limitations - Threats to Validity}{12}{subsection.33}
 \contentsline {section}{\numberline {1.2}Results}{13}{section.34}
-\contentsline {subsection}{\numberline {1.2.1}Range of Motion}{15}{subsection.36}
-\contentsline {subsection}{\numberline {1.2.2}Warm Up Duration}{16}{subsection.39}
-\contentsline {subsection}{\numberline {1.2.3}Heart Rate}{17}{subsection.41}
-\contentsline {subsection}{\numberline {1.2.4}PACES}{18}{subsection.44}
-\contentsline {subsection}{\numberline {1.2.5}SUS}{19}{subsection.47}
-\contentsline {subsection}{\numberline {1.2.6}PES}{21}{subsection.50}
-\contentsline {subsection}{\numberline {1.2.7}Perceived Exertion}{22}{subsection.53}
-\contentsline {subsection}{\numberline {1.2.8}SAM}{24}{subsection.55}
-\contentsline {section}{\numberline {1.3}Discussion}{24}{section.57}
-\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{24}{subsection.58}
-\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{25}{subsection.59}
-\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{25}{subsection.60}
-\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{25}{subsection.61}
-\contentsline {subsection}{\numberline {1.3.5}Research agenda}{25}{subsection.62}
-\contentsline {section}{\numberline {1.4}Conclusions}{25}{section.63}
-\contentsline {chapter}{Bibliography}{27}{chapter*.64}
+\contentsline {subsection}{\numberline {1.2.1}Range of Motion}{15}{subsection.37}
+\contentsline {subsection}{\numberline {1.2.2}Warm Up Duration}{16}{subsection.40}
+\contentsline {subsection}{\numberline {1.2.3}Heart Rate}{17}{subsection.42}
+\contentsline {subsection}{\numberline {1.2.4}RR data}{20}{subsection.53}
+\contentsline {subsection}{\numberline {1.2.5}PACES}{21}{subsection.55}
+\contentsline {subsection}{\numberline {1.2.6}SUS}{23}{subsection.58}
+\contentsline {subsection}{\numberline {1.2.7}PES}{24}{subsection.61}
+\contentsline {subsection}{\numberline {1.2.8}Perceived Exertion}{26}{subsection.64}
+\contentsline {subsection}{\numberline {1.2.9}SAM}{28}{subsection.66}
+\contentsline {section}{\numberline {1.3}Discussion}{28}{section.68}
+\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{28}{subsection.69}
+\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{29}{subsection.70}
+\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{29}{subsection.71}
+\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{29}{subsection.72}
+\contentsline {subsection}{\numberline {1.3.5}Research agenda}{29}{subsection.73}
+\contentsline {section}{\numberline {1.4}Conclusions}{29}{section.74}
+\contentsline {chapter}{Bibliography}{31}{chapter*.75}
