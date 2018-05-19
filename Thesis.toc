@@ -29,11 +29,14 @@
 \contentsline {subsection}{\numberline {1.2.7}PES}{24}{subsection.61}
 \contentsline {subsection}{\numberline {1.2.8}Perceived Exertion}{26}{subsection.64}
 \contentsline {subsection}{\numberline {1.2.9}SAM}{28}{subsection.66}
-\contentsline {section}{\numberline {1.3}Discussion}{28}{section.68}
-\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{28}{subsection.69}
-\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{29}{subsection.70}
-\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{29}{subsection.71}
-\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{29}{subsection.72}
-\contentsline {subsection}{\numberline {1.3.5}Research agenda}{29}{subsection.73}
-\contentsline {section}{\numberline {1.4}Conclusions}{29}{section.74}
-\contentsline {chapter}{Bibliography}{31}{chapter*.75}
+\contentsline {subsection}{\numberline {1.2.10}Post-study questionnaire}{28}{subsection.68}
+\contentsline {subsubsection}{\numberline {1.2.10.1}Post study questionnaire for the experiment condition}{28}{subsubsection.69}
+\contentsline {subsubsection}{\numberline {1.2.10.2}Post study questionnaire for the control condition}{30}{subsubsection.71}
+\contentsline {section}{\numberline {1.3}Discussion}{31}{section.73}
+\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{31}{subsection.74}
+\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{31}{subsection.75}
+\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{32}{subsection.76}
+\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{32}{subsection.77}
+\contentsline {subsection}{\numberline {1.3.5}Research agenda}{32}{subsection.78}
+\contentsline {section}{\numberline {1.4}Conclusions}{32}{section.79}
+\contentsline {chapter}{Bibliography}{33}{chapter*.80}
