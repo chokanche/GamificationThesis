@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.16)  23 MAY 2018 09:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.16)  26 MAY 2018 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1810,217 +1810,213 @@ Chapter 1.
 ------------------------------------------------------------------------------
  1 Study Design
 ------------------------------------------------------------------------------
-[3] [4]
-<figures/Room1.jpg, id=339, 722.7pt x 481.8pt>
-File: figures/Room1.jpg Graphic file (type jpg)
-<use figures/Room1.jpg>
-Package pdftex.def Info: figures/Room1.jpg  used on input line 73.
-(pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
- [5 <./figures/Room1.jpg>]
-<figures/Kinect.jpg, id=349, 722.7pt x 481.8pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
+<figures/Room1.jpg, id=326, 722.7pt x 481.8pt>
+File: figures/Room1.jpg Graphic file (type jpg)
+<use figures/Room1.jpg>
+Package pdftex.def Info: figures/Room1.jpg  used on input line 68.
+(pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
+ [4] [5 <./figures/Room1.jpg>]
+<figures/Kinect.jpg, id=348, 722.7pt x 481.8pt>
 File: figures/Kinect.jpg Graphic file (type jpg)
 <use figures/Kinect.jpg>
-Package pdftex.def Info: figures/Kinect.jpg  used on input line 91.
+Package pdftex.def Info: figures/Kinect.jpg  used on input line 86.
 (pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
-<figures/Desktop.jpg, id=351, 722.7pt x 481.8pt>
+<figures/Desktop.jpg, id=350, 722.7pt x 481.8pt>
 File: figures/Desktop.jpg Graphic file (type jpg)
 <use figures/Desktop.jpg>
-Package pdftex.def Info: figures/Desktop.jpg  used on input line 98.
+Package pdftex.def Info: figures/Desktop.jpg  used on input line 93.
 (pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <./figures/Kinect.jpg>] [7 <./figures/Desktop.jpg>] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 [10] [11]
-<figures/participantExperiment.png, id=413, 1013.7875pt x 762.85pt>
+<figures/participantExperiment.png, id=412, 1013.7875pt x 762.85pt>
 File: figures/participantExperiment.png Graphic file (type png)
 <use figures/participantExperiment.png>
 Package pdftex.def Info: figures/participantExperiment.png  used on input line 
-236.
+230.
 (pdftex.def)             Requested size: 408.24449pt x 307.1949pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [12] [13 <./figures/participantExperiment.png>]
-<figures/ROMSummaryExperiment.png, id=430, 789.70032pt x 344.78813pt>
+<figures/ROMSummaryExperiment.png, id=429, 789.70032pt x 344.78813pt>
 File: figures/ROMSummaryExperiment.png Graphic file (type png)
 <use figures/ROMSummaryExperiment.png>
 Package pdftex.def Info: figures/ROMSummaryExperiment.png  used on input line 2
-52.
+46.
 (pdftex.def)             Requested size: 453.60808pt x 198.04645pt.
-<figures/ROMSummaryControl.png, id=431, 789.70032pt x 359.09157pt>
+<figures/ROMSummaryControl.png, id=430, 789.70032pt x 359.09157pt>
 File: figures/ROMSummaryControl.png Graphic file (type png)
 <use figures/ROMSummaryControl.png>
-Package pdftex.def Info: figures/ROMSummaryControl.png  used on input line 258.
+Package pdftex.def Info: figures/ROMSummaryControl.png  used on input line 252.
 
 (pdftex.def)             Requested size: 453.60808pt x 206.26234pt.
-<figures/AVGTime.png, id=434, 554.82281pt x 329.73187pt>
+<figures/AVGTime.png, id=433, 554.82281pt x 329.73187pt>
 File: figures/AVGTime.png Graphic file (type png)
 <use figures/AVGTime.png>
-Package pdftex.def Info: figures/AVGTime.png  used on input line 267.
+Package pdftex.def Info: figures/AVGTime.png  used on input line 261.
 (pdftex.def)             Requested size: 408.24449pt x 242.61917pt.
  [14 <./figures/ROMSummaryExperiment.png> <./figures/ROMSummaryControl.png>]
-<figures/AVGHr.png, id=440, 441.44925pt x 287.27325pt>
+<figures/AVGHr.png, id=439, 441.44925pt x 287.27325pt>
 File: figures/AVGHr.png Graphic file (type png)
 <use figures/AVGHr.png>
-Package pdftex.def Info: figures/AVGHr.png  used on input line 276.
+Package pdftex.def Info: figures/AVGHr.png  used on input line 270.
 (pdftex.def)             Requested size: 408.24449pt x 265.67099pt.
-<figures/HRCumulative.png, id=442, 600.44325pt x 446.26724pt>
+<figures/HRCumulative.png, id=441, 600.44325pt x 446.26724pt>
 File: figures/HRCumulative.png Graphic file (type png)
 <use figures/HRCumulative.png>
-Package pdftex.def Info: figures/HRCumulative.png  used on input line 283.
+Package pdftex.def Info: figures/HRCumulative.png  used on input line 277.
 (pdftex.def)             Requested size: 453.60808pt x 337.13058pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--288
+Underfull \hbox (badness 10000) in paragraph at lines 267--282
 
  []
 
 [15 <./figures/AVGTime.png>] [16 <./figures/AVGHr.png>] [17 <./figures/HRCumula
 tive.png>]
-<figures/HRTargetZones.png, id=461, 632.3625pt x 168.63pt>
+<figures/HRTargetZones.png, id=460, 632.3625pt x 168.63pt>
 File: figures/HRTargetZones.png Graphic file (type png)
 <use figures/HRTargetZones.png>
-Package pdftex.def Info: figures/HRTargetZones.png  used on input line 303.
+Package pdftex.def Info: figures/HRTargetZones.png  used on input line 297.
 (pdftex.def)             Requested size: 453.60808pt x 120.96321pt.
-<figures/HRZonesPic.png, id=465, 664.884pt x 446.8695pt>
+<figures/HRZonesPic.png, id=462, 664.884pt x 446.8695pt>
 File: figures/HRZonesPic.png Graphic file (type png)
 <use figures/HRZonesPic.png>
-Package pdftex.def Info: figures/HRZonesPic.png  used on input line 310.
+Package pdftex.def Info: figures/HRZonesPic.png  used on input line 304.
 (pdftex.def)             Requested size: 453.60808pt x 304.86958pt.
  [18 <./figures/HRTargetZones.png>]
-<figures/PacesSummary.png, id=477, 551.661pt x 283.0575pt>
+<figures/PacesSummary.png, id=474, 551.661pt x 283.0575pt>
 File: figures/PacesSummary.png Graphic file (type png)
 <use figures/PacesSummary.png>
-Package pdftex.def Info: figures/PacesSummary.png  used on input line 338.
+Package pdftex.def Info: figures/PacesSummary.png  used on input line 330.
 (pdftex.def)             Requested size: 408.24449pt x 209.4679pt.
-<figures/pacesPerCondition.png, id=479, 361.35pt x 216.81pt>
+<figures/pacesPerCondition.png, id=476, 361.35pt x 216.81pt>
 File: figures/pacesPerCondition.png Graphic file (type png)
 <use figures/pacesPerCondition.png>
-Package pdftex.def Info: figures/pacesPerCondition.png  used on input line 345.
+Package pdftex.def Info: figures/pacesPerCondition.png  used on input line 337.
 
 (pdftex.def)             Requested size: 453.60808pt x 272.1664pt.
  [19 <./figures/HRZonesPic.png>]
 [20 <./figures/PacesSummary.png> <./figures/pacesPerCondition.png>]
-<figures/SUSSummary.png, id=498, 963.09813pt x 526.96875pt>
-File: figures/SUSSummary.png Graphic file (type png)
-<use figures/SUSSummary.png>
-Package pdftex.def Info: figures/SUSSummary.png  used on input line 355.
-(pdftex.def)             Requested size: 453.60808pt x 248.18996pt.
-<figures/SUSPerQuestion.png, id=501, 507.69675pt x 245.11575pt>
-File: figures/SUSPerQuestion.png Graphic file (type png)
-<use figures/SUSPerQuestion.png>
-Package pdftex.def Info: figures/SUSPerQuestion.png  used on input line 362.
-(pdftex.def)             Requested size: 453.60808pt x 219.00508pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--366
-
- []
-
-[21 <./figures/SUSSummary.png>] [22 <./figures/SUSPerQuestion.png>]
-<figures/PESSummaryPerQuestion.png, id=517, 1081.03876pt x 607.26875pt>
-File: figures/PESSummaryPerQuestion.png Graphic file (type png)
-<use figures/PESSummaryPerQuestion.png>
-Package pdftex.def Info: figures/PESSummaryPerQuestion.png  used on input line 
-376.
-(pdftex.def)             Requested size: 453.60808pt x 254.81021pt.
-<figures/PESSummary.png, id=520, 975.14313pt x 514.42188pt>
-File: figures/PESSummary.png Graphic file (type png)
-<use figures/PESSummary.png>
-Package pdftex.def Info: figures/PESSummary.png  used on input line 386.
-(pdftex.def)             Requested size: 453.60808pt x 239.29004pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[23 <./figures/PESSummaryPerQuestion.png>]
-<figures/BorgSummary.png, id=532, 369.17924pt x 227.04825pt>
+<figures/BorgSummary.png, id=491, 369.17924pt x 227.04825pt>
 File: figures/BorgSummary.png Graphic file (type png)
 <use figures/BorgSummary.png>
-Package pdftex.def Info: figures/BorgSummary.png  used on input line 396.
+Package pdftex.def Info: figures/BorgSummary.png  used on input line 347.
 (pdftex.def)             Requested size: 453.60808pt x 278.98705pt.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 400.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 351.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 400.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/sam.png, id=539, 1042.39438pt x 616.80438pt>
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 351.
+ [21 <./figures/BorgSummary.png>]
+<figures/sam.png, id=503, 1042.39438pt x 616.80438pt>
 File: figures/sam.png Graphic file (type png)
 <use figures/sam.png>
-Package pdftex.def Info: figures/sam.png  used on input line 405.
+Package pdftex.def Info: figures/sam.png  used on input line 356.
 (pdftex.def)             Requested size: 453.60808pt x 268.41127pt.
-<figures/SamSummary.png, id=543, 1023.825pt x 486.31688pt>
+<figures/SamSummary.png, id=507, 1023.825pt x 486.31688pt>
 File: figures/SamSummary.png Graphic file (type png)
 <use figures/SamSummary.png>
-Package pdftex.def Info: figures/SamSummary.png  used on input line 415.
+Package pdftex.def Info: figures/SamSummary.png  used on input line 366.
 (pdftex.def)             Requested size: 453.60808pt x 215.4642pt.
-[24 <./figures/PESSummary.png>]
+ [22 <./figures/sam.png>]
+<figures/SUSSummary.png, id=521, 963.09813pt x 526.96875pt>
+File: figures/SUSSummary.png Graphic file (type png)
+<use figures/SUSSummary.png>
+Package pdftex.def Info: figures/SUSSummary.png  used on input line 382.
+(pdftex.def)             Requested size: 453.60808pt x 248.18996pt.
+<figures/SUSPerQuestion.png, id=524, 507.69675pt x 245.11575pt>
+File: figures/SUSPerQuestion.png Graphic file (type png)
+<use figures/SUSPerQuestion.png>
+Package pdftex.def Info: figures/SUSPerQuestion.png  used on input line 389.
+(pdftex.def)             Requested size: 453.60808pt x 219.00508pt.
+ [23 <./figures/SamSummary.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <./figures/BorgSummary.png>] [26 <./figures/sam.png> <./figures/SamSummary.
-png>]
-<figures/PostStudyExperiment.png, id=562, 948.54375pt x 309.65688pt>
+[24 <./figures/SUSSummary.png>]
+<figures/PESSummaryPerQuestion.png, id=541, 1081.03876pt x 607.26875pt>
+File: figures/PESSummaryPerQuestion.png Graphic file (type png)
+<use figures/PESSummaryPerQuestion.png>
+Package pdftex.def Info: figures/PESSummaryPerQuestion.png  used on input line 
+403.
+(pdftex.def)             Requested size: 453.60808pt x 254.81021pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <./figures/SUSPerQuestion.png>]
+<figures/PESSummary.png, id=549, 975.14313pt x 514.42188pt>
+File: figures/PESSummary.png Graphic file (type png)
+<use figures/PESSummary.png>
+Package pdftex.def Info: figures/PESSummary.png  used on input line 413.
+(pdftex.def)             Requested size: 453.60808pt x 239.29004pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <./figures/PESSummaryPerQuestion.png>] [27 <./figures/PESSummary.png>]
+<figures/PostStudyExperiment.png, id=563, 948.54375pt x 309.65688pt>
 File: figures/PostStudyExperiment.png Graphic file (type png)
 <use figures/PostStudyExperiment.png>
 Package pdftex.def Info: figures/PostStudyExperiment.png  used on input line 44
-9.
+1.
 (pdftex.def)             Requested size: 453.60808pt x 148.08078pt.
+
+[28 <./figures/PostStudyExperiment.png>] [29]
+<figures/PostStudyControl.png, id=576, 933.98938pt x 278.54062pt>
+File: figures/PostStudyControl.png Graphic file (type png)
+<use figures/PostStudyControl.png>
+Package pdftex.def Info: figures/PostStudyControl.png  used on input line 473.
+(pdftex.def)             Requested size: 453.60808pt x 135.27904pt.
+<figures/PostStudySum.png, id=578, 936.49875pt x 558.58687pt>
+File: figures/PostStudySum.png Graphic file (type png)
+<use figures/PostStudySum.png>
+Package pdftex.def Info: figures/PostStudySum.png  used on input line 480.
+(pdftex.def)             Requested size: 453.60808pt x 270.56485pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27] [28 <./figures/PostStudyExperiment.png>]
-<figures/PostStudyControl.png, id=574, 933.98938pt x 278.54062pt>
-File: figures/PostStudyControl.png Graphic file (type png)
-<use figures/PostStudyControl.png>
-Package pdftex.def Info: figures/PostStudyControl.png  used on input line 481.
-(pdftex.def)             Requested size: 453.60808pt x 135.27904pt.
-<figures/PostStudySum.png, id=576, 936.49875pt x 558.58687pt>
-File: figures/PostStudySum.png Graphic file (type png)
-<use figures/PostStudySum.png>
-Package pdftex.def Info: figures/PostStudySum.png  used on input line 489.
-(pdftex.def)             Requested size: 453.60808pt x 270.56485pt.
- [29 <./figures/PostStudyControl.png>] [30 <./figures/PostStudySum.png>]) (./Th
-esis.bbl [31] [32
+[30 <./figures/PostStudyControl.png>] [31 <./figures/PostStudySum.png>])
+(./Thesis.bbl [32]) [33
 
-]) [33]
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
-
-(./Thesis.aux)
+ (./Thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: BC25094A75AEA9C956694E25DFAFA0EA;7027.
+(rerunfilecheck)             Checksum: 57E5C0E1C5DA63F8BBD40BDAB8B39F47;6980.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
  )
 (\end occurred inside a group at level 1)
@@ -2028,13 +2024,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 44670 strings out of 492649
- 822994 string characters out of 6129622
- 947580 words of memory out of 5000000
+ 44665 strings out of 492649
+ 822955 string characters out of 6129622
+ 947584 words of memory out of 5000000
  47542 multiletter control sequences out of 15000+600000
- 549431 words of font info for 148 fonts, out of 8000000 for 9000
+ 549323 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,80p,10357b,1210s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,80p,10357b,1204s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{glo:sus} has been referenced but do
 es not exist, replaced by a fixed one
 
@@ -2072,10 +2068,10 @@ xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
 ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (45 pages, 5607419 bytes).
+Output written on Thesis.pdf (45 pages, 5609217 bytes).
 PDF statistics:
- 676 PDF objects out of 1000 (max. 8388607)
- 571 compressed objects within 6 object streams
- 139 named destinations out of 1000 (max. 500000)
+ 673 PDF objects out of 1000 (max. 8388607)
+ 568 compressed objects within 6 object streams
+ 136 named destinations out of 1000 (max. 500000)
  30650 words of extra memory for PDF output out of 35830 (max. 10000000)
 

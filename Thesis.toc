@@ -9,32 +9,32 @@
 \contentsline {section}{\numberline {1.1}Description of the Experiment}{3}{section.10}
 \contentsline {subsection}{\numberline {1.1.1}Introduction and Goals}{3}{subsection.11}
 \contentsline {subsubsection}{\numberline {1.1.1.1}Hypotheses}{4}{subsubsection.16}
-\contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{5}{subsubsection.20}
-\contentsline {subsection}{\numberline {1.1.2}Methods}{6}{subsection.24}
-\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{7}{subsubsection.25}
-\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{7}{subsubsection.26}
-\contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Groups}{8}{subsubsection.29}
-\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{8}{subsubsection.30}
-\contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{10}{subsubsection.31}
-\contentsline {subsubsection}{\numberline {1.1.2.6}Procedure}{10}{subsubsection.32}
-\contentsline {subsection}{\numberline {1.1.3}Problems/Limitations - Threats to Validity}{12}{subsection.33}
-\contentsline {section}{\numberline {1.2}Results}{12}{section.34}
-\contentsline {subsection}{\numberline {1.2.1}Range of Motion}{14}{subsection.36}
-\contentsline {subsection}{\numberline {1.2.2}Warm Up Duration}{15}{subsection.39}
-\contentsline {subsection}{\numberline {1.2.3}Heart Rate}{16}{subsection.41}
-\contentsline {subsection}{\numberline {1.2.4}Physical Activity Enjoyment Scale}{19}{subsection.51}
-\contentsline {subsection}{\numberline {1.2.5}System Usability Scale}{21}{subsection.54}
-\contentsline {subsection}{\numberline {1.2.6}Play Experience Scale}{22}{subsection.57}
-\contentsline {subsection}{\numberline {1.2.7}BORG Rating of Perceived Exertion}{24}{subsection.60}
-\contentsline {subsection}{\numberline {1.2.8}Self-Assessment Manikin}{25}{subsection.62}
-\contentsline {subsection}{\numberline {1.2.9}Post-study questionnaire}{27}{subsection.65}
-\contentsline {subsubsection}{\numberline {1.2.9.1}Post study questionnaire for the experiment condition}{27}{subsubsection.66}
-\contentsline {subsubsection}{\numberline {1.2.9.2}Post study questionnaire for the control condition}{29}{subsubsection.68}
-\contentsline {section}{\numberline {1.3}Discussion}{30}{section.71}
-\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{31}{subsection.72}
-\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{31}{subsection.73}
-\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{31}{subsection.74}
-\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{31}{subsection.75}
-\contentsline {subsection}{\numberline {1.3.5}Research agenda}{31}{subsection.76}
-\contentsline {section}{\numberline {1.4}Conclusions}{31}{section.77}
-\contentsline {chapter}{Bibliography}{33}{chapter*.78}
+\contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{5}{subsubsection.17}
+\contentsline {subsection}{\numberline {1.1.2}Methods}{6}{subsection.21}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{7}{subsubsection.22}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{7}{subsubsection.23}
+\contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Group}{8}{subsubsection.26}
+\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{8}{subsubsection.27}
+\contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{10}{subsubsection.28}
+\contentsline {subsubsection}{\numberline {1.1.2.6}Procedure}{10}{subsubsection.29}
+\contentsline {subsection}{\numberline {1.1.3}Limitations - Threats to Validity}{12}{subsection.30}
+\contentsline {section}{\numberline {1.2}Results}{12}{section.31}
+\contentsline {subsection}{\numberline {1.2.1}Range of Motion}{14}{subsection.33}
+\contentsline {subsection}{\numberline {1.2.2}Warm Up Duration}{15}{subsection.36}
+\contentsline {subsection}{\numberline {1.2.3}Heart Rate}{16}{subsection.38}
+\contentsline {subsection}{\numberline {1.2.4}Physical Activity Enjoyment Scale}{19}{subsection.48}
+\contentsline {subsection}{\numberline {1.2.5}BORG Rating of Perceived Exertion}{21}{subsection.51}
+\contentsline {subsection}{\numberline {1.2.6}Self-Assessment Manikin}{22}{subsection.53}
+\contentsline {subsection}{\numberline {1.2.7}System Usability Scale}{23}{subsection.56}
+\contentsline {subsection}{\numberline {1.2.8}Play Experience Scale}{25}{subsection.59}
+\contentsline {subsection}{\numberline {1.2.9}Post study questionnaire}{27}{subsection.62}
+\contentsline {subsubsection}{\numberline {1.2.9.1}Post study questionnaire for the experiment condition}{27}{subsubsection.63}
+\contentsline {subsubsection}{\numberline {1.2.9.2}Post study questionnaire for the control condition}{29}{subsubsection.65}
+\contentsline {section}{\numberline {1.3}Discussion}{31}{section.68}
+\contentsline {subsection}{\numberline {1.3.1}Interpretation of Results}{31}{subsection.69}
+\contentsline {subsection}{\numberline {1.3.2}Relation to other works}{31}{subsection.70}
+\contentsline {subsection}{\numberline {1.3.3}Impact for practitioners}{31}{subsection.71}
+\contentsline {subsection}{\numberline {1.3.4}Critical reflection}{32}{subsection.72}
+\contentsline {subsection}{\numberline {1.3.5}Research agenda}{32}{subsection.73}
+\contentsline {section}{\numberline {1.4}Conclusions}{32}{section.74}
+\contentsline {chapter}{Bibliography}{33}{chapter*.75}
