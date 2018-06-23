@@ -3,9 +3,11 @@ The main goals of this thesis were to:
 \begin{enumerate}
 \item develop an exergame which can be used for warm up routine before more strenuous physical activity, and
 \item evaluate its effectiveness in terms of guiding the user through the process of warming up.
-\end{enumerate} In this chapter we outline the research framework, detail the research methods, and present and discuss the obtained results.
+\end{enumerate} In this chapter we outline the research framework, detail the research methods, and discuss the obtained results.
 \section{Description of the Experiment}
-This section describes the evaluation of the second version of the Immotion exergame. For this purpose, an approach was adopted that uses a mixture of different tools and user study methods. During this period, data has been logged, surveys have been conducted, and interviews undertaken. Similarly to the evaluation of the prototype exergame (Chapter 2), the obtained results are analyzed in order to determine to which level our proposed solution was effective in the given context and whether it offered a solution to the problem. %Based on the results from the exergame prototype evaluation (Chapter: Implementation) and a variety of research presented (Chapter Related Work), guidelines were followed which influenced the design and development of the second version of the Immotion exergame. 
+This section describes the evaluation of the second version of the Immotion exergame. Our study follows a between–subject design with warm up activity (performed while
+interacting with the exergame and performed without interacting with the exergame) as the independent
+variable. During the experiment, data has been logged, surveys have been conducted, and interviews undertaken. Similarly to the evaluation of the prototype exergame (Chapter \ref{chapter:survey_one}), the obtained results are analysed in order to determine to which level our proposed solution was effective in the given context and whether it offered a solution to the problem. %Based on the results from the exergame prototype evaluation (Chapter: Implementation) and a variety of research presented (Chapter Related Work), guidelines were followed which influenced the design and development of the second version of the Immotion exergame. 
 
 \subsection{Introduction and Goals} \label{chapter:goals}
 %II. AIMS
@@ -28,7 +30,7 @@ This section describes the evaluation of the second version of the Immotion exer
 %information gathered will help establish how best to use these
 %techniques when teaching CPR in schools and will be used to
 %set up a yearlong project in the schools to teach CPR.%
-The first study evaluated the prototype exergame. Based on the results obtained, comments, and suggestions, the prototype exergame has been modified to better suit the needs of its future users. The primary goal of the second study was to investigate whether our modified exergame solution can be used as an interactive guide for individuals who do not know how to perform warm up routines. In addition, we examined if the exergame can be used as a solution that motivates individuals to warm up before physically more demanding exercises, and provides an enjoyable game, as well as play, experience. Taking this into account, the research questions we address in this study are as follows: 
+The first study evaluated the prototype exergame. Based on the results obtained, comments, and suggestions, the prototype exergame has been modified to better suit the needs of its future users.\\The primary goal of the second study was to investigate whether our modified exergame solution can be used as an interactive guide for individuals who do not know how to perform warm up routines. In addition, we examined if the exergame can be used as a solution that motivates individuals to warm up before physically more demanding exercises, and provides an enjoyable game, as well as play, experience. Taking this into account, the research questions we address in this study are as follows: 
 \begin{enumerate}
 \item \textbf{RQ1: Evaluation of effectiveness} - How effective our proposed solution is in guiding the user through the warm up routine compared to the guidance offered by classic (traditional) methods?
 %\item Comparing the experience between participants that use the exergame and participants that do not use the exergame. 
@@ -37,7 +39,6 @@ The first study evaluated the prototype exergame. Based on the results obtained,
 \item \textbf{RQ3: Evaluation of the usability} - How usable our proposed solution is? 
 \item \textbf{RQ4: Evaluation of the game experience} - How enjoyable and entertaining our proposed solution is? 
 \end{enumerate}
-TODO: Actually, the game does not 'guide' the user.
 %http://edutechwiki.unige.ch/en/Usability_and_user_experience_surveys
 %http://www.nigelbevan.com/papers/What_is_the_difference_between_usability_and_user_experience_evaluation_methods.pdf
 In order to evaluate the effectiveness, perceived user experience, usefulness, and usability of our exergame solution in the given context, the user base is divided into two groups: \textit{experiment group} and \textit{control group}. The first, experiment group, interacted with the exergame directly. Contrarily, the control group was presented with the video of a coach (professional) who guided the participant through the warm up routine. This division allowed us to infer the influence of our gamified solution, as well as, to assess the main differences in completing the required activities between the two user groups. 
@@ -49,10 +50,10 @@ In order to evaluate the effectiveness, perceived user experience, usefulness, a
 %\end{itemize}
 \subsubsection{Hypotheses}
 %Remember to state these in terms of the independent and dependent variables. If it is not immediately clear why you would have a certain hypothesis (it often follows logically from the introduction of the experiment), then include a brief explanation separate from but following the hypothesis. You do not need to state the null hypothesis.%
-Based on the research questions outlined in the previous section, the following hypotheses are established to be tested: 
+Based on the research questions outlined in the previous section, the following hypotheses were established to be tested: 
 \begin{itemize}
-\item \begin{math}H_{1}\end{math}: The exergame itself is sufficient for guiding the player through a proper warm up procedure with correct movements. 
-\item \begin{math}H_{2}\end{math}: After the warm up routine is completed using the exergame, player's \gls{rom} is increased.
+\item \begin{math}H_{1}\end{math}: The exergame itself is sufficient for guiding the player through a proper warm up procedure.
+\item \begin{math}H_{2}\end{math}: After the warm up routine is completed by interacting with the exergame, participant's \gls{rom} is increased.
 %\item Participants that are interactively guided through the warm up procedure using the exergame have perceived exertion during physical activityexertion during a testperceived user experience in terms of PRC scale, compared to the participants who warm up without the exergame.
 \item \begin{math}H_{3}\end{math}: Participants had a more positive perceived warm up experience when using the exergame compared to the participants not using the exergame.  
 \item \begin{math}H_{4}\end{math}: The duration of the warm up session is significantly longer for the participants in the experiment condition.
@@ -62,11 +63,11 @@ Based on the research questions outlined in the previous section, the following 
 \end{itemize}
 %Introduce your experiment, and give the reader the specific goals you expect it to address. It is common at this stage to give the reader a hint of your hypotheses (if they are not already hinted at in the Introduction).%
 \subsubsection{Apparatus}
-The experiment was conducted in the laboratory room in DFKI. The laboratory with the devices used in the experiment is presented in Figure \ref{fig:lab1}.\\ 
+The experiment was conducted in the laboratory room in DFKI. The laboratory with the hardware used in the experiment is presented in Figure \ref{fig:lab1}.\\ 
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{Room1}
-    \caption{Laboratory.}
+    \caption{The laboratory where the experiment has been conducted.}
     \label{fig:lab1}
 \end{figure}\\
 The following equipment has been used during the experiment:
@@ -101,21 +102,21 @@ We used a projector in order to display the exergame and video to the participan
  %   \label{fig:projector}
 %\end{figure}
 \subsection{Methods} 
-In this section we outline the methodology adopted for the Immotion exergame evaluation. For this purpose we utilize the traditional (moderated) usability test since it gives direct input on how real users use the system. %First, we measure users' performance. That is, we measure the time users' will spend performing the warm up exercises with the exergame and with the video. The amount of time users' feel warmed up sufficiently. 
+In this section we outline the methodology adopted for the Immotion exergame evaluation. For this purpose we utilized a between-group design with two groups of subjects. We opted for this approach since it gives direct input on how real users use the system. %First, we measure users' performance. That is, we measure the time users' will spend performing the warm up exercises with the exergame and with the video. The amount of time users' feel warmed up sufficiently. 
 %We decide to follow a mixed-methods approach, and by doing so, utilize both qualitative and quantitative data sources in combination. Second, we measure users' satisfaction level. What the user thinks about his interaction with the product (visually appealing) 
 %
 %This is a detailed description of the experiment that should allow other researchers (familiar with HCI and experimental design in general, but not familiar with your experiment) to replicate your experiment.%
 \subsubsection{Participants}
-The study has been conducted on \displaydate{date1} and \displaydate{date2} in DFKI. All participants were students from Saarland University. All the participants reported no physical impairment at the time of participating in the study. For recruiting participants, posters were distributed in print, and sent through social media and email (Appendix X). Each participant was given 10 euros cash for taking part in the study. All of the participants were amateur athletes who engage in some physical activity on average 4 times per week. For the study we particularly targeted individuals who exercise in gym or fitness centers and often avoid preforming warm up exercises before more strenuous physical activity. All participants were required to report to the laboratory in gym based clothing, preferably shorts and t-shirt, and all of them performed the required tests in the same location using the same equipment. Before the study, each participant signed a consent form (Appendix X).%Describe your participants (e.g., any relevant demographics, if/how they were divided into categories), including total number, and recruiting approach. Indicate if any incentives were used. Comment on the representativeness of your participants relative to the target population, if their representativeness isn’t immediately obvious.%
+The study has been conducted on \displaydate{date1} and \displaydate{date2} in DFKI. All participants were students from Saarland University. The participants reported no physical impairment at the time of participating in the study. For recruiting participants, posters were distributed in print, and sent through social media and email (Appendix X). Each participant was given 10 euros cash for taking part in the study. All of the participants were amateur athletes who engage in some physical activity on average 4 times per week. For the study we particularly targeted individuals who exercise in gym or fitness centers and often avoid preforming warm up exercises before more strenuous physical activity. All participants were required to report to the laboratory in gym based clothing, preferably shorts and t-shirt, and all of them performed the required tests in the same location using the same equipment. Before the study, each participant signed a consent form (Appendix X).%Describe your participants (e.g., any relevant demographics, if/how they were divided into categories), including total number, and recruiting approach. Indicate if any incentives were used. Comment on the representativeness of your participants relative to the target population, if their representativeness isn’t immediately obvious.%
 \subsubsection{Conditions}
-First 10 participants who applied for the experiment have been accepted. These participants were sent a pre-test questionnaires (\acrshort{bsa}, \acrshort{parq}, and a Demographic questionnaire) that needed to be completed before coming to the experiment. Based on the answers given, the participants were assigned to the control or the experiment group. Each assigned participant took part in a single test session one hour in duration. During this session, all the participants  performed one warm up session, after which they completed a set of questionnaires. Two conditions were evaluated:
+First 10 participants who applied for the experiment have been accepted. These participants were sent a pre-test questionnaires (\acrshort{bsa}, \acrshort{parq}, and a Demographic questionnaire) that needed to be completed before coming to the experiment. Based on the answers given, the participants were assigned to the control or the experiment group. Each assigned participant took part in a single test session one hour in duration. \\During this session, all the participants  performed one warm up session, after which they completed a set of questionnaires. Two conditions were evaluated:
 \begin{enumerate}
 \item Warming up with the exergame guiding through the warm up procedure, projected on a wall in front of the participant.
 \item Warming up with a video of a professional (coach) guiding through the exact same warm up procedure as induced by the exergame, projected on a wall in front of the participant.
 \end{enumerate}
 Depending on the group, each participant performed exercise that represent one of the conditions.
 \subsubsection{Control and Experiment Group}
-The participants were assigned to each group based on the previously completed self-reported questionnaires. These questionnaires were sent to each participant and needed to be completed before the experiment. Based on the answers provided, each participant was assigned to either control or experiment group. The surveys assessed participants' perceived physical fitness level, warm up preferences, and previous exergames experience.
+The participants were assigned to the control or experiment group based on the answers provided in the self-reported questionnaires that were sent to them before the experiment. The surveys assessed participants' perceived physical fitness level, warm up preferences, and previous exergames experience.
 \subsubsection{Measures and Metrics}
 %All tasks were performed under a cognitive walkthrough approach, and all data was
 %recorder. After performing the tasks, and taking the CUE-model [12] as a framework and
@@ -146,8 +147,8 @@ The pre-test questionnaires focused on participants' demographic information, ov
 of warm up procedures, extent of video gameplay, and reason for playing. The pre-test questionnaires were as follows:
 \begin{itemize}
 %https://www.researchgate.net/publication/320572645_Exergaming_Feels_good_despite_working_harder
-\item \textit{Health status}. The current health status of the participants has been assessed via the \gls{parq}, which consists of seven dichotomous items \cite{thomas1992revision}. The individual response patterns were used in order to assess if participants were physically able to perform the warm up session.
-\item Demographic survey with included questions regarding warm up preferences, and previous exergame experience [Appendix].
+\item \textit{Health status}. The current health status of the participants has been assessed via the \gls{parq}, which consists of seven dichotomous items \cite{thomas1992revision}. The individual response patterns were used in order to assess if participants were physically able to perform the warm up session. NOT INCLUDED
+\item Demographic survey with questions regarding warm up preferences and previous exergame experience.
 \item \textit{Physical activity screening}. Pre-study physical activity levels have been assessed with a standardized questionnaire  \gls{bsa} \cite{fuchs2015messung}. Participants were instructed to indicate for how many minutes per week they performed everyday physical activities (e.g., taking the bike to work; taking a walk) in average during the last four weeks. 
 \end{itemize}
 The second set of questionnaires have been administered after the completion of the warm up procedure. In these questionnaires participants' level of exertion, emotional state, and game experience have been assessed. The questionnaires were as follows:
@@ -156,20 +157,20 @@ The second set of questionnaires have been administered after the completion of 
 \item \textit{Emotional state}. The pleasure, arousal, and dominance associated with a person's affective reaction to a wide variety of stimuli has been assessed with \gls{sam} \cite{bradley1994measuring}. 
 \item \textit{Enjoyment of the physical activity}. To test the enjoyment of the physical activity performed, in this case the warm up procedure, the \gls{paces} has been used \cite{kendzierski1991physical}. 
 \item \textit{System usability}. For assessing the exergame's instrumental qualities (e.g. controllability, effectiveness, learnability), the \gls{sus} has been used.
-\item \textit{Enjoyment of the play}. In order to measure the play enjoyment and experience o the \gls{pes} has been utilized \cite{pavlas2012play}. 
+\item \textit{Enjoyment of the play}. In order to measure the play enjoyment and experience, the \gls{pes} has been utilized  \cite{pavlas2012play}.
+\item \textit{Bartle's player type}. In order to determine participants’ personality types based on their preferred actions within the game, we utilized Bartle's framework and questionnaire \cite{bartle}.
 \end{itemize}
 During the experiment, the following metrics were collected from each participants:
 \begin{itemize}
 \item \textit{Range of motion}. The participants' \acrshort{rom} has been measured before and after the warm up routine using goniometer.
 \item \textit{Heart rate and Respiratory rate}. The participant's heart rate data has been captured and the measured during the warm up procedure using Microsoft Band.
-\item \textit{Distance}. The overall distance the participants' moved during the warm up routine was measured using Microsoft Kinect. 
-\item \textit{Skin resistance}. TODO
-\item \textit{Participant's emotion}. TODO
+\item \textit{Distance}. The overall distance the participants' moved during the warm up routine was measured using Microsoft Kinect. NOT INCLUDED
+\item \textit{Skin resistance}. NOT INCLUDED
+\item \textit{Participant's emotion}. NOT INCLUDED
 \end{itemize}
-The warm up routine performed by the participant has been recorded using a second Kinect sensor for further analysis of performed movements during the warm up procedure.
-%If your experiment is comparing multiple different interfaces or interactive systems or techniques, describe each of them. Screen snapshots of interfaces/systems are particularly useful.%
+The warm up routine performed by the participant has been recorded using a second Kinect sensor for further analysis of performed movements.
 \subsubsection{Tasks}
-In order to interact with the gamified system, the participants in the experiment group were required to perform a set of general movements. By performing these movements, the participant controlled the game avatar and, by doing so, attempted to avoid obstacles and collected coins. Based on the data and feedback gathered from the first study, we limited the movements the participants needed to perform in the exergame. That is, only movements that are detectable with high accuracy using only one Kinect device and simplistic enough to be accomplished easily without no prior exercise knowledge or experience were required to be executed by the participants. These movements were: 
+In order to interact with the gamified system, the participants in the experiment group were required to perform a set of general movements. By performing these movements, the participant controlled the game avatar and, by doing so, attempted to avoid obstacles and collected coins. Based on the data and feedback gathered from the first study, we limited the movements the participants needed to perform in the exergame. That is, only movements that are detectable with high accuracy using only one Kinect device and simplistic enough to be accomplished easily without prior exercise knowledge or experience were required to be executed by the participants. These movements were: 
 \begin{itemize}
 \item right hand movement up,
 \item left hand movement up,
@@ -179,10 +180,9 @@ In order to interact with the gamified system, the participants in the experimen
 \item star jump, and
 \item squat.
 \end{itemize}
-Participants who were in the control group and did not interact with the gamified system were required to perform the same set of general movements. However, participants in this group had to follow a video and not interact with the exergame. The video was a recording of a professional (coach) who guided the participants through the warm up routine. By following the video, and thus the coach, the participants were required to execute the same movements in the same order as the participants in the experiment group who interacted with the exergame.
-%Briefly describe what participants were asked to do with the interactive system(s).%
+Participants who were in the control group were required to perform the same set of general movements. However, they had to follow a video and did not interact with the exergame directly. The video was a recording of a professional (coach) who guided the participants through the warm up routine. We have recorded the warm session with the coach before the study. The movements the coach executed have been induced by interacting with the exergame. Thus, by following the video, the participants in the control condition executed the same movements in the same order as the participants in the experiment group who interacted with the exergame. This means that indirectly they were playing the exregame too.
 \subsubsection{Procedure}
-The study protocol was reviewed and approved by an institutional ethics committee. For data collection, we used a  paper and pencil as well as \textit{Google forms} questionnaires. Before the experiment, the lab environment was set up. The Kinect sensor was placed in a correct position and turned on. The PC running the software was started and the projector is enabled. In each session only one participant was present and guided by the researcher.\\\\\\\\\ The activities each participant followed were:
+The study protocol was reviewed and approved by an institutional ethics committee. For data collection, we used a  paper and pencil as well as \textit{Google forms} questionnaires. Before the experiment, the lab environment has been set up. The Kinect sensor was placed in a correct position and turned on. The PC running the software was started and the projector is enabled. In each session only one participant was present and guided by the researcher.\\\\The activities each participant followed were:
 \begin{itemize}
 \item The participant completes the preliminary survey.
 \item The researcher explains the sensors and tools that are required for the experiment, after which the participant puts them on. 
@@ -201,7 +201,7 @@ The study protocol was reviewed and approved by an institutional ethics committe
 \item The warm up procedure begins:
 \begin{itemize}
 \item If this participant is part of the experiment condition, the game begins with the \textit{Start scene}. The researcher inputs the participant's name and presses the \textit{Start} button. After 5 seconds, the game proceeds with scenes in which the participant is required to perform specific movements in order to avoid obstacles and collect coins. The duration of the game is not fixed and it is played up to the point when the participant feels warmed up enough. 
-\item  In case the participant is part of the control group, the video that displays a coach who instructs the participants which movements need to be performed. As with with the sessions in the experiment group, the duration of the warm up is not fixed and the video is played up to the point when the participant feels warmed up enough.
+\item  In case the participant is part of the control group, the video that displays a coach who instructs the participants which movements need to be performed. As with with the sessions in the experiment group, the duration of the warm up is not fixed and the video is played up to the point when the participant feels warmed up enough.\\
 \end{itemize}
 \item After finishing with the warm up routine, the participant takes a rest. The data collection is stopped. During this period the sensors are removed from the participant. \item Researcher assesses the \acrshort{rom}  of the participant. 
 \item The participant completes the post-test surveys . %https://www.verywell.com/rating-of-perceived-exertion-scale-3119445
@@ -224,11 +224,11 @@ Our subject group included 10 individuals, of which 2 were female and 8 were mal
 \item Running outdoors, running on treadmills, and doing yoga (n = 3).
 \item Cycling and jogging (n = 2).
 \end{itemize}
-The majority of the participants (n = 7) engage in physical activity alone, while only 3 participants enjoy sports activities performed in a group. TODO. Out of 10 participants, 4 reported not engaging in warm up exercises before sports sessions. The most common reasons reported by the respondents were time constraint (n = ), the monotonous and tiresome nature of the warm up procedure(n = ), how the warm up procedure represents an insignificant and negligible activity (n = ), and lastly, that no one warms up either (n = ). Regarding duration of the warm up session, 6 participants reported spending less than 5 minutes for warming up, while 4 participants reported spending between 5 and 10 minutes on this preparatory activity.\\
+The majority of the participants (n = 7) engage in physical activity alone, while only 3 participants enjoy sports activities performed in a group. Out of 10 participants, 3 reported not engaging in warm up exercises before sports sessions. The most common reasons reported by the respondents were time constraint,, the monotonous and tiresome nature of the warm up procedure, how the warm up procedure represents an insignificant and negligible activity, and lastly, that no one warms up either.\\ Regarding duration of the warm up session, 6 participants reported spending less than 5 minutes for warming up, while 4 participants reported spending between 5 and 10 minutes on this preparatory activity.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{participantExperiment}
-    \caption{Participants during the experiment performing the worm up procedure.}
+    \caption{Participants during the experiment performing the warm up procedure.}
     \label{fig:participants}
 \end{figure}\\
 %\begin{figure}[h]
@@ -237,8 +237,7 @@ The majority of the participants (n = 7) engage in physical activity alone, whil
   %  \caption{Game types most often played by the participants.}
     %\label{fig:gametypes}
 %\end{figure}\\
-Out of all the participants, 7 stated that they engage in sport specific warm up, whereas 3 reported engaging in general  (non-specific) warm up exercises. Half of the participants (n = 5) stated that they do not enjoy warming up in a group. When inquired about preferences regarding warming up when given instruction, 6 participants stated they prefer warming up when given instructions, while 4 participants stated they do not prefer warming up when given instructions. The engagement in playing video games varies among the participants: 1 plays video games daily, 1 few times per month, 1 once per month, 2 once a day, 3 few times per year, and 4 once per year or less. The most common game types among participants are racing (n = 5) and sports games (n = 4). In addition, when inquired about participant's previous experience with Microsoft Kinect games, only 1 participant reported having a lot of experience with games in this area. The rest of the participants reported having either non or some experience with Kinect related games.\pagebreak
-
+Out of all the participants, 7 stated that they engage in sport specific warm up, whereas 3 reported engaging in general  (non-specific) warm up exercises. Half of the participants (n = 5) stated that they do not enjoy warming up in a group. When inquired about preferences regarding warming up when given instruction, 6 participants stated they prefer warming up when given instructions, while 4 participants stated they do not prefer warming up when given instructions. The engagement in playing video games varies among the participants: 1 plays video games daily, 1 few times per month, 1 once per month, 2 once a day, 3 few times per year, and 4 once per year or less. The most common game types among participants are racing (n = 5) and sports games (n = 4). In addition, when inquired about participant's previous experience with Microsoft Kinect games, only 1 participant reported having a lot of experience with games in this area. The rest of the participants reported having either non or some experience with Kinect related games.\\In the following subsections we present and discuss the results obtained from various questionnaires the participants completed, as well as, from the metrics that have been tracked and analysed during the warm up procedure.\pagebreak
 \subsection{Range of Motion}
 \gls{rom} has been assessed  for each condition before the warm up session and immediately the participants completed the procedure. For taking the measures a plastic goniometer with 1 degree increments has been utilized. The average \acrshort{rom} values for each condition are presented in Figure \ref{fig:romExperiment} and Figure \ref{fig:romControl}.
 \begin{figure}[h]
@@ -259,7 +258,7 @@ The duration of the warm up session has been measured from the game or video sta
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{AVGTime}
-    \caption{Average WU duration with standard errors per study group.}
+    \caption{Average warm up duration with standard errors per condition.}
     \label{fig:wuduration}
 \end{figure}\\
 An independent-samples t-test was conducted to compare average warm up duration in experiment and control conditions. There was a significant difference in the scores for experiment (M=800.4 SD=205.4) and control (M=444.2, SD=94.2) conditions; t(8)=2.89, p = 0.20. These results suggest that our exergame does have an effect on warm up duration. That is, our results suggest that the warm up duration increases significantly when performed using our exergame. 
@@ -271,14 +270,14 @@ The heart rate data has been captured and monitored using Polar H7 Bluetooth Hea
     \caption{Average heart rate per study group.}
     \label{fig:hrdata}
 \end{figure}\\
-The individual heart rate data for each participant is depicted in Figure \ref{fig:hrCumulative}. It can be observed, as previously pointed out, that the participants in the experiment group who interacted with the exergame solution, reached higher level of heart rates during the warm up session compared to the participants in the control condition. Furthermore, from the figure is evident that the duration of the warm up session for the participants in the experiment group is significantly longer also.\pagebreak
+The individual heart rate data for each participant is depicted in Figure \ref{fig:hrCumulative}  \footnote{The color represents the condition the participant belongs to.}. It can be observed, as previously pointed out, that the participants in the experiment group who interacted with the exergame solution, reached higher level of heart rates during the warm up session compared to the participants in the control condition. Furthermore, from the figure is evident that the duration of the warm up session for the participants in the experiment group is significantly longer also.\pagebreak
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{HRCumulative}
-    \caption{Heart rate data for each participant. The color represents the condition the participant belongs to.}
+    \caption{Heart rate data for each participant.}
     \label{fig:hrCumulative}
 \end{figure}\\
-For each participant we calculated the zone of the target heart rate (\begin{math} T_{HR}\end{math}) based on the maximum heart rate using the \textit{Karvonen method}. A number of formulas are used to estimate  \begin{math} HR_{max}\end{math} [wiki]. Tanaka, Monahan, \& Seals (2001) proposed the following formula for calculating \begin{math}HR_{max}\end{math}:\\
+For each participant we calculated the zone of the target heart rate (\begin{math} T_{HR}\end{math}) based on the maximum heart rate using the \textit{Karvonen method}. A number of formulas are used to estimate  \begin{math} HR_{max}\end{math} \cite{heartRate}. Researchers in \cite{tanaka2001age} proposed the following formula for calculating \begin{math}HR_{max}\end{math}:\\
 \begin{equation}
 THR_{max} = 208-(0.7 * age)
 \end{equation}The resting heart rate \begin{math} R_{HR}\end{math} have not been measured during the experiment session. Hence, we utilized the generalized values for \begin{math} R_{HR}\end{math} based on age groups []. Since our participant engage in sports activities sami-regularly, we opted for the \textit{average} generalized \begin{math} R_{HR}\end{math} values. The heart rate reserve (\begin{math} HR_{R}\end{math}) represents the difference between participant's heart rate at rest and heart rate at maximum effort, and has been calculated as follows: \begin{equation}
@@ -324,7 +323,7 @@ Overall, we conclude that  participants in both conditions reached an elevated h
    % \label{fig:rrdata}
 %\end{figure}\pagebreak
 \subsection{Physical Activity Enjoyment Scale}
-Given the benefits of physical activity and WU procedures, we needed to understand better how participants perceived the physical activity they have engaged in. For this purpose we utilized the \acrfull{paces}. The test consists of 18 questions in a 1 to 7 Likert scale that was originally designed to measure positive affect associated with involvement in physical activities in college students (Kendzierski and DeCarlo, 1991).  The high scores obtained on the positive items and low scores on the negative items indicate a high enjoyment of the physical activity. Whereas, the total enjoyment score is obtained by reversing negative item scores and summing them to positive item scores. We coded participants' responses, where higher scores indicated greater enjoyment, with scores ranging from 18 to 126. The participants in both conditions completed the \gls{paces} after finishing with the WU session. Figure \ref{fig:pacees} presents the average results for each question per condition. It shows that the participants in the experiment condition rated consistently higher all the questions with respect to the scores of the participants in the control condition. The questions can be found in Appendix XXX.\\
+Given the benefits of physical activity and WU procedures, we needed to understand better how participants perceived the physical activity they have engaged in. For this purpose we utilized the \acrfull{paces}. The test consists of 18 questions in a 1 to 7 Likert scale that was originally designed to measure positive affect associated with involvement in physical activities in college students \cite{kendzierski1991physical}.  The high scores obtained on the positive items and low scores on the negative items indicate a high enjoyment of the physical activity. Whereas, the total enjoyment score is obtained by reversing negative item scores and summing them to positive item scores. We coded participants' responses, where higher scores indicated greater enjoyment, with scores ranging from 18 to 126. The participants in both conditions completed the \gls{paces} after finishing with the WU session. Figure \ref{fig:pacees} presents the average results for each question per condition. It shows that the participants in the experiment condition rated consistently higher all the questions with respect to the scores of the participants in the control condition. The questions can be found in Appendix XXX.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{PacesSummary}
@@ -338,7 +337,7 @@ Figure \ref{fig:pacesPerCondition} depicts the average scores for all questions 
     \caption{Average PACES scores for control and experiment condition.}
 \label{fig:pacesPerCondition}
 \end{figure}\\
-We compared the the means of the experiment (M = 114.40 , SD = 5.98) and control (M = 89.80 , SD = 11,97) group with a paired t-test (\begin{math}\alpha = 0.05\end{math}) and found a significant difference; t(8) = 4.11144, p = .003384. Whereas Cohen's d was 2.594795. Therefore, we conclude that there is a difference between the two conditions and that warming up by using the exergame positively affects the physical activity enjoyment.
+We compared the the means of the experiment (M = 114.40 , SD = 5.98) and control (M = 89.80 , SD = 11,97) group with a paired t-test (\begin{math}\alpha = 0.05\end{math}) and found a significant difference; t(8) = 4.1114 p = .0034. Whereas Cohen's d was 2.5948. Therefore, we conclude that there is a difference between the two conditions and that warming up by using the exergame positively affects the physical activity enjoyment.
 %Some of the things you may do here are: report means and standard deviations in neat tables indicate the statistics used and levels of significance include graphs, plots, histograms, etc that tell a story about the actual figures obtained Only critical raw data and summary statistics should be included in the actual report. However, you must keep all your raw data in a separate archival report, should anyone (a reviewer in the case of real scientific reporting) need more detail than is provided in the paper. 
 \subsection{BORG Rating of Perceived Exertion}
 The \acrfull{rpe} reflects how difficult the performed warm up exercise feels to the participants, combining all sensations and feelings of physical stress, effort, and fatigue. All the participants received standardized instructions and were encouraged to focus upon their overall (whole body) perceptions of exertion. The participants in both conditions reported their perceived level of exertion after completing the warm up procedure.  Figure \ref{fig:borg} depicts the average \gls{rpe}  results for each condition.\\
@@ -350,11 +349,11 @@ The \acrfull{rpe} reflects how difficult the performed warm up exercise feels to
 \end{figure}\\
 The average \gls{rpe} score for participants in the experiment condition was   \begin{math}\bar{x}_{exp} = 14.4 \end{math} while the score for the participants in the control condition was   \begin{math}\bar{x}_{con} = 12.4 \end{math}. It can be inferred that the participants in the experiment condition reached higher levels of exertion while playing the exergame. For the statistical inference tests of perceived exertion after the warm up sessions the t-tests with the effect size (Cohen`s d) has been used. After the analysis, we conclude that a significant difference exists  between means of the \gls{rpe}  at p\textless 0.05 of the experiment group (M = 14.4 , SD = 0.548, SEM = 0.245) and control group: (M = 12.4, SD= 1.67 , SEM = 0.748), t(8) = 2.54 , p = .034711, d =1.80.  These results suggest that performing warm up procedure while playing our exergame does have an effect on perceived exertion level. Specifically, our results suggest that when participant interact with the exergame while warming up, their perceived level of exertion increases.
 \subsection{Self-Assessment Manikin}
-All the participants in both the experiment and control group self-reported their momentary feelings of pleasure, arousal, and dominance using a validated 9-point pictorial rating scale immediately after completing the warm up session using the \acrfull{sam} (Bradley \& Lang, 1994) that  is frequently used to measure emotion in research on gaming (Poels, et al., 2012). The scale is  presented in Figure \ref{fig:samoverview}. In the \acrshort{sam} scale, scores go from 1 to 9 and are classified as being negative (from 1 to 4), neutral (5) or positive (from 6 to 9).\\
+All the participants in both the experiment and control group self-reported their momentary feelings of pleasure, arousal, and dominance using a validated 9-point pictorial rating scale immediately after completing the warm up session using the \acrfull{sam} \cite{bradley1994measuring} that  is frequently used to measure emotion in research on gaming \cite{poels2012pleasure}. The scale is  presented in Figure \ref{fig:samoverview}. In the \acrshort{sam} scale, scores go from 1 to 9 and are classified as being negative (from 1 to 4), neutral (5) or positive (from 6 to 9).\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{sam}
-    \caption{The Self-Assessment Manikin.}
+    \caption{The Self-Assessment Manikin (SAM).}
     \label{fig:samoverview}
 \end{figure}\\
 The characters presented in the first row in Figure \ref{fig:samoverview} range from sadness and frown to
@@ -367,14 +366,7 @@ For the statistical inference tests of the subjective ratings of present emotion
     \caption{Summary of SAM results for control and experiment group.}
     \label{fig:sam}
 \end{figure}\\
-These results suggest that our exergame really does have an effect on participants' feeling of pleasure. Specifically, our results suggest that when our exergame solution is used for warming up before physically more demanding exercise, the pleasure and enjoyment of the activity is higher compared to the one experienced during regular warm up routines. 
-
-TODO:
-1. BSA-F
-2. Emotions
-4. RR data analysis
-5. Skin resistance
-6. Distance?
+These results suggest that our exergame really does have an effect on participants' feeling of pleasure. Specifically, our results suggest that when our exergame solution is used for warming up before physically more demanding exercise, the pleasure and enjoyment of the activity is higher compared to the one experienced during regular warm up routines.\pagebreak
 \subsection{System Usability Scale}
 The \acrfull{sus} is a reliable tool for measuring the usability of a system under tests. It consists of a 10 item questionnaire with five response options for respondents from strongly agree to strongly disagree. The sum of the 10 items in the questionnaire leads to a general measure of perceived usability of the system. The participants' scores for each question are converted, added together, and then multiplied by 2.5 to convert the original scores of 0-40 to 0-100. Even though the scores are 0-100, these are not percentages and should be considered only in terms of their percentile ranking. Based on research, a  \acrshort{sus} score above a 68 would be considered above average and anything under 68 as below average. Only the participants in the experiment condition took the \acrshort{sus} questionnaire since only these participants interacted with the exergame system. The summary of the \acrshort{sus} scores for each participant is presented in Figure \ref{fig:sus}. It can be observed that the participants who interacted with the exergame gave the exergame relatively high scores. The  average \acrshort{sus} score for our exergame  is \begin{math}\bar{x} = 76.7 \end{math} (\begin{math} SD = 8.16, x_{max}= 90, x_{min}= 72.5\end{math}). This implies that our system usability received \textit{excelent} adjective rating and a \textit{B} on a grade scale \cite{brooke2013sus}.
 \begin{figure}[h]
@@ -383,7 +375,7 @@ The \acrfull{sus} is a reliable tool for measuring the usability of a system und
     \caption{Summary of SUS results per participant.}
     \label{fig:sus}
 \end{figure}\\
-The \acrshort{sus} average scores per question is depicted in Figure \ref{fig:susPerQuestion}. It can be observed that the participants found that the various functions in the exergame have been well integrated and that they felt very confident using the exergame. Furthermore, all the participants agreed that people would learn to use the exergame very quickly. Also, they did not find the exergame unnecessarily complex or having any unconsistencies during gameplay. They also thought that it was not difficult or awkward to use, and that getting familiar with the game was pretty straightforward and fast. When asked if they would like to continue playing the game frequently, 3 participants agreed with this statement, 1  neither agreed nor disagreed, and 1 disagreed. \\
+The \acrshort{sus} average scores per question is depicted in Figure \ref{fig:susPerQuestion}. It can be observed that the participants found that the various functions in the exergame have been well integrated and that they felt very confident using the exergame. Furthermore, all the participants agreed that people would learn to use the exergame very quickly. Also, they did not find the exergame unnecessarily complex or having any unconsistencies during gameplay.\\\\ They also thought that it was not difficult or awkward to use, and that getting familiar with the game was pretty straightforward and fast. When asked if they would like to continue playing the game frequently, 3 participants agreed with this statement, 1  neither agreed nor disagreed, and 1 disagreed. \\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{SUSPerQuestion}
@@ -391,34 +383,43 @@ The \acrshort{sus} average scores per question is depicted in Figure \ref{fig:su
     \label{fig:susPerQuestion}
 \end{figure}
 \subsection{Play Experience Scale}
-The \acrfull{pes} is a valid and reliable 16 items questionnaire with five response options for respondents from strongly agree to strongly disagree \cite{pavlas2012play}. It has been utilized in order to assess play experience, the usability, and the level of enjoyment induced by our exergame. The \gls{pes} scale collects responses across four experiential dimensions which are labelled: \begin{itemize}
-\item Freedom - it captures states when individuals are free in a play context. In those cases they are able to perform the actions they wish to perform.
-\item No extrinsic - addresses if the respondents feel there are no consequences to their play.
-\item Play direct - addresses the play itself.
-\item Autotelic/Focus - when experience is autotelic, an individual engages in it solely for its own rewards. That is, the experience is intrinsically motivating.  Focus, on the other hand, targets the states of immersion and concentration during play. It is related to engagement and flow and the items in this category  reflects on the loss of concern and focused concentration.
+The \acrfull{pes} is a valid and reliable 16 items questionnaire with five response options for respondents from strongly agree to strongly disagree \cite{pavlas2012play}. It has been utilized in order to assess play experience, the usability, and the level of enjoyment induced by our exergame. The \gls{pes} scale collects responses across four experiential dimensions: \begin{itemize}
+\item \textit{Freedom} captures a state in which an individual is free in a play context to act without any constraints. 
+\item \textit{No Extrinsic} addresses a state in which the individual does not feel there are real -world consequences to her play.
+\item \textit{Play Direct} addresses the play itself.
+\item \textit{Autotelic/Focus}. When experience is autotelic, an individual engages in it solely for its own rewards. That is, the experience is intrinsically motivating.  Focus, on the other hand, targets the states of immersion and concentration during play. It is related to engagement and flow, and the items in this category  reflects on the loss of concern and focused concentration.
 \end{itemize}
-Figure \ref{fig:pesPerQuestion} summarizes the PES results per question for each dimension discussed.\\
+Figure \ref{fig:pesPerQuestion} summarizes the PES results per question for each dimension discussed \footnote{Yellow bars have been reverse-coded.}.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PESSummaryPerQuestion}
-    \caption{Summary of average PES score for each question. Yellow bars have been reverse-coded.}
+    \caption{Summary of average PES scores per question.}
     \label{fig:pesPerQuestion}
 \end{figure}\\
-In general, the participants enjoyed the play experience induced by our exergame, which can be concluded from high average scores for the questions. The lowest scores were obtained in questions that belong to \textit{Freedom} and \textit{Autotelic/Focus}.  The highest  scores were obtained in questions that belong to \textit{No extrinsic} and \textit{Play direct} dimensions. Low scores in the Freedom dimension suggest that the players did not have total control over the play. The following statement received the lowest score in this dimension: 
+In general, the participants enjoyed the play experience induced by our exergame, which can be concluded from high average scores for the questions in each dimension. The lowest scores were obtained in questions that belong to \textit{Freedom} and \textit{Autotelic/Focus} dimensions. The highest scores were obtained in questions that belong to \textit{No Extrinsic} and \textit{Direct Play} dimensions. These results suggest that the play induced by the exergame was not contingent by external rewards or consequences. That is, the participants felt that there were no consequences to their play, either via evaluative judgement by the researcher or through real-world implications for the warm up performance. High average scores in the direct play dimension imply that the participants believed they engaged in play as defined by \cite{pavlas2012play} and not work. This information is valuable since it suggests that the warm up induced by our exergame has not been received as a tiresome activity as reported for the standard warm up procedures. On the other hand, relatively lower average scores in the freedom dimension imply that the players felt they did not have total control over the play. When an individual is free in a play context, he or she is not constraind by any means to perform the actions he or she wishes to perform \cite{pavlas2012play}. The following statement received the lowest score in this dimension: 
 \begin{itemize}
 \item ``The game gave me freedom to act as I wanted to.''
-\end{itemize} This suggests that certain  game functionalities and constraints XX them to act as they would have liked to which negatively impacted the play enjoyment.  In the Autotelic/Focus dimension, 3 questions received lower scores. This implies that the state of  TODO. The average \gls{pes} scores for each participant is are presented in Figure \ref{fig:pes}.\\
+\end{itemize} This suggests that certain game elements and constraints prohibited the players to act as they would expected to in similar situation, which in turn negatively impacted the play enjoyment.  In the Autotelic/Focus dimension, one question received surprisingly high score.  
+\begin{itemize}
+\item ``When I was in the game, I was focused on the task at hand.''
+\end{itemize} This question reflected the state of intense concentration that is related to engagement and state of flow. High average score implies that our exergame succeeded in immersing the player in the activity at such  level, the player's concentration was allocated completely for the play task at hand.  In contrast, the remaining 3 questions in the same dimension received low average scores. However, this dimension measured the autotelic experience induced by the exergame.  Even though the average scores are not extremely low, we cannot claim that the experience was autotelic for the participants. and that they engaged in it solely for its own regard. That is, the experience was not fully intrinsically motivating for the participants. The average \gls{pes} scores for each participant is are presented in Figure \ref{fig:pes}.
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PESSummary}
-    \caption{Summary of average \gls{pes} score for participants.}
+    \caption{Summary of average \acrshort{pes} score per participants.}
     \label{fig:pes}
-\end{figure}\pagebreak
-
-
-
+\end{figure}\\
+As for the previous figure, we can notice the high overall \acrshort{pes} score per participant. This imply that, in general, the participants did enjoy the experience induced by interacting with our exergame solution. Most importantly, by creating an enjoyable experience,  the exergame successfully shifted participants' focus from the discomfort and exertion of the exercise towards the enjoyment of the experience. 
+\subsection{Bartle's Player Types}
+In order to determine participants' personality types according to their preferred actions within the game, each participant that interacted with the exergame completed an online survey that assessed the degree to which they can be motivated by either intrinsic or extrinsic motivational factors \cite{tondello2016gamification}. We chose to utilize this framework and the survey since it is more effective than directly asking users about design elements. Our primary goal was to understand more about user psychology in a gamified context rather than just determining game elements the user enjoys the most.  The survey was completed after the warm up session and consisted of 24 items which assessed the person's \textit{Hexad user type}, derived from the three types of intrinsic motivation from \acrshort{sdt}, namely relatedness, competence, and autonomy. Figure \ref{fig:playerTypes} depicts the obtained results. \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{PlayerTypes}
+    \caption{The Hexad user types of the participants in the experiment condition.}
+    \label{fig:playerTypes}
+\end{figure}\\ It is necessary to point out that even though users are likely to display a principal tendency or user type, in most cases they will also be motivated by all the other types to some degree. Based on the results obtained, we found that 2  of our participants can be categorized as \textit{Achiever} player type. This player type is mostly motivated by various challenges that allow them to test their knowledge and apply it in order to solve a problem. Overcoming different challenges will make them feel they have earned their achievement. \\They are, furthermore, highly motivated by game quests which give them fixed goal to achieve. Leaderboard and different progress and feedback mechanisms can further motivate this player type to perform better in the game. \textit{Free spirit} user type tendencies have been displayed by 2 participants. This user type is mostly motivated by exploration and multiple branching choices. They enjoy being able to choose their path and destiny, whereas the choice has to be or at least feel meaningful to be the most effective and appreciated. One of them has also been categorized as a \textit{Player type}, which is often highly motivated by game rewards, points, leaderboards, and badges. Lastly, 1 participant displayed \textit{Philantropist} player type tendencies. This player type is mostly motivated by meaning and purpose. That is, they have to feel they are part of something greater than themselves, where they can help other players or contribute to the gaming community. TODO: compare with other results? \\ 
 \subsection{Post study questionnaire}
-As a last step in our experiment, the participants in both conditions completed  a \textit{Post study} questionnaire  with a 5-point Likert scale (1 = ``strongly disagree'', 5 = ``strongly agree'') that evaluated the participants' overall satisfaction with the exergame and video, and further discussed specifics the participants enjoyed and disliked the most. Participants completed a questionnaire with questions created specifically for one of the condition. Moreover, the questionnaire for the experiment condition contained 3 additional open ended questions regarding possible improvements of the tested exergame. In the following subsections, the results for each condition will be presented and further discussed.
+As a last step in our experiment, the participants in both conditions completed  a \textit{Post study} questionnaire with a 5-point Likert scale (1 = ``strongly disagree'', 5 = ``strongly agree'') that evaluated the participants' overall satisfaction with the exergame and video, and further discussed specifics the participants enjoyed and disliked the most. Participants completed a questionnaire with questions created specifically for one of the condition. Moreover, the questionnaire for the experiment condition contained 3 additional open ended questions regarding possible improvements of the tested exergame. In the following subsections, the results for each condition will be presented and further discussed.
 \subsubsection{Post study questionnaire for the experiment condition} 
 The following statements have been evaluated with the participants in the experiment condition:
 \begin{itemize}
@@ -439,10 +440,10 @@ The scores for each statement are presented in Figure \ref{fig:poststudyexperime
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PostStudyExperiment}
-    \caption{Post study questionnaire for the experiment group.}
+    \caption{Post study questionnaire scores for the experiment group.}
     \label{fig:poststudyexperiment}
 \end{figure}\\
-Based on the scores presented in Figure \ref{fig:poststudyexperiment}, we conclude that the participants found the exergame to be a fun and exciting way to perform a warm up procedure. Moreover, they found the exergame easy to learn how to play and interact with. On the other hand, not all the participants found the game challenging. Out of 5 participants 1 did not find the exergame challenging enough for warm up procedure and 1 gave a neutral answer. In general, they found the exergame not boring and not frustrating to engage with, with exception of 3 participants who gave neutral answers.  Regarding exergame elements, the participants liked the avatar which has been used as a main character in the game. The possibility to collect more coins during game-play motivated all the participants to move more and play the exergame longer. The in-game scoreboard that displayed the player's position was found motivating to all except 1 participant. Out of all the participants, 2 did not care if hit by an obstacle. The exercise movements that were induced by the coins and obstacles felt intuitive and came naturally to the participants.  Lastly, the participants stated they would consider using the exergame for warming up. \\Three open-ended questions were asked from the participants in the experiment group apart from the discussed statements:
+Based on the scores presented in Figure \ref{fig:poststudyexperiment}, we conclude that the participants found the exergame to be a fun and exciting way to perform a warm up procedure. Moreover, they found the exergame easy to learn how to play and interact with. On the other hand, not all the participants found the game challenging. Out of 5 participants 1 did not find the exergame challenging enough for warm up procedure and 1 gave a neutral answer. In general, they found the exergame not boring and not frustrating to engage with, with exception of 3 participants who gave neutral answers.  Regarding exergame elements, the participants liked the avatar which has been used as a main character in the game. The possibility to collect more coins during game-play motivated all the participants to move more and play the exergame longer. The in-game scoreboard that displayed the player's position was found motivating to all except 1 participant. This implies that the duration of the warm up session induced by the exergame can be partly attributed to gamification elements also. Out of all the participants, 2 did not care if hit by an obstacle. The exercise movements that were induced by the coins and obstacles felt intuitive and came naturally to all except 1 participant who gave neutral answer. This result suggest that the participants felt that the exergame provided adequate guidance in executing the warm up procedure. Lastly, all the participants stated they would consider using the exergame for warming up. \\Three open-ended questions were asked from the participants in the experiment group apart from the discussed statements:
 \begin{itemize}
  \item Which features did you like the most?
  \item Which features did you dislike the most?
@@ -452,7 +453,7 @@ Based on the answers received, the participants pointed out that they appreciate
 \begin{itemize}
 \item ``.\textit{.. this is an interesting strategy and i get a feeling to do warm up sessions seriously.}''
 \end{itemize}
-Regarding features the participants disliked, one of them referred to the responsiveness of the game which can be attributed to the jitter that occurred during one of the gameplay. Furthermore, when inquired about possible exergame improvements and recommendations, the participants  gave interesting suggestions. They would like to have certain indicators of the correctness of the performed movements. That way they would be able to improve the badly executed movements during the gameplay. Next, introducing new and more diversified movements have been brought up by the participant also. The participants feel that adding additional and more difficult movements one is require to perform as the as the game progresses would make the exergame more engaging and challenging. Moreover, they would enjoy a  game with fixed amount of time which would be defined at the beginning of each warm up session. This was, in fact, our initial design which was modified in order to be able to analyse the duration of the warm up session. We believe this feature would positively benefit the \textit{freedom} dimension of the exergame as the participants would be able to constraint the duration as per their current physical SPOSOBNOST.
+Regarding features the participants disliked, one of them referred to the responsiveness of the game which can be attributed to the jitter that occurred during one of the gameplay. Furthermore, when inquired about possible exergame improvements and recommendations, the participants gave valuable suggestions. They would like to have certain indicators of the correctness of the performed movements. That way they would be able to improve the badly executed movements during the gameplay. Next, introducing new and more diversified movements have been brought up by the participant also. The participants feel that adding additional and more difficult movements one is require to perform as the game progresses would make the exergame more engaging and challenging. Moreover, they would enjoy a  game with fixed amount of time which would be defined at the beginning of each warm up session. This was, in fact, our initial design which was modified in order to be able to analyse the duration of the warm up session. We believe this feature would positively impact the \textit{freedom} dimension of the exergame as the participants would be able to constraint the duration as per their current physical abilities and competence.
 \begin{itemize}
 \item ``\textit{... make fixed amounts of time or levels where one can compete under the exact same parameters.}''
 \end{itemize}
@@ -471,31 +472,34 @@ The scores for each statement are presented in Figure \ref{fig:poststudycontrol}
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PostStudyControl}
-    \caption{Post study questionnaire for the control group.}
+    \caption{Post study questionnaire scores for the control group.}
     \label{fig:poststudycontrol}
 \end{figure}\\
-From the figure we observe that 3 participants found that following the video instructions was a fun and exciting way to warm up, while 2 participants gave neutral answers. Only 2 participants found the video a challenging way to warm up, whereas 3 participants gave neutral answers. Contrarily, as already pointed out, all the participants in the experiment group found the game challenging. In general, the participants did not find the video to be a boring and frustrating way to warm up. Only 1 participant reported being frustrated by the video instructions. It's interesting to point out that 2 participants found the video instructions difficult to follow. Lastly, when asked about using the video on the regular basis, the participants would consider using it for warming up before physical activities.Figure \ref{fig:poststudysum} depicts the compared average scores with standard errors for the some of the statements discussed.
+From the figure we observe that 3 participants found that following the video instructions was a fun and exciting way to warm up, while 2 participants gave neutral answers. Only 2 participants found the video a challenging way to warm up, whereas 3 participants gave neutral answers. Contrarily, as already pointed out, all the participants in the experiment group found the game challenging. In general, the participants did not find the video to be a boring and frustrating way to warm up. Only 1 participant reported being frustrated by the video instructions. It's interesting to point out that 2 participants found the video instructions difficult to follow. Lastly, when asked about using the video on the regular basis, the participants would consider using it for warming up before physical activities. Figure \ref{fig:poststudysum} depicts the compared average scores with standard errors for the some of the statements discussed.\pagebreak
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{PostStudySum}
-    \caption{Post study questionnaire for the control group.}
+    \caption{Average scores of the post study questionnaire for each condition.}
     \label{fig:poststudysum}
-\end{figure}\\ We observe that the exergame was perceived more enjoyable and fun way for warming up compared to the warm up with the video instructions. Moreover, the exergame is found less boring and frustrating to play. Lastly, participants would gladly use both warm up approaches. However, the standard deviation for the experiment condition is much less compared to the control condition.
+\end{figure}\\ We observe that the exergame was perceived more enjoyable and fun way for warming up compared to the warm up with the video instructions. Moreover, the exergame is found less boring and frustrating to play.  This only confirms the results obtained in the \acrshort{pes} survey. Lastly, participants would gladly use both warm up approaches. However, the standard deviation for the experiment condition is much less compared to the control condition.
 \section{Discussion}
-Interpret the results. Although you should still try to be as objective as possible, the discussion section should illuminate your critical thinking about the results. Explain what the statistics mean, account for anomalies, and so on.
-\subsection{Interpretation of Results}
-Discuss what you believe the results really mean. For example, if you find a significant difference for some effect, what does that mean to the hypothesis? Is the different seen an important one?
-\subsection{Relation to other works}
-How do the results you’ve obtained relate to other research findings?
-\subsection{Impact for practitioners}
-As computer scientists, we are particularly concerned with the implications of our findings on practitioners. Should existing interface constructs be designed differently or used in a new context? Do you have suggestions for new designs? How can the findings be generalized?
-\subsection{Critical reflection}
-Critical reflection is one of the key foundations of science. You should criticize your work (constructively, if possible), indicate possible flaws, mitigating circumstances, the limits to generalization, conditions under which you would expect your findings to be reversed, and so on.
-\subsection{Research agenda}
-The best experiments suggest new avenues of exploration. In this section, you should reflect and refine your hypotheses, describe new hypotheses, and suggest future research, ie research that you would do if you continued along this path.
-\section{Conclusions}
-Summarize the report, and speculate on what is to come.
-Acknowledgements. This section should give thanks to the major people (supervisors, associates) and organizations (sponsoring agencies, funders) that helped you. For example, I would like to thank Ben Shneiderman, whose report framework was used to build this one.
+The central aim of this study was to investigate if our exergame can be used as a guiding tool for warm up exercises before physically strenuous activities. To the best of our knowledge, no study has investigated the usage of exergames in this context before. As mentioned previously, exergames are usually designed to engage users in a physical activity \cite{song2010effects, staiano2011exergames} and are an attractive alternative to physical therapy \cite{jansen2013serious}. Nevertheless, using exergames for guiding users who never or rarely warm up before sports activities has never been discussed in scientific research literature. \\\\
+In our experiment, we opted for between-subject design with two groups of subjects. One group interacted with our exergame solution, while the other group followed a video of a coach who guided the participants through the warm up session. The hypothesis that player's \acrshort{rom} is increased for the measured joints after performing the warm up session by interacting with our exergame solution was supported. \\We observe that the average values after the warm up session for all measured joints are higher in each experiment condition. This supports previous exergame research results on appropriateness  of exergames  as an intervention to improve physical functions []. %https://www.sciencedirect.com/science/article/pii/S1386505615300514
+The results of our experiment also indicate that performing warm up exercises using our exergame immediately affects the duration of the warm up procedure which supports our second hypothesis. The duration of the warm up session has been measured from the start of the exergame or video instruction, until the participant reported feeling warmed up enough for a hypothetical physical activity. Our analysis showed significant difference in the warm up durations between the two conditions which suggests that warm up duration increases noteably when performed by interacting with our exergame solution. We also observed significant increase in the duration of the warm up session compared to the reported average duration of warm up given in a self-reported pre-study survey. In our questionnaires we also inquired about most common reasons individuals avoid performing warm up exercises. The most common reasons reported by the respondents were time constraint and the monotonous and tiresome nature of the warm up procedure. These results are consistent with the findings of previous research on common reasons why individuals avoid warm up exercises \cite{fradkin2010effects}. The results, further, imply that the enjoyment of the physical activity can be improved by playing our exergame. For this purpose, the \acrlong{paces} has been utilized. The obtained results suggest that our exergame positively affects physical activity enjoyment. It's interesting to point out how the results for the control condition were also found to be above average. This implies that participants in the control condition enjoyed the physical activity as well.  Nevertheless, there was a significant difference found between the two conditions suggesting that warming up using our exergame positively affects the physical activity enjoyment which supports our third hypothesis. Participants  in both condition reported their momentary feelings of pleasure, arousal, and dominance using  \acrlong{sam} scale immediately after performing the warm up procedure. We believe that the assessment of psychological and emotional dimensions, such as enjoyment, arousal, and dominance, together with the assessed level of the enjoyment of the physical activity, could deepen our knowledge of the causes of avoiding warm up exercises. Understanding enjoyment motives and the relationship between enjoyment and other psychological variables can help researchers and practitioners design more effective intervention strategies which could increase the percentage of individuals who warm up regularly before every sports activity. Our analysis showed significant difference in the pleasure dimension between mean scores of the experiment and control condition. This means that the enjoyment associated with the exergame experience is significantly higher compared to the emotions induced by the video instruction. The results, on the other hand, did not show any significant difference between scores in the arousal and dominance dimension. We believe our research design might not have been suited well enough to cater for dominance and arousal as a player emotions.\\\\\\
+Our findings that the Immotion exergame is feasible for guiding amateur sportsmen in performing warm up procedures have several caveats. First, it involved a very small, self-selected sample of students, out of which only 5  interacted with the exergame. This number is small and contains very specific demographics to draw more than tentative conclusions. Even though the results are promising, further research is needed and quantitative results need to be confirmed in future work. Next, we excluded professional sportsmen whose preparation activities include specific exercises currently not supported by the exergame, and only included participants who rarely perform warm up exercises before sports activities. This was the reason why our exergame focused on more general movements that are intuitive and easy enough to be executed without any prior knowledge.  Further research is required to investigate how would professionals enjoy the warm up exercise induced by our exergame. Lastly, the study consisted of a single session only. Hence, the longitudinal effects of exergame usage cannot be foreseen. After recurrent interaction with our exergame before sports activities, we believe the user would get familiar to the game environment  and required movements. This would, in turn, as with any video game, reduce the motivation to  engage with the exergame as well the enjoyment while playing it. This could be avoided by modifying the environment on regular basis. Other approach would be to introduce multiple  game levels which would require movements with increasing degrees of difficulty.\\\\
+While the small sample size, highly selected participants, and short duration of the study represent important limitations of this study, the findings that exergames can guide participants in performing a general warm up procedure, increases the warm up duration, and positively impacts the enjoyment of the physical activity suggest a promising novel, relatively low-cost option for warming up before physically more strenuous activities that deserves further consideration and additional research.
+%\subsection{Interpretation of Results}
+%Discuss what you believe the results really mean. For example, if you find a significant difference for some effect, what does that mean to the hypothesis? Is the different seen an important one?
+%\subsection{Relation to other works}
+%How do the results you’ve obtained relate to other research findings?
+%\subsection{Impact for practitioners}
+%As computer scientists, we are particularly concerned with the implications of our findings on practitioners. Should existing interface constructs be designed differently or used in a new context? Do you have suggestions for new designs? How can the findings be generalized?
+%\subsection{Critical reflection}
+%Critical reflection is one of the key foundations of science. You should criticize your work (constructively, if possible), indicate possible flaws, mitigating circumstances, the limits to generalization, conditions under which you would expect your findings to be reversed, and so on.
+%\subsection{Research agenda}
+%The best experiments suggest new avenues of exploration. In this section, you should reflect and refine your hypotheses, describe new hypotheses, and suggest future research, ie research that you would do if you continued along this path.
+%\section{Conclusions}
+%Summarize the report, and speculate on what is to come.Acknowledgements. This section should give thanks to the major people (supervisors, associates) and organizations (sponsoring agencies, funders) that helped you. For example, I would like to thank Ben Shneiderman, whose report framework was used to build this one.
 
 %\begin{appendices}
 %  \chapter{Self-Assessment Manikin Scale}
@@ -503,3 +507,9 @@ Acknowledgements. This section should give thanks to the major people (superviso
 %  \includegraphics[width=\textwidth]{manikin}
 %  \label{appendix:sam}
 %\end{appendices}
+TODO:
+1. BSA-F
+2. Emotions
+4. RR data analysis
+5. Skin resistance
+6. Distance?

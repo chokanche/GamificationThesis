@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.16)  26 MAY 2018 20:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.16)  23 JUN 2018 21:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1199,11 +1199,11 @@ LaTeX Info: Redefining \today on input line 736.
 \glo@main@file=\write5
 \openout5 = `Thesis.glo'.
 
-Package glossaries Info: Writing glossary file Thesis.glo on input line 39.
+Package glossaries Info: Writing glossary file Thesis.glo on input line 34.
 \glo@acronym@file=\write6
 \openout6 = `Thesis.acn'.
 
-Package glossaries Info: Writing glossary file Thesis.acn on input line 39.
+Package glossaries Info: Writing glossary file Thesis.acn on input line 34.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx.sty
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -1532,22 +1532,22 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 (./Thesis.aux)
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1577,7 +1577,7 @@ Package caption Info: End \AtBeginDocument code.
 )
 \c@lstlisting=\count412
 \AtBeginShipoutBox=\box91
-Package hyperref Info: Link coloring ON on input line 73.
+Package hyperref Info: Link coloring ON on input line 68.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1586,16 +1586,16 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count413
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
 
 (./Thesis.out) (./Thesis.out)
 \@outlinefile=\write7
 \openout7 = `Thesis.out'.
 
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 73.
+LaTeX Info: Redefining \microtypecontext on input line 68.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1705,14 +1705,14 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+LaTeX Font Info:    Try loading font information for U+msa on input line 68.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+LaTeX Font Info:    Try loading font information for U+msb on input line 68.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1739,20 +1739,20 @@ Package microtype Info: Loading generic protrusion settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=159, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=138, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 <use ./Template_Figures/saarland_logo.png>
 Package pdftex.def Info: ./Template_Figures/saarland_logo.png  used on input li
-ne 94.
+ne 89.
 (pdftex.def)             Requested size: 62.7342pt x 61.73045pt.
-<./Template_Figures/logo_dfki.png, id=160, 123.0999pt x 45.5301pt>
+<./Template_Figures/logo_dfki.png, id=139, 123.0999pt x 45.5301pt>
 File: ./Template_Figures/logo_dfki.png Graphic file (type png)
 <use ./Template_Figures/logo_dfki.png>
-Package pdftex.def Info: ./Template_Figures/logo_dfki.png  used on input line 9
-4.
+Package pdftex.def Info: ./Template_Figures/logo_dfki.png  used on input line 8
+9.
 (pdftex.def)             Requested size: 123.09958pt x 45.52998pt.
 
-Overfull \hbox (32.37935pt too wide) in paragraph at lines 94--94
+Overfull \hbox (32.37935pt too wide) in paragraph at lines 89--89
  [][] 
  []
 
@@ -1793,285 +1793,376 @@ ate_Figures/saarland_logo.png> <./Template_Figures/logo_dfki.png>] [2
 
 ] [10
 
-] (./Thesis.lot)
-\tf@lot=\write11
-\openout11 = `Thesis.lot'.
 
- [11]
-[12
-
-
-]
-No file Thesis.acr.
-(./chapters/studydesign.tex [1] [2
-
-]
+] (./chapters/intro.tex
 Chapter 1.
 ------------------------------------------------------------------------------
- 1 Study Design
+ 1 Introduction
 ------------------------------------------------------------------------------
-[3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
+
+LaTeX Warning: Citation `dance' on page 1 undefined on input line 3.
+
+) (./chapters/relatedwork.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
+
+ []
+
+[1
+
+] [2]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Literature review
+------------------------------------------------------------------------------
+<figures/diagram.png, id=298, 406.51875pt x 298.86656pt>
+File: figures/diagram.png Graphic file (type png)
+<use figures/diagram.png>
+Package pdftex.def Info: figures/diagram.png  used on input line 6.
+(pdftex.def)             Requested size: 272.1676pt x 200.09818pt.
+[3
+
+ <./figures/diagram.png>]
+
+LaTeX Warning: Reference `appendix:injuries' on page 4 undefined on input line 
+20.
+
+<figures/injuries.png, id=324, 678.28406pt x 283.81032pt>
+File: figures/injuries.png Graphic file (type png)
+<use figures/injuries.png>
+Package pdftex.def Info: figures/injuries.png  used on input line 23.
+(pdftex.def)             Requested size: 453.60808pt x 189.79681pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--29
+
+ []
+
+[4] [5 <./figures/injuries.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--65
+
+ []
+
+[6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
-<figures/Room1.jpg, id=326, 722.7pt x 481.8pt>
-File: figures/Room1.jpg Graphic file (type jpg)
-<use figures/Room1.jpg>
-Package pdftex.def Info: figures/Room1.jpg  used on input line 68.
-(pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
- [4] [5 <./figures/Room1.jpg>]
-<figures/Kinect.jpg, id=348, 722.7pt x 481.8pt>
-File: figures/Kinect.jpg Graphic file (type jpg)
-<use figures/Kinect.jpg>
-Package pdftex.def Info: figures/Kinect.jpg  used on input line 86.
-(pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
-<figures/Desktop.jpg, id=350, 722.7pt x 481.8pt>
-File: figures/Desktop.jpg Graphic file (type jpg)
-<use figures/Desktop.jpg>
-Package pdftex.def Info: figures/Desktop.jpg  used on input line 93.
-(pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+ [7] [8]
+<figures/buzz.png, id=431, 638.385pt x 314.67563pt>
+File: figures/buzz.png Graphic file (type png)
+<use figures/buzz.png>
+Package pdftex.def Info: figures/buzz.png  used on input line 109.
+(pdftex.def)             Requested size: 453.60808pt x 223.5941pt.
+<figures/iosApps.png, id=436, 443.40656pt x 240.9pt>
+File: figures/iosApps.png Graphic file (type png)
+<use figures/iosApps.png>
+Package pdftex.def Info: figures/iosApps.png  used on input line 116.
+(pdftex.def)             Requested size: 385.56963pt x 209.4894pt.
+<figures/pub.png, id=446, 526.96875pt x 269.50688pt>
+File: figures/pub.png Graphic file (type png)
+<use figures/pub.png>
+Package pdftex.def Info: figures/pub.png  used on input line 123.
+(pdftex.def)             Requested size: 453.60808pt x 231.99756pt.
+
+[9] [10 <./figures/buzz.png> <./figures/iosApps.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 128.
+
+[11 <./figures/pub.png>]
+<figures/gamification-btw-game-and-play.png, id=506, 485.815pt x 427.5975pt>
+File: figures/gamification-btw-game-and-play.png Graphic file (type png)
+<use figures/gamification-btw-game-and-play.png>
+Package pdftex.def Info: figures/gamification-btw-game-and-play.png  used on in
+put line 138.
+(pdftex.def)             Requested size: 340.20605pt x 299.43364pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+
+ []
+
+[12 <./figures/gamification-btw-game-and-play.png>]
+<figures/pubEx.png, id=538, 543.53062pt x 300.3722pt>
+File: figures/pubEx.png Graphic file (type png)
+<use figures/pubEx.png>
+Package pdftex.def Info: figures/pubEx.png  used on input line 153.
+(pdftex.def)             Requested size: 408.24449pt x 225.61774pt.
+ [13] [14 <./figures/pubEx.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 158.
+
+[15] [16]
+<figures/ss.png, id=617, 584.1825pt x 489.32813pt>
+File: figures/ss.png Graphic file (type png)
+<use figures/ss.png>
+Package pdftex.def Info: figures/ss.png  used on input line 190.
+(pdftex.def)             Requested size: 317.52426pt x 265.97295pt.
+ [17] [18 <./figures/ss.png>]
+<figures/sdt.png, id=653, 807.015pt x 368.87813pt>
+File: figures/sdt.png Graphic file (type png)
+<use figures/sdt.png>
+Package pdftex.def Info: figures/sdt.png  used on input line 208.
+(pdftex.def)             Requested size: 453.60808pt x 207.34145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--215
+
+ []
+
+[19] [20 <./figures/sdt.png>] [21] [22] [23] [24]
+<figures/flowZone.png, id=721, 348.55219pt x 230.36063pt>
+File: figures/flowZone.png Graphic file (type png)
+<use figures/flowZone.png>
+Package pdftex.def Info: figures/flowZone.png  used on input line 339.
+(pdftex.def)             Requested size: 317.52426pt x 209.86398pt.
+<figures/flow-model.jpg, id=727, 433.62pt x 340.27126pt>
+File: figures/flow-model.jpg Graphic file (type jpg)
+<use figures/flow-model.jpg>
+Package pdftex.def Info: figures/flow-model.jpg  used on input line 347.
+(pdftex.def)             Requested size: 317.52426pt x 249.17995pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6 <./figures/Kinect.jpg>] [7 <./figures/Desktop.jpg>] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+[25 <./figures/flowZone.png>]
+<figures/dfs2.png, id=747, 770.12718pt x 258.9675pt>
+File: figures/dfs2.png Graphic file (type png)
+<use figures/dfs2.png>
+Package pdftex.def Info: figures/dfs2.png  used on input line 356.
+(pdftex.def)             Requested size: 453.60808pt x 152.53264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 353--362
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
-
- []
-
-[10] [11]
-<figures/participantExperiment.png, id=412, 1013.7875pt x 762.85pt>
-File: figures/participantExperiment.png Graphic file (type png)
-<use figures/participantExperiment.png>
-Package pdftex.def Info: figures/participantExperiment.png  used on input line 
-230.
-(pdftex.def)             Requested size: 408.24449pt x 307.1949pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12] [13 <./figures/participantExperiment.png>]
-<figures/ROMSummaryExperiment.png, id=429, 789.70032pt x 344.78813pt>
-File: figures/ROMSummaryExperiment.png Graphic file (type png)
-<use figures/ROMSummaryExperiment.png>
-Package pdftex.def Info: figures/ROMSummaryExperiment.png  used on input line 2
-46.
-(pdftex.def)             Requested size: 453.60808pt x 198.04645pt.
-<figures/ROMSummaryControl.png, id=430, 789.70032pt x 359.09157pt>
-File: figures/ROMSummaryControl.png Graphic file (type png)
-<use figures/ROMSummaryControl.png>
-Package pdftex.def Info: figures/ROMSummaryControl.png  used on input line 252.
-
-(pdftex.def)             Requested size: 453.60808pt x 206.26234pt.
-<figures/AVGTime.png, id=433, 554.82281pt x 329.73187pt>
-File: figures/AVGTime.png Graphic file (type png)
-<use figures/AVGTime.png>
-Package pdftex.def Info: figures/AVGTime.png  used on input line 261.
-(pdftex.def)             Requested size: 408.24449pt x 242.61917pt.
- [14 <./figures/ROMSummaryExperiment.png> <./figures/ROMSummaryControl.png>]
-<figures/AVGHr.png, id=439, 441.44925pt x 287.27325pt>
-File: figures/AVGHr.png Graphic file (type png)
-<use figures/AVGHr.png>
-Package pdftex.def Info: figures/AVGHr.png  used on input line 270.
-(pdftex.def)             Requested size: 408.24449pt x 265.67099pt.
-<figures/HRCumulative.png, id=441, 600.44325pt x 446.26724pt>
-File: figures/HRCumulative.png Graphic file (type png)
-<use figures/HRCumulative.png>
-Package pdftex.def Info: figures/HRCumulative.png  used on input line 277.
-(pdftex.def)             Requested size: 453.60808pt x 337.13058pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--282
-
- []
-
-[15 <./figures/AVGTime.png>] [16 <./figures/AVGHr.png>] [17 <./figures/HRCumula
-tive.png>]
-<figures/HRTargetZones.png, id=460, 632.3625pt x 168.63pt>
-File: figures/HRTargetZones.png Graphic file (type png)
-<use figures/HRTargetZones.png>
-Package pdftex.def Info: figures/HRTargetZones.png  used on input line 297.
-(pdftex.def)             Requested size: 453.60808pt x 120.96321pt.
-<figures/HRZonesPic.png, id=462, 664.884pt x 446.8695pt>
-File: figures/HRZonesPic.png Graphic file (type png)
-<use figures/HRZonesPic.png>
-Package pdftex.def Info: figures/HRZonesPic.png  used on input line 304.
-(pdftex.def)             Requested size: 453.60808pt x 304.86958pt.
- [18 <./figures/HRTargetZones.png>]
-<figures/PacesSummary.png, id=474, 551.661pt x 283.0575pt>
-File: figures/PacesSummary.png Graphic file (type png)
-<use figures/PacesSummary.png>
-Package pdftex.def Info: figures/PacesSummary.png  used on input line 330.
-(pdftex.def)             Requested size: 408.24449pt x 209.4679pt.
-<figures/pacesPerCondition.png, id=476, 361.35pt x 216.81pt>
-File: figures/pacesPerCondition.png Graphic file (type png)
-<use figures/pacesPerCondition.png>
-Package pdftex.def Info: figures/pacesPerCondition.png  used on input line 337.
-
-(pdftex.def)             Requested size: 453.60808pt x 272.1664pt.
- [19 <./figures/HRZonesPic.png>]
-[20 <./figures/PacesSummary.png> <./figures/pacesPerCondition.png>]
-<figures/BorgSummary.png, id=491, 369.17924pt x 227.04825pt>
-File: figures/BorgSummary.png Graphic file (type png)
-<use figures/BorgSummary.png>
-Package pdftex.def Info: figures/BorgSummary.png  used on input line 347.
-(pdftex.def)             Requested size: 453.60808pt x 278.98705pt.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 351.
-
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 351.
- [21 <./figures/BorgSummary.png>]
-<figures/sam.png, id=503, 1042.39438pt x 616.80438pt>
-File: figures/sam.png Graphic file (type png)
-<use figures/sam.png>
-Package pdftex.def Info: figures/sam.png  used on input line 356.
-(pdftex.def)             Requested size: 453.60808pt x 268.41127pt.
-<figures/SamSummary.png, id=507, 1023.825pt x 486.31688pt>
-File: figures/SamSummary.png Graphic file (type png)
-<use figures/SamSummary.png>
-Package pdftex.def Info: figures/SamSummary.png  used on input line 366.
-(pdftex.def)             Requested size: 453.60808pt x 215.4642pt.
- [22 <./figures/sam.png>]
-<figures/SUSSummary.png, id=521, 963.09813pt x 526.96875pt>
-File: figures/SUSSummary.png Graphic file (type png)
-<use figures/SUSSummary.png>
-Package pdftex.def Info: figures/SUSSummary.png  used on input line 382.
-(pdftex.def)             Requested size: 453.60808pt x 248.18996pt.
-<figures/SUSPerQuestion.png, id=524, 507.69675pt x 245.11575pt>
-File: figures/SUSPerQuestion.png Graphic file (type png)
-<use figures/SUSPerQuestion.png>
-Package pdftex.def Info: figures/SUSPerQuestion.png  used on input line 389.
-(pdftex.def)             Requested size: 453.60808pt x 219.00508pt.
- [23 <./figures/SamSummary.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24 <./figures/SUSSummary.png>]
-<figures/PESSummaryPerQuestion.png, id=541, 1081.03876pt x 607.26875pt>
-File: figures/PESSummaryPerQuestion.png Graphic file (type png)
-<use figures/PESSummaryPerQuestion.png>
-Package pdftex.def Info: figures/PESSummaryPerQuestion.png  used on input line 
-403.
-(pdftex.def)             Requested size: 453.60808pt x 254.81021pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25 <./figures/SUSPerQuestion.png>]
-<figures/PESSummary.png, id=549, 975.14313pt x 514.42188pt>
-File: figures/PESSummary.png Graphic file (type png)
-<use figures/PESSummary.png>
-Package pdftex.def Info: figures/PESSummary.png  used on input line 413.
-(pdftex.def)             Requested size: 453.60808pt x 239.29004pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[26 <./figures/PESSummaryPerQuestion.png>] [27 <./figures/PESSummary.png>]
-<figures/PostStudyExperiment.png, id=563, 948.54375pt x 309.65688pt>
-File: figures/PostStudyExperiment.png Graphic file (type png)
-<use figures/PostStudyExperiment.png>
-Package pdftex.def Info: figures/PostStudyExperiment.png  used on input line 44
-1.
-(pdftex.def)             Requested size: 453.60808pt x 148.08078pt.
-
-[28 <./figures/PostStudyExperiment.png>] [29]
-<figures/PostStudyControl.png, id=576, 933.98938pt x 278.54062pt>
-File: figures/PostStudyControl.png Graphic file (type png)
-<use figures/PostStudyControl.png>
-Package pdftex.def Info: figures/PostStudyControl.png  used on input line 473.
-(pdftex.def)             Requested size: 453.60808pt x 135.27904pt.
-<figures/PostStudySum.png, id=578, 936.49875pt x 558.58687pt>
-File: figures/PostStudySum.png Graphic file (type png)
-<use figures/PostStudySum.png>
-Package pdftex.def Info: figures/PostStudySum.png  used on input line 480.
-(pdftex.def)             Requested size: 453.60808pt x 270.56485pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[30 <./figures/PostStudyControl.png>] [31 <./figures/PostStudySum.png>])
-(./Thesis.bbl [32]) [33
+[26 <./figures/flow-model.jpg>] [27 <./figures/dfs2.png>] [28
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
- (./Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Gamification Elements
+------------------------------------------------------------------------------
+[29]
+<figures/userTypes.png, id=792, 548.80031pt x 349.305pt>
+File: figures/userTypes.png Graphic file (type png)
+<use figures/userTypes.png>
+Package pdftex.def Info: figures/userTypes.png  used on input line 384.
+(pdftex.def)             Requested size: 408.24449pt x 259.84612pt.
+ [30 <./figures/userTypes.png>]
+<figures/playerHex.png, id=809, 393.72093pt x 346.29375pt>
+File: figures/playerHex.png Graphic file (type png)
+<use figures/playerHex.png>
+Package pdftex.def Info: figures/playerHex.png  used on input line 394.
+(pdftex.def)             Requested size: 340.20605pt x 299.22292pt.
+ [31 <./figures/playerHex.png>]
+<figures/mdc.png, id=857, 511.9125pt x 368.87813pt>
+File: figures/mdc.png Graphic file (type png)
+<use figures/mdc.png>
+Package pdftex.def Info: figures/mdc.png  used on input line 437.
+(pdftex.def)             Requested size: 340.20605pt x 245.1489pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--442
+
+ []
+
+[32] [33]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 442.
+
+[34 <./figures/mdc.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 452.
+
+[35] [36] [37] [38]) (./Thesis.bbl [39] [40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/10 (+20) ``Fitness app pop-u-lar-ity.'' [][]$\OT1/cmtt/m/n/10 ht
+tps : / / www . spaceotechnologies . com /
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 9--12
+\OT1/cmtt/m/n/10 fitness-[]apps-[]gaining-[]popularity-[]hire-[]iphone-[]app-[]
+developer-[]now/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 49--52
+[]\OT1/cmr/m/n/10 (+20) ``Bartle's tax-on-omy of player types.'' [][]$\OT1/cmtt
+/m/n/10 https : / / gamedevelopment . tutsplus . com / articles /
+ []
+
+
+Overfull \hbox (16.20091pt too wide) in paragraph at lines 49--52
+\OT1/cmtt/m/n/10 bartles-[]taxonomy-[]of-[]player-[]types-[]and-[]why-[]it-[]do
+esnt-[]apply-[]to-[]everything-[]-[]gamedev-[]4173$[][]\OT1/cmr/m/n/10 (-20) .
+ []
+
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
+[]\OT1/cmr/m/n/10 (+20) ``Marketing gam-i-fi-ca-tion: Toy-ota turns charg-ing y
+our iphone into
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
+\OT1/cmr/m/n/10 (+20) an epic game.'' [][]$\OT1/cmtt/m/n/10 http : / / yukaicho
+u . com / marketing-[]gamification /
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 210--214
+\OT1/cmtt/m/n/10 marketing-[]gamification-[]toyota-[]turns-[]charging-[]iphone-
+[]epic-[]game/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
+ []
+
+[43]
+Underfull \hbox (badness 1082) in paragraph at lines 259--262
+[]\OT1/cmr/m/n/10 (+20) ``Game de-sign el-e-ments def-i-ni-tion.'' [][]$\OT1/cm
+tt/m/n/10 https : / / en . wikipedia . org / wiki / Game _ design # Design _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
+[]\OT1/cmr/m/n/10 (+20) ``Game de-sign and gam-i-fi-ca-tion de-sign.'' [][]$\OT
+1/cmtt/m/n/10 https : / / www . gamified . uk / 2014 / 03 / 25 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--337
+[]\OT1/cmr/m/n/10 (+20) ``The pur-pose of gam-i-fi-ca-tion.'' [][]$\OT1/cmtt/m/
+n/10 http : / / radar . oreilly . com / 2011 / 04 /
+ []
+
+[44]
+Underfull \hbox (badness 3209) in paragraph at lines 379--382
+[]\OT1/cmr/m/n/10 (+20) ``Gamification 101, the psy-chol-ogy of mo-ti-va-tion.'
+' [][]$\OT1/cmtt/m/n/10 https : / / community . lithium . com / t5 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--382
+\OT1/cmtt/m/n/10 Science-[]of-[]Social-[]blog / Gamification-[]101-[]The-[]Psyc
+hology-[]of-[]Motivation / ba-[]p / 21864$[][]\OT1/cmr/m/n/10 (+20) .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--427
+[]\OT1/cmr/m/n/10 (+20) ``50 gam-i-fi-ca-tion me-chan-ics and el-e-ments.'' [][
+]$\OT1/cmtt/m/n/10 https : / / www . gamified . uk / user-[]types /
+ []
+
+[45]) [46]
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
+(./Thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 220.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 220.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 57E5C0E1C5DA63F8BBD40BDAB8B39F47;6980.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
+(rerunfilecheck)             Checksum: 40AEEC134ED0F89ADCAB02D9D2DF6069;5924.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 220.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 44665 strings out of 492649
- 822955 string characters out of 6129622
- 947584 words of memory out of 5000000
- 47542 multiletter control sequences out of 15000+600000
- 549323 words of font info for 147 fonts, out of 8000000 for 9000
+ 44931 strings out of 492649
+ 825726 string characters out of 6129622
+ 961746 words of memory out of 5000000
+ 47605 multiletter control sequences out of 15000+600000
+ 558096 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,80p,10357b,1204s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{glo:sus} has been referenced but do
+ 55i,15n,80p,10357b,1294s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{glo:mda} has been referenced but do
 es not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{glo:paces} has been referenced but does not exist, 
+pdfTeX warning (dest): name{glo:pbl} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:hexad} has been referenced but does not exist, 
 replaced by a fixed one
 
-pdfTeX warning (dest): name{glo:sam} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:mud} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:rpe} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:dsf} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:parq} has been referenced but does not exist, r
+pdfTeX warning (dest): name{glo:oit} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:cet} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:flow} has been referenced but does not exist, r
 eplaced by a fixed one
 
-pdfTeX warning (dest): name{glo:bsa} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:sdt} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:rom} has been referenced but does not exist, re
+pdfTeX warning (dest): name{glo:avg} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{glo:pes} has been referenced but does not exist, re
-placed by a fixed one
+pdfTeX warning (dest): name{glo:fmarc} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:fifa} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:wu} has been referenced but does not exist, rep
+laced by a fixed one
 
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
 /texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (45 pages, 5609217 bytes).
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Thesis.pdf (56 pages, 1235607 bytes).
 PDF statistics:
- 673 PDF objects out of 1000 (max. 8388607)
- 568 compressed objects within 6 object streams
- 136 named destinations out of 1000 (max. 500000)
- 30650 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 1117 PDF objects out of 1200 (max. 8388607)
+ 997 compressed objects within 10 object streams
+ 221 named destinations out of 1000 (max. 500000)
+ 38762 words of extra memory for PDF output out of 42996 (max. 10000000)
 

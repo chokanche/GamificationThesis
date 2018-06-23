@@ -1,3 +1,54 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Thesis.aux
 The style file: ieeetr.bst
 Database file #1: bibliography/reference.bib
+I was expecting a `,' or a `}'---line 92 of file bibliography/reference.bib
+ : 
+ : @article{tanaka2001age,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in pardee1990motivation
+Warning--can't use both volume and number fields in hunicke2004mda
+You've used 91 entries,
+            1876 wiz_defined-function locations,
+            933 strings with 17946 characters,
+and the built_in function-call counts, 20197 in all, are:
+= -- 2084
+> -- 588
+< -- 0
++ -- 242
+- -- 151
+* -- 1241
+:= -- 2647
+add.period$ -- 127
+call.type$ -- 91
+change.case$ -- 83
+chr.to.int$ -- 0
+cite$ -- 93
+duplicate$ -- 1032
+empty$ -- 2196
+format.name$ -- 151
+if$ -- 5126
+int.to.chr$ -- 0
+int.to.str$ -- 91
+missing$ -- 69
+newline$ -- 312
+num.names$ -- 63
+pop$ -- 436
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 697
+stack$ -- 0
+substring$ -- 1166
+swap$ -- 375
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 184
+width$ -- 93
+write$ -- 856
+(There was 1 error message)
