@@ -356,18 +356,6 @@ A.~Broeck, M.~Vansteenkiste, H.~Witte, B.~Soenens, and W.~Lens, ``Capturing
 R.~J. Vallerand, ``Intrinsic and extrinsic motivation in sport and physical
   activity,'' {\em Handbook of sport psychology}, vol.~3, pp.~59--83, 2007.
 
-\bibitem{peng2012need}
-W.~Peng, J.-H. Lin, K.~A. Pfeiffer, and B.~Winn, ``Need satisfaction supportive
-  game features as motivational determinants: An experimental study of a
-  self-determination theory guided exergame,'' {\em Media Psychology}, vol.~15,
-  no.~2, pp.~175--196, 2012.
-
-\bibitem{song2010effects}
-H.~Song, J.~Kim, K.~E. Tenzek, and K.~M. Lee, ``The effects of competition on
-  intrinsic motivation in exergames and the conditional indirect effects of
-  presence,'' in {\em annual conference of the International Communication
-  Association, Singapore}, 2010.
-
 \bibitem{csikszentmihalyi1997finding}
 M.~Csikszentmihalyi, ``Finding flow,'' 1997.
 
@@ -442,5 +430,25 @@ E.~D. Mekler, F.~Br{\"u}hlmann, K.~Opwis, and A.~N. Tuch, ``Do points, levels
   gamification elements,'' in {\em Proceedings of the First International
   Conference on gameful design, research, and applications}, pp.~66--73, ACM,
   2013.
+
+\bibitem{userCenteredDesign}
+``User centered design.''
+  \url{https://www.usability.gov/what-and-why/user-centered-design.html}.
+\newblock Accessed: 2018-01-27.
+
+\bibitem{amateurvsproffesional}
+``Amateur vs. professional athletes.''
+  \url{https://education.uslegal.com/amateur-athletics/amateur-vs-professional-athletes/}.
+\newblock Accessed: 2017-07-01.
+
+\bibitem{kay2012effect}
+A.~D. Kay and A.~J. Blazevich, ``Effect of acute static stretch on maximal
+  muscle performance: a systematic review,'' {\em Medicine \& Science in Sports
+  \& Exercise}, vol.~44, no.~1, pp.~154--164, 2012.
+
+\bibitem{avatar}
+``The psychology of video game avatars.''
+  \url{http://www.psychologyofgames.com/2013/11/the-psychology-of-video-game-avatars/}.
+\newblock Accessed: 2017-10-25.
 
 \end{thebibliography}
