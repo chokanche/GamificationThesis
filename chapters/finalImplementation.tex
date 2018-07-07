@@ -1,4 +1,4 @@
-\chapter{Final Design Overview}\label{chapter:finaldesign}
+\chapter{Overview and Evaluation of the Exergame}\label{chapter:finaldesign}
 The overall exergame development was user centred. Based on the feedback gathered from the prototype game review, discussions with experts, and literature review, new movements have been introduced and modifications have been made to the existing design in order to make the exergame engaging, enjoyable, and more intuitive to use and interact with for the future users. This section outlines the design and development of the final version of the Immotion exergame for warm up routine guidance and motivation.
 \section{A Modular Design Approach}
 In order to make the exergame easily adjustable and compliant with the user requirements, in our exergame design and development we followed a modular design approach. That is, each movement (exercise) that was required from the user has been encapsulated in one distinct game segment. To put it differently, the whole game system was subdivided into smaller parts that could be independently created and then used accordingly. That way, by combining multiple segments randomly, we were able to generate a unique game map each time the user played the exergame. The end result of this approach was that our game is not constrained by one global map, but a dynamic one created on each game run. Moreover, having segments as the basic game blocks allowed us to easily add new segments that could make the game richer and the set of required movements bigger. Also, this way we could easily update or discard segments and movements users disliked or were difficult to perform. We believe this is a major feature that made our exergame scalable and extensible for future user requirements and preferences. 
@@ -126,7 +126,7 @@ Figure \ref{fig:leftup} depicts the segment in which the user is required to mov
     \caption{Expert left hand up movement.}
     \label{fig:leftHandUp}
 \end{figure}\\
-In segments presented in Figure \ref{fig:wolfRight}, and \ref{fig:goblin} similar hand movements were required to be performed. The only difference was that in these segments the user is given a choice whether to go left or right. For instance, in Figure \ref{fig:goblin} player could collect four coins by moving to the right side. On the other hand, the player could also chose to go left and collect a blue coin that was worth five points. However, there was a possibility to lose points if collided with the obstacle.\\
+In segments presented in Figure \ref{fig:wolfRight}, and \ref{fig:goblin} similar hand movements were required to be performed. The only difference was that in these segments the user is given a choice whether to go left or right. \\For instance, in Figure \ref{fig:goblin} player could collect four coins by moving to the right side. On the other hand, the player could also chose to go left and collect a blue coin that was worth five points. However, there was a possibility to lose points if collided with the obstacle.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.85\textwidth]{HandUpRightWolf}
@@ -151,7 +151,7 @@ Figures \ref{fig:2wolfs} and \ref{fig:2sides} show segments in which the player 
     \includegraphics[width=0.85\textwidth]{TwoSides}
     \caption{Right or Left hand up with walls segment.}
     \label{fig:2sides}
-\end{figure}\\\\
+\end{figure}\\
 In Figure \ref{fig:jumpleft} the player was required move to the left and touch the floor with the left hand in order to collect the coins. Moreover, the player was required to stay in that position for a short amount of time in order to collect all the coins and than move to the right in order to avoid the obstacle.
 \begin{figure}[h]
     \centering

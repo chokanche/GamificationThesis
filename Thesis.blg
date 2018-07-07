@@ -4,45 +4,46 @@ The top-level auxiliary file: Thesis.aux
 The style file: ieeetr.bst
 Database file #1: bibliography/reference.bib
 Warning--empty journal in pardee1990motivation
-You've used 93 entries,
+Warning--empty journal in schobel2016agony
+You've used 97 entries,
             1876 wiz_defined-function locations,
-            942 strings with 18062 characters,
-and the built_in function-call counts, 20303 in all, are:
-= -- 2108
-> -- 571
+            960 strings with 18960 characters,
+and the built_in function-call counts, 21464 in all, are:
+= -- 2216
+> -- 629
 < -- 0
-+ -- 238
-- -- 145
-* -- 1227
-:= -- 2643
-add.period$ -- 132
-call.type$ -- 93
-change.case$ -- 85
++ -- 259
+- -- 162
+* -- 1312
+:= -- 2802
+add.period$ -- 137
+call.type$ -- 97
+change.case$ -- 89
 chr.to.int$ -- 0
-cite$ -- 94
-duplicate$ -- 1031
-empty$ -- 2226
-format.name$ -- 145
-if$ -- 5172
+cite$ -- 99
+duplicate$ -- 1086
+empty$ -- 2334
+format.name$ -- 162
+if$ -- 5452
 int.to.chr$ -- 0
-int.to.str$ -- 93
-missing$ -- 68
-newline$ -- 321
-num.names$ -- 62
-pop$ -- 453
+int.to.str$ -- 97
+missing$ -- 71
+newline$ -- 334
+num.names$ -- 65
+pop$ -- 474
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 705
+skip$ -- 744
 stack$ -- 0
-substring$ -- 1166
-swap$ -- 373
+substring$ -- 1246
+swap$ -- 395
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 183
-width$ -- 95
-write$ -- 872
-(There was 1 warning)
+warning$ -- 2
+while$ -- 192
+width$ -- 99
+write$ -- 908
+(There were 2 warnings)

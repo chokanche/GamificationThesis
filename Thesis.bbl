@@ -256,7 +256,7 @@ J.~Juul, {\em Half-real: Video games between real rules and fictional worlds}.
 \newblock MIT press, 2011.
 
 \bibitem{gamDesElem}
-``{Game design elements} definition.''
+``Game design elements - definition.''
   \url{https://en.wikipedia.org/wiki/Game_design#Design_elements}.
 \newblock Accessed: 2017-01-20.
 
@@ -431,10 +431,27 @@ E.~D. Mekler, F.~Br{\"u}hlmann, K.~Opwis, and A.~N. Tuch, ``Do points, levels
   Conference on gameful design, research, and applications}, pp.~66--73, ACM,
   2013.
 
+\bibitem{ucd2}
+``User centered design.'' \url{https://www.w3.org/WAI/redesign/ucd/}.
+\newblock Accessed: 2018-06-20.
+
 \bibitem{userCenteredDesign}
 ``User centered design.''
   \url{https://www.usability.gov/what-and-why/user-centered-design.html}.
 \newblock Accessed: 2018-01-27.
+
+\bibitem{hernandez2013designing}
+H.~A. Hernandez, Z.~Ye, T.~Graham, D.~Fehlings, and L.~Switzer, ``Designing
+  action-based exergames for children with cerebral palsy,'' in {\em
+  Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pp.~1261--1270, ACM, 2013.
+
+\bibitem{silvers2015efficacy}
+H.~Silvers-Granelli, B.~Mandelbaum, O.~Adeniji, S.~Insler, M.~Bizzini,
+  R.~Pohlig, A.~Junge, L.~Snyder-Mackler, and J.~Dvorak, ``Efficacy of the fifa
+  11+ injury prevention program in the collegiate male soccer player,'' {\em
+  The American journal of sports medicine}, vol.~43, no.~11, pp.~2628--2637,
+  2015.
 
 \bibitem{amateurvsproffesional}
 ``Amateur vs. professional athletes.''
@@ -450,5 +467,10 @@ A.~D. Kay and A.~J. Blazevich, ``Effect of acute static stretch on maximal
 ``The psychology of video game avatars.''
   \url{http://www.psychologyofgames.com/2013/11/the-psychology-of-video-game-avatars/}.
 \newblock Accessed: 2017-10-25.
+
+\bibitem{schobel2016agony}
+S.~Sch{\"o}bel, M.~S{\"o}llner, and J.~M. Leimeister, ``The agony of
+  choice--analyzing user preferences regarding gamification elements in
+  learning management systems,'' 2016.
 
 \end{thebibliography}
