@@ -3,14 +3,29 @@ The overall exergame development was user centred. Based on the feedback gathere
 \section{A Modular Design Approach}
 In order to make the exergame easily adjustable and compliant with the user requirements, in our exergame design and development we followed a modular design approach. That is, each movement (exercise) that was required from the user has been encapsulated in one distinct game segment. To put it differently, the whole game system was subdivided into smaller parts that could be independently created and then used accordingly. That way, by combining multiple segments randomly, we were able to generate a unique game map each time the user played the exergame. The end result of this approach was that our game is not constrained by one global map, but a dynamic one created on each game run. Moreover, having segments as the basic game blocks allowed us to easily add new segments that could make the game richer and the set of required movements bigger. Also, this way we could easily update or discard segments and movements users disliked or were difficult to perform. We believe this is a major feature that made our exergame scalable and extensible for future user requirements and preferences. 
 \section{Discussions With Fitness Experts}
-During the development of our exergame, fitness and exercise experts were consulted in order to design game segments that would require movements often performed before physical activity and be effortlessly executed by the users without prior exercise knowledge. \\\\Based on their comments we also updated existing segments so the movements that are required to be executed are more intuitive for the user and do not require further explanation. The modular design approach allowed us to easily add segments that required movements suggested by the experts at the spot and modify existing ones. Suggestions and additional features recommended by experts were taken into account while designing the final version of the exergame.  Figure \ref{fig:expDesign} captures one of our discussion with the fitness expert.\\  
+During the development of our exergame, fitness and exercise experts were consulted in order to design game segments that would require movements often performed before physical activity and be effortlessly executed by the users without prior exercise knowledge. \\Based on the comments received by the experts, we modified existing segments so the movements that are required to be executed are more intuitive for the user and do not require further explanation. The modular design approach allowed us to easily add segments that required movements suggested by the experts at the spot and modify existing ones. Suggestions and additional features recommended by experts were taken into account while designing all the game segments used in the final version of the exergame.  Figure \ref{fig:expDesign} captures one of our discussion with the fitness expert.\\  
  \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{expertsDesign}
     \caption{Exergame related design discussion with the fitness expert.}
     \label{fig:expDesign}
 \end{figure}\\
-In the next sections we describe and present the segments created as well as the movements that were required to be performed within them.\pagebreak
+In the next sections we describe and present the redesigned exergame, the new segments introduced, as well as the movements that were required to be performed within them.\pagebreak
+\section{Coins Overview}
+For the final version of the exergame, we extended the set of coins the player can collect during the gameplay. Compared to the previous exergame version presented in Figure \ref{fig:points}, three new types of coins were made available to the players. Figure \ref{fig:new_coins} summarizes the available coin types.  
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{new_coins}
+    \caption{Coin types available in the exergame.}
+    \label{fig:start}
+\end{figure}\\
+Each coin type presented in Figure \ref{fig:new_coins}  was worth different amount of points. How much point each coin was worth is as follows:
+\begin{itemize}
+\item Yellow coin - 1 point.
+\item Red coin - 3 points.
+\item Blue coin - 5 points.
+\end{itemize}
+We positioned the coins in the segments in a way the player could chose between two options. First one was to collect less points without any possibility to hit an obstacle, The second was to collect more points, but the chance to hit an obstacle and lose points, was much higher. This way we hoped to provide players the \textit{autonomy} over their own actions and decisions as much as possible. This can, as per \acrshort{sdt}, impact ones intrinsic motivation. 
 \section{Home Window Overview}
 When the user starts the exergame, the \textit{Home screen} that is depicted in Figure \ref{fig:start} is showed. Apart from starting the game, other options are available for the user as well:
 \begin{itemize}
@@ -52,7 +67,7 @@ The volume menu showed in Figure \ref{fig:volume}, gives users the possibility t
     \label{fig:volume}
 \end{figure}
 \paragraph{High Score Menu}
-The high score menu depicted in Figure \ref{fig:highscore} ranks the users who played the exergame based on the points collected during one gameplay. The leaderboard displays the user's rank, name, score, and duration. This is a global leaderboard and it is different than the one presented in Figure \ref{fig:individualScore} since it includes all the users previously interacted with the game, their scores, and duration they played the game. Contrarily, the individual score board, displayed only at the end of each gameplay, shows the score and game duration of the user who currently interacted with the exergame. The Back button allows the user to go back to the Home screen.
+The high score menu depicted in Figure \ref{fig:highscore} ranks the users who played the exergame based on the points collected during one gameplay. The leaderboard displays the user's rank, name, score, and duration. This is a global leaderboard and it is different than the one presented in Figure \ref{fig:individualScore} since it includes all the users previously interacted with the game, their scores, and duration they played the game. Contrarily, the individual score board, displayed only at the end of each gameplay, shows the score and game duration of the user who currently interacted with the exergame. The Back button allows the user to go back to the Home screen.TODO!
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{HighScore}
@@ -62,7 +77,7 @@ The high score menu depicted in Figure \ref{fig:highscore} ranks the users who p
 \paragraph{Quit Menu}
 The quit menu button was used for ending (closing) the game. 
 \section{Game Start Overview}
-For the purpose of tracking progress and achievements over time, users were required to input a name or username they would like to use during the gameplay. Based on the username, we displayed the user's current score and position on the leaderboard during the gameplay, and the highest scores at the end of the gameplay. \\The live score board and the leaderboard are presented in Figure \ref{fig:livescore} and Figure \ref{fig:highscore}. After the user set the username and pressed the Start button, a \textit{Countdown window} as showed in Figure \ref{fig:counter} is first displayed. The duration of the countdown is set to 5 seconds. We opted for this duration because it showed as the most optimal in our pilot study previously conducted with the university personal. This amount of time was sufficient for the users to prepare for the upcoming exercise by moving to the correct position. In case the user was not in the Kinect sensor range at the beginning of the game, a popup information window was displayed as showed in \ref{fig:waiting}. This information window was also displayed in case the connection to the Kinect sensor failed during the gameplay. \\
+For the purpose of tracking progress and achievements over time, users were required to input a name or username they would like to use during the gameplay. Based on the username, we displayed the user's current score and position on the leaderboard during the gameplay, and the highest scores at the end of the gameplay. \\The live score board and the leaderboard are presented in Figure \ref{fig:livescore} and Figure \ref{fig:highscore}. After the user set the username and pressed the Start button, a \textit{Countdown window} as showed in Figure \ref{fig:counter} is first displayed. The duration of the countdown is set to 5 seconds. We opted for this duration because it showed as the most optimal in our pilot study previously conducted with the university personal and the fitness expert. This amount of time was sufficient for the users to prepare for the upcoming exercise by moving to the correct position. In case the user was not in the Kinect sensor range at the beginning of the game, a popup information window was displayed as showed in Figure  \ref{fig:waiting}. This information window was also displayed in case the connection to the Kinect sensor failed during the gameplay. \\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{Counter}
@@ -126,7 +141,7 @@ Figure \ref{fig:leftup} depicts the segment in which the user is required to mov
     \caption{Expert left hand up movement.}
     \label{fig:leftHandUp}
 \end{figure}\\
-In segments presented in Figure \ref{fig:wolfRight}, and \ref{fig:goblin} similar hand movements were required to be performed. The only difference was that in these segments the user is given a choice whether to go left or right. \\For instance, in Figure \ref{fig:goblin} player could collect four coins by moving to the right side. On the other hand, the player could also chose to go left and collect a blue coin that was worth five points. However, there was a possibility to lose points if collided with the obstacle.\\
+In segments presented in Figure \ref{fig:wolfRight} and Figure \ref{fig:goblin} similar hand movements were required to be performed. The only difference was that in these segments the user is given a choice whether to go left or right. \\For instance, in Figure \ref{fig:goblin} player could collect four coins by moving to the right side. On the other hand, the player could also chose to go left and collect a blue coin that was worth five points. However, there was a possibility to lose points if collided with the obstacle.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.85\textwidth]{HandUpRightWolf}
@@ -138,8 +153,8 @@ In segments presented in Figure \ref{fig:wolfRight}, and \ref{fig:goblin} simila
     \includegraphics[width=0.85\textwidth]{GoblinHandLeftOrRight}
     \caption{Right or Left hand up with goblin segment.}
     \label{fig:goblin}
-\end{figure}\\\\\\
-Figures \ref{fig:2wolfs} and \ref{fig:2sides} show segments in which the player was also given an option to chose which movement to perform. Both the movements included rising hand in the upper position. The decision was left to the player. In case the player opted for the left side, the possible reward were two blue coins that were worth ten points in total. In case the player opted for the right side, the possible reward were three red coins that were worth nine points in total. However, there was a possibility to lose points by colliding with the obstacle.\\
+\end{figure}\\\\
+Figures \ref{fig:2wolfs} and Figure \ref{fig:2sides} show segments in which the player was also given an option to chose which movement to perform. Both the movements included rising hand in the upper position. The decision was left to the player. In case the player opted for the left side, the possible reward were two blue coins that were worth ten points in total. In case the player opted for the right side, the possible reward were three red coins that were worth nine points in total. However, there was a possibility to lose points by colliding with the obstacle.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.85\textwidth]{2WolfsRight}
@@ -151,8 +166,8 @@ Figures \ref{fig:2wolfs} and \ref{fig:2sides} show segments in which the player 
     \includegraphics[width=0.85\textwidth]{TwoSides}
     \caption{Right or Left hand up with walls segment.}
     \label{fig:2sides}
-\end{figure}\\
-In Figure \ref{fig:jumpleft} the player was required move to the left and touch the floor with the left hand in order to collect the coins. Moreover, the player was required to stay in that position for a short amount of time in order to collect all the coins and than move to the right in order to avoid the obstacle.
+\end{figure}\\\\
+In Figure \ref{fig:jumpleft} the player was required to move to the left and touch the floor with the left hand in order to collect the coins. Moreover, the player was required to stay in that position for a short amount of time in order to collect all the coins and than move to the right in order to avoid the obstacle.
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.85\textwidth]{JumpRight}
@@ -191,7 +206,7 @@ In the segment presented in Figure \ref{fig:rightleft} the player was required t
     \caption{Expert right and left movement.}
     \label{fig:expertLeftRight}
 \end{figure}\\
-Figure \ref{fig:squatleft} and \ref{fig:squatright} show game segments in which the player was required to move right or left as in segments showed in Figure \ref{fig:jumpleft} and \ref{fig:jumpright}. The main difference is that after moving right or left, additional squat is required in order to avoid the obstacle and collect the coins. The obstacle was placed above the the coins, and in case the player hit one of the obstacle, the overall score was reduced by one.\\
+Figure \ref{fig:squatleft} and Figure \ref{fig:squatright} show game segments in which the player was required to move right or left as in segments showed in Figure \ref{fig:jumpleft} and Figure \ref{fig:jumpright}. The main difference is that after moving right or left, additional squat is required in order to avoid the obstacle and collect the coins. The obstacle was placed above the the coins, and in case the player hit one of the obstacle, the overall score was reduced by one.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.9\textwidth]{SquatLeft}
@@ -204,17 +219,17 @@ Figure \ref{fig:squatleft} and \ref{fig:squatright} show game segments in which 
     \caption{Move right and squat segment.}
     \label{fig:squatright}
 \end{figure}\\
-In Figures \ref{fig:jumpup} and \ref{fig:jumpssmallrock}, the player was required to perform a jump in order to avoid the obstacle and collect the coins. The obstacle depicted in \ref{fig:jumpup} was the lowest in the middle and in case it was hit, the player's total score was reduced by one point. The player was presented with a choice of collecting additional blue coins with the jump. The blue coins were positioned in a way that required higher jump and placing both hand in the upper position in order to be collected.\\
+In Figures \ref{fig:jumpup} and Figure \ref{fig:jumpssmallrock}, the player was required to perform a jump in order to avoid the obstacle and collect the coins. The obstacle depicted in Figure \ref{fig:jumpup} was the lowest in the middle and in case it was hit, the player's total score was reduced by one point. The player was presented with a choice of collecting additional blue coins with the jump. The blue coins were positioned in a way that required higher jump and placing both hand in the upper position in order to be collected.\\
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.9\textwidth]{JumpUp}
+    \includegraphics[width=0.85\textwidth]{JumpUp}
     \caption{Jump up segment.}
     \label{fig:jumpup}
 \end{figure}\\
 Compared to the movement required in the previous segment, the one needed to be executed in Figure \ref{fig:jumpssmallrock} did not require additional hand movement.\\
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.9\textwidth]{JumpSmallRock}
+    \includegraphics[width=0.85\textwidth]{JumpSmallRock}
     \caption{Jump up segment.}
     \label{fig:jumpssmallrock}
 \end{figure}\\
@@ -231,7 +246,7 @@ Figure \ref{fig:star} depicts a game segment where the player was required to pe
     \caption{Star jump movement.}
     \label{fig:expertstarjump}
 \end{figure}\\\\\\\\
-Figures \ref{fig:squat} and \ref{fig:squatlong} depict game segments in which the player was required to perform a squat in order to collect coins and avoid the obstacle. In case the user hit the obstacle placed above the coins, the overall score was reduced by one point.\\
+Figures \ref{fig:squat} and Figure \ref{fig:squatlong} depict game segments in which the player was required to perform a squat in order to collect coins and avoid the obstacle. In case the user hit the obstacle placed above the coins, the overall score was reduced by one point.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.85\textwidth]{Squat}
@@ -266,13 +281,12 @@ Figure \ref{fig:filler} depicts the rest of the filler segments that are placed 
 \end{figure}\\
 To conclude, by placing the obstacle and coins in a specific position, our intention was to indirectly promote exercise through the gameplay of repeatedly performing warm up related movements chosen during previous development phases and discussions with fitness experts. We ought to design game segments that are engaging for the player so we immerse the exergame players sufficiently so that their focus is shifted from the discomfort and exertion of the exercise towards the enjoyment of the experience.\pagebreak
 \section{Game End Overview}
-The player ends the game when she feels warmed up enough for the subsequent physical activity. When the game ends, the player is displayed the \textit{Individual score board} that is showed in Figure \ref{fig:individualend}.\\
+We implemented two approaches for ending the game. First one allowed the player to choose from a set of recommended warm up duration at the beginning of the gameplay. That is, the exergame ended after the selected time interval. The second was to end the exergame when the player felt warmed up enough for the subsequent physical activity. For the purpose of the user study, we utilized the second approach. This gave us information about the most common duration of the warm up sessions and later allowed us to compare it with the reported ones from self reported surveys. \\When the game ended, the \textit{Individual scoreboard} was presented to the player. The scoreboard is depicted in Figure \ref{fig:individualend}.\\
 \begin{figure}[h]
     \centering
     \includegraphics[width=\textwidth]{IndividualEndScene}
     \caption{Individual end scene.}
     \label{fig:individualend}
 \end{figure}\\
-Based on the player's username we display all the previous scores. The scores are displayed in descending order by the points achieved during each game run. The player is also presented with the duration each game lasted and the personal best score. By selecting the \textit{Back to main menu} button, the player can go back to the Home screen. 
-
+Based on the player's username we displayed all the previous scores. The scores were displayed in descending order by the points achieved during each game run. The player was also presented with the duration each game lasted and the personal best score. By selecting the \textit{Back to main menu} button, the player could go back to the Home screen. 
 \label{endgamelabel}
