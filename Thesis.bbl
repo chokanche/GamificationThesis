@@ -1,65 +1,9 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{mayr2015prevention}
 H.~O. Mayr, S.~Zaffagnini, {\em et~al.}, {\em Prevention of Injuries and
   Overuse in Sports}.
 \newblock Springer, 2015.
-
-\bibitem{iosPopulatity}
-``Fitness app popularity.''
-  \url{https://www.spaceotechnologies.com/fitness-apps-gaining-popularity-hire-iphone-app-developer-now/}.
-\newblock Accessed: 2017-12-20.
-
-\bibitem{hamari2014does}
-J.~Hamari, J.~Koivisto, and H.~Sarsa, ``Does gamification work?--a literature
-  review of empirical studies on gamification,'' in {\em System Sciences
-  (HICSS), 2014 47th Hawaii International Conference on}, pp.~3025--3034, IEEE,
-  2014.
-
-\bibitem{deterding2011game}
-S.~Deterding, D.~Dixon, R.~Khaled, and L.~Nacke, ``From game design elements to
-  gamefulness: defining gamification,'' in {\em Proceedings of the 15th
-  international academic MindTrek conference: Envisioning future media
-  environments}, pp.~9--15, ACM, 2011.
-
-\bibitem{deci1994promoting}
-E.~L. Deci and R.~M. Ryan, ``Promoting self-determined education,'' {\em
-  Scandinavian journal of educational research}, vol.~38, no.~1, pp.~3--14,
-  1994.
-
-\bibitem{ryan2000intrinsic}
-R.~M. Ryan and E.~L. Deci, ``Intrinsic and extrinsic motivations: Classic
-  definitions and new directions,'' {\em Contemporary educational psychology},
-  vol.~25, no.~1, pp.~54--67, 2000.
-
-\bibitem{csikszentmihalyi1996flow}
-M.~Csikszentmihalyi, ``Flow and the psychology of discovery and invention,''
-  {\em New Yprk: Harper Collins}, 1996.
-
-\bibitem{nakamura2014concept}
-J.~Nakamura and M.~Csikszentmihalyi, ``The concept of flow,'' in {\em Flow and
-  the foundations of positive psychology}, pp.~239--263, Springer, 2014.
-
-\bibitem{dfs2}
-``Intrinsic and extrinsic motivation in gamification.''
-  \url{http://gamification-research.org/2014/08/flow/}.
-\newblock Accessed: 2017-02-20.
-
-\bibitem{bartle}
-``Bartle's taxonomy of player types.''
-  \url{https://gamedevelopment.tutsplus.com/articles/bartles-taxonomy-of-player-types-and-why-it-doesnt-apply-to-everything--gamedev-4173}.
-\newblock Accessed: 2017-03-10.
-
-\bibitem{tondello2016gamification}
-G.~F. Tondello, R.~R. Wehbe, L.~Diamond, M.~Busch, A.~Marczewski, and L.~E.
-  Nacke, ``The gamification user types hexad scale,'' in {\em Proceedings of
-  the 2016 Annual Symposium on Computer-Human Interaction in Play},
-  pp.~229--243, ACM, 2016.
-
-\bibitem{werbach2012win}
-K.~Werbach and D.~Hunter, {\em For the win: How game thinking can revolutionize
-  your business}.
-\newblock Wharton Digital Press, 2012.
 
 \bibitem{warburton2006health}
 D.~E. Warburton, C.~W. Nicol, and S.~S. Bredin, ``Health benefits of physical
@@ -78,6 +22,11 @@ W.~van Mechelen, ``The severity of sports injuries,'' {\em Sports medicine},
 ``Dance dance revolution.''
   \url{https://en.wikipedia.org/wiki/Dance_Dance_Revolution/}.
 \newblock Accessed: 2018-04-20.
+
+\bibitem{sun2012exergaming}
+H.~Sun, ``Exergaming impact on physical activity and interest in elementary
+  school children,'' {\em Research quarterly for exercise and sport}, vol.~83,
+  no.~2, pp.~212--220, 2012.
 
 \bibitem{edouard2015sex}
 P.~Edouard, N.~Feddermann-Demont, J.~M. Alonso, P.~Branco, and A.~Junge, ``Sex
@@ -212,6 +161,11 @@ A.~J. Fradkin, T.~R. Zazryn, and J.~M. Smoliga, ``Effects of warming-up on
   \url{http://yukaichou.com/marketing-gamification/marketing-gamification-toyota-turns-charging-iphone-epic-game/}.
 \newblock Accessed: 2017-01-27.
 
+\bibitem{iosPopulatity}
+``Fitness app popularity.''
+  \url{https://www.spaceotechnologies.com/fitness-apps-gaining-popularity-hire-iphone-app-developer-now/}.
+\newblock Accessed: 2017-12-20.
+
 \bibitem{mill}
 ``Millenials.'' \url{https://en.wikipedia.org/wiki/Millennials}.
 \newblock Accessed: 2017-12-27.
@@ -234,6 +188,17 @@ A.~J. Fradkin, T.~R. Zazryn, and J.~M. Smoliga, ``Effects of warming-up on
 ``Codeacademy- gamafication.'' \url{https://badgeville.com/}.
 \newblock Accessed: 2017-01-20.
 
+\bibitem{hamari2014does}
+J.~Hamari, J.~Koivisto, and H.~Sarsa, ``Does gamification work?--a literature
+  review of empirical studies on gamification,'' in {\em System Sciences
+  (HICSS), 2014 47th Hawaii International Conference on}, pp.~3025--3034, IEEE,
+  2014.
+
+\bibitem{werbach2012win}
+K.~Werbach and D.~Hunter, {\em For the win: How game thinking can revolutionize
+  your business}.
+\newblock Wharton Digital Press, 2012.
+
 \bibitem{marczewski2013gamification}
 A.~Marczewski, {\em Gamification: a simple introduction}.
 \newblock Andrzej Marczewski, 2013.
@@ -241,6 +206,12 @@ A.~Marczewski, {\em Gamification: a simple introduction}.
 \bibitem{toGamify}
 ``Gamify - a definition.'' \url{https://badgeville.com/wiki/Gamify/}.
 \newblock Accessed: 2017-01-20.
+
+\bibitem{deterding2011game}
+S.~Deterding, D.~Dixon, R.~Khaled, and L.~Nacke, ``From game design elements to
+  gamefulness: defining gamification,'' in {\em Proceedings of the 15th
+  international academic MindTrek conference: Envisioning future media
+  environments}, pp.~9--15, ACM, 2011.
 
 \bibitem{kapp2012gamification}
 K.~M. Kapp, {\em The gamification of learning and instruction: game-based
@@ -320,6 +291,16 @@ G.~Zichermann and C.~Cunningham, {\em Gamification by design: Implementing game
   mechanics in web and mobile apps}.
 \newblock " O'Reilly Media, Inc.", 2011.
 
+\bibitem{deci1994promoting}
+E.~L. Deci and R.~M. Ryan, ``Promoting self-determined education,'' {\em
+  Scandinavian journal of educational research}, vol.~38, no.~1, pp.~3--14,
+  1994.
+
+\bibitem{ryan2000intrinsic}
+R.~M. Ryan and E.~L. Deci, ``Intrinsic and extrinsic motivations: Classic
+  definitions and new directions,'' {\em Contemporary educational psychology},
+  vol.~25, no.~1, pp.~54--67, 2000.
+
 \bibitem{ryan2000self}
 R.~M. Ryan and E.~L. Deci, ``Self-determination theory and the facilitation of
   intrinsic motivation, social development, and well-being.,'' {\em American
@@ -329,6 +310,10 @@ R.~M. Ryan and E.~L. Deci, ``Self-determination theory and the facilitation of
 E.~L. Deci and R.~M. Ryan, ``The" what" and" why" of goal pursuits: Human needs
   and the self-determination of behavior,'' {\em Psychological inquiry},
   vol.~11, no.~4, pp.~227--268, 2000.
+
+\bibitem{csikszentmihalyi1996flow}
+M.~Csikszentmihalyi, ``Flow and the psychology of discovery and invention,''
+  {\em New Yprk: Harper Collins}, 1996.
 
 \bibitem{gamificationPurpose}
 ``The purpose of gamification.'' \url{
@@ -377,6 +362,10 @@ J.~Kowal and M.~S. Fortier, ``Motivational determinants of flow: Contributions
   from self-determination theory,'' {\em The Journal of Social Psychology},
   vol.~139, no.~3, pp.~355--368, 1999.
 
+\bibitem{nakamura2014concept}
+J.~Nakamura and M.~Csikszentmihalyi, ``The concept of flow,'' in {\em Flow and
+  the foundations of positive psychology}, pp.~239--263, Springer, 2014.
+
 \bibitem{kiili2006evaluations}
 K.~Kiili, ``Evaluations of an experiential gaming model,'' {\em Human
   Technology: An Interdisciplinary Journal on Humans in ICT Environments},
@@ -396,6 +385,11 @@ S.~A. Jackson and R.~C. Eklund, ``Assessing flow in physical activity: The flow
   state scale--2 and dispositional flow scale--2,'' {\em Journal of Sport and
   Exercise Psychology}, vol.~24, no.~2, pp.~133--150, 2002.
 
+\bibitem{dfs2}
+``Intrinsic and extrinsic motivation in gamification.''
+  \url{http://gamification-research.org/2014/08/flow/}.
+\newblock Accessed: 2017-02-20.
+
 \bibitem{yee2006motivations}
 N.~Yee, ``Motivations for play in online games,'' {\em CyberPsychology \&
   behavior}, vol.~9, no.~6, pp.~772--775, 2006.
@@ -408,6 +402,17 @@ N.~Yee, ``Motivations for play in online games,'' {\em CyberPsychology \&
 R.~Bartle, ``Hearts, clubs, diamonds, spades: Players who suit muds,'' {\em
   Journal of MUD research}, vol.~1, no.~1, p.~19, 1996.
 
+\bibitem{bartle}
+``Bartle's taxonomy of player types.''
+  \url{https://gamedevelopment.tutsplus.com/articles/bartles-taxonomy-of-player-types-and-why-it-doesnt-apply-to-everything--gamedev-4173}.
+\newblock Accessed: 2017-03-10.
+
+\bibitem{tondello2016gamification}
+G.~F. Tondello, R.~R. Wehbe, L.~Diamond, M.~Busch, A.~Marczewski, and L.~E.
+  Nacke, ``The gamification user types hexad scale,'' in {\em Proceedings of
+  the 2016 Annual Symposium on Computer-Human Interaction in Play},
+  pp.~229--243, ACM, 2016.
+
 \bibitem{50GamElements}
 ``50 gamification mechanics and elements.''
   \url{https://www.gamified.uk/user-types/gamification-mechanics-elements/}.
@@ -419,7 +424,7 @@ R.~Hunicke, M.~LeBlanc, and R.~Zubek, ``Mda: A formal approach to game design
   in Game AI}, vol.~4, 2004.
 
 \bibitem{WerbachCoursera}
-``Gamification course by prof. Kevin Werbach, www.coursera.org.''
+``Gamification course by prof. kevin werbach, coursera.org.''
   \url{https://www.coursera.org/learn/gamification/lecture/JPQNK/4-2-the-pyramid-of-elements
   }.
 \newblock Accessed: 2017-02-20.
@@ -472,5 +477,75 @@ A.~D. Kay and A.~J. Blazevich, ``Effect of acute static stretch on maximal
 S.~Sch{\"o}bel, M.~S{\"o}llner, and J.~M. Leimeister, ``The agony of
   choice--analyzing user preferences regarding gamification elements in
   learning management systems,'' 2016.
+
+\bibitem{thomas1992revision}
+S.~Thomas, J.~Reading, and R.~J. Shephard, ``Revision of the physical activity
+  readiness questionnaire (par-q).,'' {\em Canadian journal of sport sciences},
+  1992.
+
+\bibitem{fuchs2015messung}
+R.~Fuchs, S.~Klaperski, M.~Gerber, and H.~Seelig, ``Messung der bewegungs-und
+  sportaktivit{\"a}t mit dem bsa-fragebogen: eine methodische zwischenbilanz,''
+  {\em Zeitschrift f{\"u}r Gesundheitspsychologie}, vol.~23, no.~2, pp.~60--76,
+  2015.
+
+\bibitem{borg1998borg}
+G.~Borg, {\em Borg's perceived exertion and pain scales.}
+\newblock Human kinetics, 1998.
+
+\bibitem{bradley1994measuring}
+M.~M. Bradley and P.~J. Lang, ``Measuring emotion: the self-assessment manikin
+  and the semantic differential,'' {\em Journal of behavior therapy and
+  experimental psychiatry}, vol.~25, no.~1, pp.~49--59, 1994.
+
+\bibitem{kendzierski1991physical}
+D.~Kendzierski and K.~J. DeCarlo, ``Physical activity enjoyment scale: Two
+  validation studies,'' {\em Journal of Sport and Exercise Psychology},
+  vol.~13, no.~1, pp.~50--64, 1991.
+
+\bibitem{pavlas2012play}
+D.~Pavlas, F.~Jentsch, E.~Salas, S.~M. Fiore, and V.~Sims, ``The play
+  experience scale: development and validation of a measure of play,'' {\em
+  Human factors}, vol.~54, no.~2, pp.~214--225, 2012.
+
+\bibitem{tanaka2001age}
+H.~Tanaka, K.~D. Monahan, and D.~R. Seals, ``Age-predicted maximal heart rate
+  revisited,'' {\em Journal of the American College of Cardiology}, vol.~37,
+  no.~1, pp.~153--156, 2001.
+
+\bibitem{heartRate}
+``Maximum heart rate.''
+  \url{https://en.wikipedia.org/wiki/Heart_rate#Maximum_heart_rate/}.
+\newblock Accessed: 2018-04-20.
+
+\bibitem{poels2012pleasure}
+K.~Poels, W.~v.~d. Hoogen, W.~Ijsselsteijn, and Y.~de~Kort, ``Pleasure to play,
+  arousal to stay: The effect of player emotions on digital game preferences
+  and playing time,'' {\em Cyberpsychology, behavior, and social networking},
+  vol.~15, no.~1, pp.~1--6, 2012.
+
+\bibitem{brooke2013sus}
+J.~Brooke, ``Sus: a retrospective,'' {\em Journal of usability studies},
+  vol.~8, no.~2, pp.~29--40, 2013.
+
+\bibitem{song2010effects}
+H.~Song, J.~Kim, K.~E. Tenzek, and K.~M. Lee, ``The effects of competition on
+  intrinsic motivation in exergames and the conditional indirect effects of
+  presence,'' in {\em annual conference of the International Communication
+  Association, Singapore}, 2010.
+
+\bibitem{jansen2013serious}
+S.~M. Jansen-Kosterink, R.~M. Huis~in’t Veld, C.~Sch{\"o}nauer, H.~Kaufmann,
+  H.~J. Hermens, and M.~M. Vollenbroek-Hutten, ``A serious exergame for
+  patients suffering from chronic musculoskeletal back and neck pain: a pilot
+  study,'' {\em GAMES FOR HEALTH: Research, Development, and Clinical
+  Applications}, vol.~2, no.~5, pp.~299--307, 2013.
+
+\bibitem{skjaeret2016exercise}
+N.~Skj{\ae}ret, A.~Nawaz, T.~Morat, D.~Schoene, J.~L. Helbostad, and
+  B.~Vereijken, ``Exercise and rehabilitation delivered through exergames in
+  older adults: An integrative review of technologies, safety and efficacy,''
+  {\em International journal of medical informatics}, vol.~85, no.~1,
+  pp.~1--16, 2016.
 
 \end{thebibliography}
