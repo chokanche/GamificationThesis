@@ -3,101 +3,33 @@
 \contentsline {chapter}{Acknowledgements}{v}{dummy.3}
 
 \contentsline {chapter}{Contents}{vii}{chapter*.4}
-\contentsline {chapter}{List of Figures}{xi}{chapter*.5}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}
-\contentsline {chapter}{\numberline {2}Literature review}{3}{chapter.7}
-\contentsline {section}{\numberline {2.1}Warm Up in Sports}{4}{section.9}
-\contentsline {subsection}{\numberline {2.1.1}The Importance of Physical Activity}{4}{subsection.10}
-\contentsline {subsection}{\numberline {2.1.2}Overview of Sports Injury}{4}{subsection.11}
-\contentsline {subsection}{\numberline {2.1.3}Defining Warm Up}{6}{subsection.13}
-\contentsline {subsection}{\numberline {2.1.4}The Benefits of Warm Up}{6}{subsection.14}
-\contentsline {subsection}{\numberline {2.1.5}Types of Warm Up}{7}{subsection.15}
-\contentsline {section}{\numberline {2.2}Gamification and Exergames}{9}{section.16}
-\contentsline {subsection}{\numberline {2.2.1}Video Games and Exercise}{9}{subsection.17}
-\contentsline {subsection}{\numberline {2.2.2}A Primer on Gamification}{9}{subsection.19}
-\contentsline {paragraph}{Defining Gamification}{11}{figure.caption.25}
-\contentsline {subsection}{\numberline {2.2.3}A Primer on Exergames}{13}{subsection.28}
-\contentsline {paragraph}{Defining Exergames}{15}{figure.caption.30}
-\contentsline {section}{\numberline {2.3}Theories of Motivation}{16}{section.31}
-\contentsline {subsection}{\numberline {2.3.1}The Rules of Motivation}{16}{subsection.32}
-\contentsline {subsection}{\numberline {2.3.2}Self Determination Theory}{17}{subsection.33}
-\contentsline {subsection}{\numberline {2.3.3}State of Flow}{21}{subsection.36}
-\contentsline {subsubsection}{\numberline {2.3.3.1}Flow, Gamification, and Exergames}{24}{subsubsection.39}
-\contentsline {chapter}{\numberline {3}Gamification Elements}{27}{chapter.41}
-\contentsline {section}{\numberline {3.1}Bartle's Four Player Types}{27}{section.42}
-\contentsline {section}{\numberline {3.2}Marczewski's User Types Hexad}{29}{section.44}
-\contentsline {subsection}{\numberline {3.2.1}Game design elements}{30}{subsection.46}
-\contentsline {paragraph}{Dynamics}{32}{figure.caption.48}
-\contentsline {paragraph}{Mechanics}{33}{section*.49}
-\contentsline {paragraph}{Components}{34}{section*.49}
-\contentsline {chapter}{\numberline {4}The Design and Development of the Immotion Exergame}{37}{chapter.50}
-\contentsline {section}{\numberline {4.1}Overview of User Centered Design}{37}{section.51}
-\contentsline {section}{\numberline {4.2}The Context of Use}{38}{section.52}
-\contentsline {section}{\numberline {4.3}Overview of the Development Phases}{39}{section.53}
-\contentsline {section}{\numberline {4.4}Requirements Gathering}{40}{section.55}
-\contentsline {chapter}{\numberline {5}Overview and Evaluation of the Prototype Exergame}{41}{chapter.56}
-\contentsline {section}{\numberline {5.1}Prototype Design and Development}{41}{section.57}
-\contentsline {subsection}{\numberline {5.1.1}Game Description}{41}{subsection.58}
-\contentsline {subsection}{\numberline {5.1.2}Gamification Elements used in the Prototype}{42}{subsection.60}
-\contentsline {paragraph}{Feedback}{43}{section*.61}
-\contentsline {subsection}{\numberline {5.1.3}Gamification Components used in the Prototype}{43}{subsection.62}
-\contentsline {paragraph}{Points}{43}{section*.63}
-\contentsline {paragraph}{Avatar}{44}{figure.caption.64}
-\contentsline {paragraph}{Visual Feedback}{45}{figure.caption.65}
-\contentsline {paragraph}{Audio Feedback}{45}{figure.caption.65}
-\contentsline {subsection}{\numberline {5.1.4}Game Scenes}{45}{subsection.66}
-\contentsline {section}{\numberline {5.2}Prototype Evaluation}{46}{section.68}
-\contentsline {section}{\numberline {5.3}Quantitative Methods}{46}{section.71}
-\contentsline {subsection}{\numberline {5.3.1}General Questions}{47}{subsection.72}
-\contentsline {subsection}{\numberline {5.3.2}Questions Related to Work Out and Warm Up Preferences}{47}{subsection.73}
-\contentsline {subsection}{\numberline {5.3.3}Questions Related to Warm Up Routines}{49}{subsection.76}
-\contentsline {subsection}{\numberline {5.3.4}Reasons for Not Warming Up}{56}{subsection.83}
-\contentsline {subsection}{\numberline {5.3.5}Questions Related to the Immotion Exergame}{60}{subsection.87}
-\contentsline {subsection}{\numberline {5.3.6}Pilot Test}{76}{subsection.98}
-\contentsline {subsection}{\numberline {5.3.7}Preliminary Design Implications}{76}{subsection.99}
-\contentsline {paragraph}{Game design related improvements}{76}{section*.100}
-\contentsline {paragraph}{Game features related improvements}{78}{Item.107}
-\contentsline {paragraph}{Movements and exercise related improvements}{79}{Item.109}
-\contentsline {chapter}{\numberline {6}Overview and Evaluation of the Exergame}{81}{chapter.113}
-\contentsline {section}{\numberline {6.1}A Modular Design Approach}{81}{section.114}
-\contentsline {section}{\numberline {6.2}Discussions With Fitness Experts}{82}{section.115}
-\contentsline {section}{\numberline {6.3}Coins Overview}{83}{section.117}
-\contentsline {section}{\numberline {6.4}Home Window Overview}{84}{section.119}
-\contentsline {paragraph}{Start Menu}{85}{figure.caption.120}
-\contentsline {paragraph}{Help Menu}{85}{figure.caption.121}
-\contentsline {paragraph}{Volume Menu}{86}{figure.caption.122}
-\contentsline {paragraph}{High Score Menu}{87}{figure.caption.123}
-\contentsline {paragraph}{Quit Menu}{87}{figure.caption.124}
-\contentsline {section}{\numberline {6.5}Game Start Overview}{87}{section.125}
-\contentsline {section}{\numberline {6.6}Game Segments Overview}{89}{section.129}
-\contentsline {section}{\numberline {6.7}Game End Overview}{104}{section.156}
-\contentsline {chapter}{\numberline {7}Study Design}{105}{chapter.158}
-\contentsline {section}{\numberline {7.1}Description of the Experiment}{105}{section.161}
-\contentsline {subsection}{\numberline {7.1.1}Introduction and Goals}{105}{subsection.162}
-\contentsline {subsubsection}{\numberline {7.1.1.1}Hypotheses}{106}{subsubsection.167}
-\contentsline {subsubsection}{\numberline {7.1.1.2}Apparatus}{107}{subsubsection.168}
-\contentsline {subsection}{\numberline {7.1.2}Methods}{108}{subsection.170}
-\contentsline {subsubsection}{\numberline {7.1.2.1}Participants}{108}{subsubsection.171}
-\contentsline {subsubsection}{\numberline {7.1.2.2}Conditions}{108}{subsubsection.172}
-\contentsline {subsubsection}{\numberline {7.1.2.3}Control and Experiment Group}{109}{subsubsection.175}
-\contentsline {subsubsection}{\numberline {7.1.2.4}Measures and Metrics}{109}{subsubsection.176}
-\contentsline {subsubsection}{\numberline {7.1.2.5}Tasks}{111}{subsubsection.177}
-\contentsline {subsubsection}{\numberline {7.1.2.6}Procedure}{111}{subsubsection.178}
-\contentsline {subsection}{\numberline {7.1.3}Limitations - Threats to Validity}{113}{subsection.179}
-\contentsline {section}{\numberline {7.2}Results}{113}{section.180}
-\contentsline {subsection}{\numberline {7.2.1}Range of Motion}{115}{subsection.182}
-\contentsline {subsection}{\numberline {7.2.2}Warm Up Duration}{116}{subsection.185}
-\contentsline {subsection}{\numberline {7.2.3}Heart Rate}{117}{subsection.187}
-\contentsline {subsection}{\numberline {7.2.4}Physical Activity Enjoyment Scale}{120}{subsection.198}
-\contentsline {subsection}{\numberline {7.2.5}BORG Rating of Perceived Exertion}{122}{subsection.201}
-\contentsline {subsection}{\numberline {7.2.6}Self-Assessment Manikin}{123}{subsection.203}
-\contentsline {subsection}{\numberline {7.2.7}System Usability Scale}{125}{subsection.206}
-\contentsline {subsection}{\numberline {7.2.8}Play Experience Scale}{126}{subsection.209}
-\contentsline {subsection}{\numberline {7.2.9}Bartle's Player Types}{129}{subsection.213}
-\contentsline {subsection}{\numberline {7.2.10}Post study questionnaire}{130}{subsection.215}
-\contentsline {subsubsection}{\numberline {7.2.10.1}Post study questionnaire for the experiment condition}{130}{subsubsection.216}
-\contentsline {subsubsection}{\numberline {7.2.10.2}Post study questionnaire for the control condition}{132}{subsubsection.218}
-\contentsline {section}{\numberline {7.3}Discussion}{134}{section.221}
-\contentsline {chapter}{\numberline {8}Conclusion}{137}{chapter.222}
-\contentsline {section}{\numberline {8.1}Future Work}{139}{section.223}
-\contentsline {chapter}{Bibliography}{141}{chapter*.224}
+\contentsline {chapter}{List of Figures}{ix}{chapter*.5}
+\contentsline {chapter}{\numberline {1}The Design and Development of the Immotion Exergame}{1}{chapter.6}
+\contentsline {section}{\numberline {1.1}Overview of User Centered Design}{1}{section.7}
+\contentsline {section}{\numberline {1.2}The Context of Use}{2}{section.8}
+\contentsline {section}{\numberline {1.3}Overview of the Development Phases}{3}{section.9}
+\contentsline {section}{\numberline {1.4}Requirements Gathering}{4}{section.11}
+\contentsline {chapter}{\numberline {2}Overview and Evaluation of the Prototype Exergame}{5}{chapter.12}
+\contentsline {section}{\numberline {2.1}Prototype Design and Development}{5}{section.13}
+\contentsline {subsection}{\numberline {2.1.1}Game Description}{5}{subsection.14}
+\contentsline {subsection}{\numberline {2.1.2}Gamification Elements used in the Prototype}{6}{subsection.16}
+\contentsline {paragraph}{Feedback}{7}{section*.17}
+\contentsline {subsection}{\numberline {2.1.3}Gamification Components used in the Prototype}{7}{subsection.18}
+\contentsline {paragraph}{Points}{7}{section*.19}
+\contentsline {paragraph}{Avatar}{8}{figure.caption.20}
+\contentsline {paragraph}{Visual Feedback}{9}{figure.caption.21}
+\contentsline {paragraph}{Audio Feedback}{9}{figure.caption.21}
+\contentsline {subsection}{\numberline {2.1.4}Game Scenes}{9}{subsection.22}
+\contentsline {section}{\numberline {2.2}Prototype Evaluation}{10}{section.24}
+\contentsline {section}{\numberline {2.3}Quantitative Methods}{10}{section.27}
+\contentsline {subsection}{\numberline {2.3.1}General Questions}{11}{subsection.28}
+\contentsline {subsection}{\numberline {2.3.2}Questions Related to Work Out and Warm Up Preferences}{11}{subsection.29}
+\contentsline {subsection}{\numberline {2.3.3}Questions Related to Warm Up Routines}{13}{subsection.32}
+\contentsline {subsection}{\numberline {2.3.4}Reasons for Not Warming Up}{20}{subsection.39}
+\contentsline {subsection}{\numberline {2.3.5}Questions Related to the Immotion Exergame}{24}{subsection.43}
+\contentsline {subsection}{\numberline {2.3.6}Pilot Test}{40}{subsection.54}
+\contentsline {subsection}{\numberline {2.3.7}Preliminary Design Implications}{40}{subsection.55}
+\contentsline {paragraph}{Game design related improvements}{40}{section*.56}
+\contentsline {paragraph}{Game features related improvements}{42}{Item.63}
+\contentsline {paragraph}{Movements and exercise related improvements}{43}{Item.65}
+\contentsline {chapter}{Bibliography}{45}{chapter*.69}
