@@ -3,32 +3,7 @@
 \contentsline {chapter}{Acknowledgements}{iii}{dummy.3}
 
 \contentsline {chapter}{Contents}{iv}{chapter*.4}
-\contentsline {chapter}{List of Figures}{vi}{chapter*.5}
-\contentsline {chapter}{\numberline {1}Study Design}{1}{chapter.6}
-\contentsline {section}{\numberline {1.1}Description of the Experiment}{1}{section.9}
-\contentsline {subsection}{\numberline {1.1.1}Introduction and Goals}{1}{subsection.10}
-\contentsline {subsubsection}{\numberline {1.1.1.1}Hypotheses}{2}{subsubsection.15}
-\contentsline {subsubsection}{\numberline {1.1.1.2}Apparatus}{3}{subsubsection.16}
-\contentsline {subsection}{\numberline {1.1.2}Methods}{4}{subsection.18}
-\contentsline {subsubsection}{\numberline {1.1.2.1}Participants}{4}{subsubsection.19}
-\contentsline {subsubsection}{\numberline {1.1.2.2}Conditions}{4}{subsubsection.20}
-\contentsline {subsubsection}{\numberline {1.1.2.3}Control and Experiment Group}{5}{subsubsection.23}
-\contentsline {subsubsection}{\numberline {1.1.2.4}Measures and Metrics}{5}{subsubsection.24}
-\contentsline {subsubsection}{\numberline {1.1.2.5}Tasks}{7}{subsubsection.25}
-\contentsline {subsubsection}{\numberline {1.1.2.6}Procedure}{7}{subsubsection.26}
-\contentsline {subsection}{\numberline {1.1.3}Limitations - Threats to Validity}{9}{subsection.27}
-\contentsline {section}{\numberline {1.2}Results}{9}{section.28}
-\contentsline {subsection}{\numberline {1.2.1}Range of Motion}{11}{subsection.30}
-\contentsline {subsection}{\numberline {1.2.2}Warm Up Duration}{12}{subsection.33}
-\contentsline {subsection}{\numberline {1.2.3}Heart Rate}{13}{subsection.35}
-\contentsline {subsection}{\numberline {1.2.4}Physical Activity Enjoyment Scale}{17}{subsection.47}
-\contentsline {subsection}{\numberline {1.2.5}BORG Rating of Perceived Exertion}{19}{subsection.50}
-\contentsline {subsection}{\numberline {1.2.6}Self-Assessment Manikin}{20}{subsection.52}
-\contentsline {subsection}{\numberline {1.2.7}System Usability Scale}{22}{subsection.55}
-\contentsline {subsection}{\numberline {1.2.8}Play Experience Scale}{23}{subsection.58}
-\contentsline {subsection}{\numberline {1.2.9}Bartle's Player Types}{26}{subsection.62}
-\contentsline {subsection}{\numberline {1.2.10}Post study questionnaire}{27}{subsection.64}
-\contentsline {subsubsection}{\numberline {1.2.10.1}Post study questionnaire for the experiment condition}{27}{subsubsection.65}
-\contentsline {subsubsection}{\numberline {1.2.10.2}Post study questionnaire for the control condition}{30}{subsubsection.67}
-\contentsline {section}{\numberline {1.3}Discussion}{31}{section.70}
-\contentsline {chapter}{Bibliography}{34}{chapter*.71}
+\contentsline {chapter}{List of Figures}{v}{chapter*.5}
+\contentsline {chapter}{Bibliography}{1}{chapter*.6}
+\vspace {2em}
+\contentsline {chapter}{Appendices}{8}{section*.7}

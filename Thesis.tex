@@ -24,6 +24,7 @@
 \usepackage[acronym, toc]{glossaries}
 \usepackage{pdfpages}
 \usepackage{datetime}
+\usepackage{pdfpages}
 
 \newdate{date1}{28}{03}{2018}
 \newdate{date2}{29}{03}{2018}
@@ -74,7 +75,7 @@
 % *************** Front matter ***************
 \frontmatter
 
-\title  {ImMotion\\ Exergame for Warm Up Guidance}
+\title  {ImMotion\\ An Exergame for Warm Up Guidance}
 
 \authors  {\texorpdfstring
             {{Marko Vuji\'c}}
@@ -182,8 +183,9 @@ Marko Vuji\'c
 %\input{chapters/implementation}
 %\input{chapters/survey}
 %\input{chapters/finalImplementation}
-\input{chapters/studydesign}
+%\input{chapters/studydesign}
 %\input{chapters/conclusion}
+%\input{chapters/appendix}
 %\input{appendices/injury_causes}
 
 
@@ -194,11 +196,20 @@ Marko Vuji\'c
 
 % *************** Appendixes ***************
 \addtocontents{toc}{\vspace{2em}}
-\appendix
-
-%\appendixpage*
-
-
+%\appendix
+\appendixpage
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/ReviewBoard_Response.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/studyPoster_ver2.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/studyPoster.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf}
+\includepdf[pages=1, offset=75 -75]{AdditionalDocument/parQandSafety.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/BSA-F.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/PACES.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/SUS.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/Post-study-Exp.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/Post-study-Control.pdf}
+Post-study-Exp
 % *************** Back matter ***************
 %\backmatter
 %\input{back.tex}
