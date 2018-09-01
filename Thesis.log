@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.16)  25 AUG 2018 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.16)  29 AUG 2018 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1529,7 +1529,14 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 ))
-(./Thesis.aux)
+(./Thesis.aux
+
+LaTeX Warning: Label `fig:expertLeftDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:squatlong' multiply defined.
+
+)
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -1553,8 +1560,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/ltcaption.sty
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
@@ -1739,13 +1745,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 ------------------------------------------------------------------------------
  Title Page
 ------------------------------------------------------------------------------
-<./Template_Figures/saarland_logo.png, id=31, 125.46875pt x 123.46124pt>
+<./Template_Figures/saarland_logo.png, id=431, 125.46875pt x 123.46124pt>
 File: ./Template_Figures/saarland_logo.png Graphic file (type png)
 <use ./Template_Figures/saarland_logo.png>
 Package pdftex.def Info: ./Template_Figures/saarland_logo.png  used on input li
 ne 90.
 (pdftex.def)             Requested size: 62.7342pt x 61.73045pt.
-<./Template_Figures/logo_dfki.png, id=32, 123.0999pt x 45.5301pt>
+<./Template_Figures/logo_dfki.png, id=432, 123.0999pt x 45.5301pt>
 File: ./Template_Figures/logo_dfki.png Graphic file (type png)
 <use ./Template_Figures/logo_dfki.png>
 Package pdftex.def Info: ./Template_Figures/logo_dfki.png  used on input line 9
@@ -1776,24 +1782,1043 @@ ate_Figures/saarland_logo.png> <./Template_Figures/logo_dfki.png>] [1
 ------------------------------------------------------------------------------
  Acknowledgements
 ------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+
+ []
+
 [3
 
-] (./Thesis.toc)
+] (./Thesis.toc [4
+
+
+] [5] [6])
 \tf@toc=\write9
 \openout9 = `Thesis.toc'.
 
- [4
+ [7] (./Thesis.lof [8
 
-
-] (./Thesis.lof)
+] [9] [10])
 \tf@lof=\write10
 \openout10 = `Thesis.lof'.
 
- [5
+ [11]
+(./chapters/intro.tex
+Chapter 1.
+------------------------------------------------------------------------------
+ 1 Introduction
+------------------------------------------------------------------------------
+) (./chapters/relatedwork.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
-] (./Thesis.bbl [1
+ []
+
+[1
 
 
+
+] [2]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Literature review
+------------------------------------------------------------------------------
+<figures/diagram.png, id=839, 406.51875pt x 298.86656pt>
+File: figures/diagram.png Graphic file (type png)
+<use figures/diagram.png>
+Package pdftex.def Info: figures/diagram.png  used on input line 6.
+(pdftex.def)             Requested size: 272.1676pt x 200.09818pt.
+[3
+
+ <./figures/diagram.png>]
+<figures/injuries.png, id=866, 678.28406pt x 283.81032pt>
+File: figures/injuries.png Graphic file (type png)
+<use figures/injuries.png>
+Package pdftex.def Info: figures/injuries.png  used on input line 23.
+(pdftex.def)             Requested size: 453.60808pt x 189.79681pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--29
+
+ []
+
+[4] [5 <./figures/injuries.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--65
+
+ []
+
+[6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+ [7] [8]
+<figures/normalizedFrequency.png, id=975, 829.59938pt x 471.7625pt>
+File: figures/normalizedFrequency.png Graphic file (type png)
+<use figures/normalizedFrequency.png>
+Package pdftex.def Info: figures/normalizedFrequency.png  used on input line 10
+9.
+(pdftex.def)             Requested size: 408.24449pt x 232.15184pt.
+<figures/iosApps.png, id=980, 443.40656pt x 240.9pt>
+File: figures/iosApps.png Graphic file (type png)
+<use figures/iosApps.png>
+Package pdftex.def Info: figures/iosApps.png  used on input line 116.
+(pdftex.def)             Requested size: 362.88783pt x 197.168pt.
+<figures/gameficationTrend.png, id=990, 813.53937pt x 483.8075pt>
+File: figures/gameficationTrend.png Graphic file (type png)
+<use figures/gameficationTrend.png>
+Package pdftex.def Info: figures/gameficationTrend.png  used on input line 123.
+
+(pdftex.def)             Requested size: 453.60808pt x 269.75656pt.
+
+[9] [10 <./figures/normalizedFrequency.png> <./figures/iosApps.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 128.
+
+[11 <./figures/gameficationTrend.png>]
+<figures/gamification-btw-game-and-play.png, id=1049, 485.815pt x 427.5975pt>
+File: figures/gamification-btw-game-and-play.png Graphic file (type png)
+<use figures/gamification-btw-game-and-play.png>
+Package pdftex.def Info: figures/gamification-btw-game-and-play.png  used on in
+put line 138.
+(pdftex.def)             Requested size: 340.20605pt x 299.43364pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+
+ []
+
+[12 <./figures/gamification-btw-game-and-play.png>]
+<figures/exergameTrend.png, id=1081, 886.31125pt x 507.39563pt>
+File: figures/exergameTrend.png Graphic file (type png)
+<use figures/exergameTrend.png>
+Package pdftex.def Info: figures/exergameTrend.png  used on input line 153.
+(pdftex.def)             Requested size: 408.24449pt x 233.71451pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--158
+
+ []
+
+[13] [14 <./figures/exergameTrend.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 158.
+
+[15] [16]
+<figures/ss.png, id=1167, 584.1825pt x 489.32813pt>
+File: figures/ss.png Graphic file (type png)
+<use figures/ss.png>
+Package pdftex.def Info: figures/ss.png  used on input line 190.
+(pdftex.def)             Requested size: 272.1676pt x 227.98322pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+
+ []
+
+[17] [18 <./figures/ss.png>]
+<figures/sdt.png, id=1209, 807.015pt x 368.87813pt>
+File: figures/sdt.png Graphic file (type png)
+<use figures/sdt.png>
+Package pdftex.def Info: figures/sdt.png  used on input line 208.
+(pdftex.def)             Requested size: 453.60808pt x 207.34145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--215
+
+ []
+
+[19] [20 <./figures/sdt.png>] [21] [22]
+<figures/flowZone.png, id=1265, 348.55219pt x 230.36063pt>
+File: figures/flowZone.png Graphic file (type png)
+<use figures/flowZone.png>
+Package pdftex.def Info: figures/flowZone.png  used on input line 238.
+(pdftex.def)             Requested size: 317.52426pt x 209.86398pt.
+<figures/flow-model.jpg, id=1272, 433.62pt x 340.27126pt>
+File: figures/flow-model.jpg Graphic file (type jpg)
+<use figures/flow-model.jpg>
+Package pdftex.def Info: figures/flow-model.jpg  used on input line 245.
+(pdftex.def)             Requested size: 317.52426pt x 249.17995pt.
+ [23 <./figures/flowZone.png>]
+<figures/dfs2.png, id=1290, 770.12718pt x 258.9675pt>
+File: figures/dfs2.png Graphic file (type png)
+<use figures/dfs2.png>
+Package pdftex.def Info: figures/dfs2.png  used on input line 254.
+(pdftex.def)             Requested size: 453.60808pt x 152.53264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--265
+
+ []
+
+[24 <./figures/flow-model.jpg>] [25 <./figures/dfs2.png>]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Gamification Elements
+------------------------------------------------------------------------------
+[26
+
+]
+<figures/userTypes.png, id=1332, 548.80031pt x 349.305pt>
+File: figures/userTypes.png Graphic file (type png)
+<use figures/userTypes.png>
+Package pdftex.def Info: figures/userTypes.png  used on input line 280.
+(pdftex.def)             Requested size: 408.24449pt x 259.84612pt.
+ [27 <./figures/userTypes.png>]
+<figures/playerHex.png, id=1350, 393.72093pt x 346.29375pt>
+File: figures/playerHex.png Graphic file (type png)
+<use figures/playerHex.png>
+Package pdftex.def Info: figures/playerHex.png  used on input line 290.
+(pdftex.def)             Requested size: 340.20605pt x 299.22292pt.
+ [28 <./figures/playerHex.png>]
+<figures/mdc.png, id=1400, 511.9125pt x 368.87813pt>
+File: figures/mdc.png Graphic file (type png)
+<use figures/mdc.png>
+Package pdftex.def Info: figures/mdc.png  used on input line 333.
+(pdftex.def)             Requested size: 340.20605pt x 245.1489pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--338
+
+ []
+
+[29] [30]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 338.
+
+[31 <./figures/mdc.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 348.
+
+[32] [33]) (./chapters/implementation.tex
+Underfull \hbox (badness 10000) in paragraph at lines 378--1
+
+ []
+
+[34]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 The Design and Development of the Immotion Exergame
+------------------------------------------------------------------------------
+[35
+
+] [36]
+<figures/iterations.png, id=1482, 469.15276pt x 442.65375pt>
+File: figures/iterations.png Graphic file (type png)
+<use figures/iterations.png>
+Package pdftex.def Info: figures/iterations.png  used on input line 26.
+(pdftex.def)             Requested size: 408.24449pt x 385.20695pt.
+ [37 <./figures/iterations.png>]) (./chapters/survey.tex [38]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 Overview and Evaluation of the Prototype Exergame
+------------------------------------------------------------------------------
+<figures/prototypeUsage.png, id=1499, 587.19376pt x 331.2375pt>
+File: figures/prototypeUsage.png Graphic file (type png)
+<use figures/prototypeUsage.png>
+Package pdftex.def Info: figures/prototypeUsage.png  used on input line 15.
+(pdftex.def)             Requested size: 453.60808pt x 255.88255pt.
+[39
+
+]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 23.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 23.
+
+[40 <./figures/prototypeUsage.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 27.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 27.
+
+<figures/points.png, id=1513, 466.1415pt x 192.11775pt>
+File: figures/points.png Graphic file (type png)
+<use figures/points.png>
+Package pdftex.def Info: figures/points.png  used on input line 31.
+(pdftex.def)             Requested size: 453.60808pt x 186.95787pt.
+[41 <./figures/points.png>]
+<figures/avatar_prototype.png, id=1521, 299.61937pt x 321.45094pt>
+File: figures/avatar_prototype.png Graphic file (type png)
+<use figures/avatar_prototype.png>
+Package pdftex.def Info: figures/avatar_prototype.png  used on input line 40.
+(pdftex.def)             Requested size: 317.52426pt x 340.68732pt.
+ [42 <./figures/avatar_prototype.png>]
+<figures/prototype.png, id=1528, 547.8066pt x 210.5466pt>
+File: figures/prototype.png Graphic file (type png)
+<use figures/prototype.png>
+Package pdftex.def Info: figures/prototype.png  used on input line 53.
+(pdftex.def)             Requested size: 453.60808pt x 174.34883pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--58
+
+ []
+
+[43 <./figures/prototype.png>] [44]
+<figures/wuPreferences.png, id=1543, 667.293pt x 331.83975pt>
+File: figures/wuPreferences.png Graphic file (type png)
+<use figures/wuPreferences.png>
+Package pdftex.def Info: figures/wuPreferences.png  used on input line 87.
+(pdftex.def)             Requested size: 317.52426pt x 157.904pt.
+<figures/wuHabits.png, id=1544, 741.972pt x 482.40225pt>
+File: figures/wuHabits.png Graphic file (type png)
+<use figures/wuHabits.png>
+Package pdftex.def Info: figures/wuHabits.png  used on input line 94.
+(pdftex.def)             Requested size: 294.84247pt x 191.6914pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45]
+<figures/wuDuration.png, id=1552, 517.935pt x 291.489pt>
+File: figures/wuDuration.png Graphic file (type png)
+<use figures/wuDuration.png>
+Package pdftex.def Info: figures/wuDuration.png  used on input line 103.
+(pdftex.def)             Requested size: 453.60808pt x 255.29686pt.
+ [46 <./figures/wuPreferences.png> <./figures/wuHabits.png>] [47 <./figures/wuD
+uration.png>]
+<figures/wuDuration2.png, id=1566, 725.71124pt x 431.81325pt>
+File: figures/wuDuration2.png Graphic file (type png)
+<use figures/wuDuration2.png>
+Package pdftex.def Info: figures/wuDuration2.png  used on input line 114.
+(pdftex.def)             Requested size: 453.60808pt x 269.90897pt.
+<figures/wuPrefPie.png, id=1568, 934.692pt x 322.20375pt>
+File: figures/wuPrefPie.png Graphic file (type png)
+<use figures/wuPrefPie.png>
+Package pdftex.def Info: figures/wuPrefPie.png  used on input line 122.
+(pdftex.def)             Requested size: 453.60808pt x 156.36203pt.
+ [48 <./figures/wuDuration2.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[49]
+<figures/wuIntroduce.png, id=1580, 537.80925pt x 251.13824pt>
+File: figures/wuIntroduce.png Graphic file (type png)
+<use figures/wuIntroduce.png>
+Package pdftex.def Info: figures/wuIntroduce.png  used on input line 142.
+(pdftex.def)             Requested size: 453.60808pt x 211.8284pt.
+<figures/LS1.png, id=1583, 853.9905pt x 448.67625pt>
+File: figures/LS1.png Graphic file (type png)
+<use figures/LS1.png>
+Package pdftex.def Info: figures/LS1.png  used on input line 149.
+(pdftex.def)             Requested size: 453.60808pt x 238.32443pt.
+<figures/5_describeWURoutine.png, id=1586, 741.972pt x 416.757pt>
+File: figures/5_describeWURoutine.png Graphic file (type png)
+<use figures/5_describeWURoutine.png>
+Package pdftex.def Info: figures/5_describeWURoutine.png  used on input line 15
+6.
+(pdftex.def)             Requested size: 453.60808pt x 254.781pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--161
+
+ []
+
+[50 <./figures/wuPrefPie.png>] [51 <./figures/wuIntroduce.png>] [52 <./figures/
+LS1.png>] [53 <./figures/5_describeWURoutine.png (PNG copy)>]
+<figures/Reasons.png, id=1612, 741.972pt x 434.22224pt>
+File: figures/Reasons.png Graphic file (type png)
+<use figures/Reasons.png>
+Package pdftex.def Info: figures/Reasons.png  used on input line 171.
+(pdftex.def)             Requested size: 453.60808pt x 265.45824pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--176
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[54]
+<figures/ReasonsMaleFemale.png, id=1618, 745.5855pt x 436.63126pt>
+File: figures/ReasonsMaleFemale.png Graphic file (type png)
+<use figures/ReasonsMaleFemale.png>
+Package pdftex.def Info: figures/ReasonsMaleFemale.png  used on input line 188.
+
+(pdftex.def)             Requested size: 453.60808pt x 265.64511pt.
+<figures/ReasonsDoYouExercise.png, id=1621, 655.248pt x 434.22224pt>
+File: figures/ReasonsDoYouExercise.png Graphic file (type png)
+<use figures/ReasonsDoYouExercise.png>
+Package pdftex.def Info: figures/ReasonsDoYouExercise.png  used on input line 1
+95.
+(pdftex.def)             Requested size: 453.60808pt x 300.60751pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--200
+
+ []
+
+[55 <./figures/Reasons.png (PNG copy)>] [56 <./figures/ReasonsMaleFemale.png>]
+[57 <./figures/ReasonsDoYouExercise.png>]
+<figures/immotionUsage.png, id=1642, 427.5975pt x 231.86626pt>
+File: figures/immotionUsage.png Graphic file (type png)
+<use figures/immotionUsage.png>
+Package pdftex.def Info: figures/immotionUsage.png  used on input line 211.
+(pdftex.def)             Requested size: 362.88783pt x 196.7759pt.
+<figures/UsageAge.png, id=1644, 628.749pt x 478.78876pt>
+File: figures/UsageAge.png Graphic file (type png)
+<use figures/UsageAge.png>
+Package pdftex.def Info: figures/UsageAge.png  used on input line 218.
+(pdftex.def)             Requested size: 362.88783pt x 276.34612pt.
+<figures/usage.png, id=1646, 761.244pt x 372.79276pt>
+File: figures/usage.png Graphic file (type png)
+<use figures/usage.png>
+Package pdftex.def Info: figures/usage.png  used on input line 225.
+(pdftex.def)             Requested size: 408.24449pt x 199.9285pt.
+<figures/warmupusage.png, id=1648, 753.41475pt x 438.438pt>
+File: figures/warmupusage.png Graphic file (type png)
+<use figures/warmupusage.png>
+Package pdftex.def Info: figures/warmupusage.png  used on input line 233.
+(pdftex.def)             Requested size: 408.24449pt x 237.56917pt.
+<figures/wuAloneUsage.png, id=1650, 639.5895pt x 482.40225pt>
+File: figures/wuAloneUsage.png Graphic file (type png)
+<use figures/wuAloneUsage.png>
+Package pdftex.def Info: figures/wuAloneUsage.png  used on input line 240.
+(pdftex.def)             Requested size: 408.24449pt x 307.91933pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[58] [59 <./figures/immotionUsage.png> <./figures/UsageAge.png (PNG copy)>]
+[60 <./figures/usage.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[61 <./figures/warmupusage.png>] [62 <./figures/wuAloneUsage.png (PNG copy)>]
+<figures/LS2.png, id=1676, 789.54974pt x 434.8245pt>
+File: figures/LS2.png Graphic file (type png)
+<use figures/LS2.png>
+Package pdftex.def Info: figures/LS2.png  used on input line 270.
+(pdftex.def)             Requested size: 453.60808pt x 249.81645pt.
+
+[63 <./figures/LS2.png>]
+<figures/1_mostImportantFeatures.png, id=1686, 681.747pt x 358.941pt>
+File: figures/1_mostImportantFeatures.png Graphic file (type png)
+<use figures/1_mostImportantFeatures.png>
+Package pdftex.def Info: figures/1_mostImportantFeatures.png  used on input lin
+e 290.
+(pdftex.def)             Requested size: 453.60808pt x 238.82968pt.
+ [64] [65 <./figures/1_mostImportantFeatures.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+[66]
+<figures/2_whatDoYouDislike.png, id=1701, 711.8595pt x 411.939pt>
+File: figures/2_whatDoYouDislike.png Graphic file (type png)
+<use figures/2_whatDoYouDislike.png>
+Package pdftex.def Info: figures/2_whatDoYouDislike.png  used on input line 321
+.
+(pdftex.def)             Requested size: 453.60808pt x 262.49605pt.
+ [67 <./figures/2_whatDoYouDislike.png (PNG copy)>] [68]
+<figures/3_featuresToBeUsedRegularly.png, id=1714, 711.8595pt x 428.802pt>
+File: figures/3_featuresToBeUsedRegularly.png Graphic file (type png)
+<use figures/3_featuresToBeUsedRegularly.png>
+Package pdftex.def Info: figures/3_featuresToBeUsedRegularly.png  used on input
+ line 354.
+(pdftex.def)             Requested size: 430.92628pt x 259.57977pt.
+ [69] [70 <./figures/3_featuresToBeUsedRegularly.png (PNG copy)>]
+<figures/4_recommendations.png, id=1725, 711.8595pt x 420.3705pt>
+File: figures/4_recommendations.png Graphic file (type png)
+<use figures/4_recommendations.png>
+Package pdftex.def Info: figures/4_recommendations.png  used on input line 376.
+
+(pdftex.def)             Requested size: 453.60808pt x 267.86879pt.
+ [71] [72 <./figures/4_recommendations.png (PNG copy)>] [73]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 410.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 410.
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
+
+ []
+
+[75] [76]) (./chapters/finalImplementation.tex [77]
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Overview and Evaluation of the Exergame
+------------------------------------------------------------------------------
+<figures/expertsDesign.png, id=1772, 997.47656pt x 730.22812pt>
+File: figures/expertsDesign.png Graphic file (type png)
+<use figures/expertsDesign.png>
+Package pdftex.def Info: figures/expertsDesign.png  used on input line 9.
+(pdftex.def)             Requested size: 453.60808pt x 332.07603pt.
+[78
+
+] [79 <./figures/expertsDesign.png>]
+<figures/new_coins.png, id=1785, 466.74374pt x 290.2845pt>
+File: figures/new_coins.png Graphic file (type png)
+<use figures/new_coins.png>
+Package pdftex.def Info: figures/new_coins.png  used on input line 18.
+(pdftex.def)             Requested size: 453.60808pt x 282.12929pt.
+ [80 <./figures/new_coins.png>]
+<figures/Start.png, id=1794, 927.465pt x 504.08325pt>
+File: figures/Start.png Graphic file (type png)
+<use figures/Start.png>
+Package pdftex.def Info: figures/Start.png  used on input line 40.
+(pdftex.def)             Requested size: 453.60808pt x 246.54144pt.
+ [81 <./figures/Start.png>]
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 45.
+
+
+LaTeX Warning: Reference `fig:individualScore' on page 82 undefined on input li
+ne 46.
+
+<figures/EnterName.png, id=1800, 831.105pt x 479.54156pt>
+File: figures/EnterName.png Graphic file (type png)
+<use figures/EnterName.png>
+Package pdftex.def Info: figures/EnterName.png  used on input line 49.
+(pdftex.def)             Requested size: 453.60808pt x 261.72913pt.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 53.
+
+<figures/Help.png, id=1802, 746.79pt x 438.13687pt>
+File: figures/Help.png Graphic file (type png)
+<use figures/Help.png>
+Package pdftex.def Info: figures/Help.png  used on input line 57.
+(pdftex.def)             Requested size: 453.60808pt x 266.12657pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/Volume.png, id=1804, 925.65825pt x 500.46976pt>
+File: figures/Volume.png Graphic file (type png)
+<use figures/Volume.png>
+Package pdftex.def Info: figures/Volume.png  used on input line 65.
+(pdftex.def)             Requested size: 453.60808pt x 245.25523pt.
+[82 <./figures/EnterName.png>]
+
+LaTeX Warning: Reference `fig:individualScore' on page 83 undefined on input li
+ne 70.
+
+<figures/ScoreBoard.png, id=1810, 609.02531pt x 401.24907pt>
+File: figures/ScoreBoard.png Graphic file (type png)
+<use figures/ScoreBoard.png>
+Package pdftex.def Info: figures/ScoreBoard.png  used on input line 73.
+(pdftex.def)             Requested size: 408.24449pt x 268.97629pt.
+[83 <./figures/Help.png> <./figures/Volume.png>]
+<figures/Counter.png, id=1819, 926.2605pt x 508.299pt>
+File: figures/Counter.png Graphic file (type png)
+<use figures/Counter.png>
+Package pdftex.def Info: figures/Counter.png  used on input line 83.
+(pdftex.def)             Requested size: 453.60808pt x 248.92131pt.
+<figures/LiveScore.png, id=1820, 309.40594pt x 181.42781pt>
+File: figures/LiveScore.png Graphic file (type png)
+<use figures/LiveScore.png>
+Package pdftex.def Info: figures/LiveScore.png  used on input line 89.
+(pdftex.def)             Requested size: 272.1676pt x 159.60713pt.
+<figures/WaitingForUser.png, id=1821, 828.09375pt x 481.19775pt>
+File: figures/WaitingForUser.png Graphic file (type png)
+<use figures/WaitingForUser.png>
+Package pdftex.def Info: figures/WaitingForUser.png  used on input line 95.
+(pdftex.def)             Requested size: 453.60808pt x 263.59492pt.
+ [84 <./figures/ScoreBoard.png>] [85 <./figures/Counter.png> <./figures/LiveSco
+re.png>]
+<figures/SegmentsTopView.png, id=1834, 655.69969pt x 436.63126pt>
+File: figures/SegmentsTopView.png Graphic file (type png)
+<use figures/SegmentsTopView.png>
+Package pdftex.def Info: figures/SegmentsTopView.png  used on input line 104.
+(pdftex.def)             Requested size: 453.60808pt x 302.06206pt.
+ [86 <./figures/WaitingForUser.png>]
+<figures/RightHandUp.png, id=1842, 433.01775pt x 283.0575pt>
+File: figures/RightHandUp.png Graphic file (type png)
+<use figures/RightHandUp.png>
+Package pdftex.def Info: figures/RightHandUp.png  used on input line 121.
+(pdftex.def)             Requested size: 385.56963pt x 252.04994pt.
+<figures/ExpertRightHandUp.png, id=1843, 193.6836pt x 130.086pt>
+File: figures/ExpertRightHandUp.png Graphic file (type png)
+<use figures/ExpertRightHandUp.png>
+Package pdftex.def Info: figures/ExpertRightHandUp.png  used on input line 127.
+
+(pdftex.def)             Requested size: 385.56963pt x 259.0002pt.
+<figures/LeftHandUp.png, id=1845, 514.92375pt x 328.22626pt>
+File: figures/LeftHandUp.png Graphic file (type png)
+<use figures/LeftHandUp.png>
+Package pdftex.def Info: figures/LeftHandUp.png  used on input line 134.
+(pdftex.def)             Requested size: 385.56963pt x 245.77843pt.
+<figures/ExpertLeftHandUp.png, id=1846, 218.87486pt x 132.9768pt>
+File: figures/ExpertLeftHandUp.png Graphic file (type png)
+<use figures/ExpertLeftHandUp.png>
+Package pdftex.def Info: figures/ExpertLeftHandUp.png  used on input line 140.
+(pdftex.def)             Requested size: 385.56963pt x 234.28337pt.
+<figures/HandUpRightWolf.png, id=1850, 605.26125pt x 391.4625pt>
+File: figures/HandUpRightWolf.png Graphic file (type png)
+<use figures/HandUpRightWolf.png>
+Package pdftex.def Info: figures/HandUpRightWolf.png  used on input line 147.
+(pdftex.def)             Requested size: 385.56963pt x 249.37633pt.
+<figures/GoblinHandLeftOrRight.png, id=1851, 502.2765pt x 336.0555pt>
+File: figures/GoblinHandLeftOrRight.png Graphic file (type png)
+<use figures/GoblinHandLeftOrRight.png>
+Package pdftex.def Info: figures/GoblinHandLeftOrRight.png  used on input line 
+153.
+(pdftex.def)             Requested size: 385.56963pt x 257.97897pt.
+<figures/2WolfsRight.png, id=1854, 588.69937pt x 362.85562pt>
+File: figures/2WolfsRight.png Graphic file (type png)
+<use figures/2WolfsRight.png>
+Package pdftex.def Info: figures/2WolfsRight.png  used on input line 160.
+(pdftex.def)             Requested size: 385.56963pt x 237.65279pt.
+<figures/TwoSides.png, id=1855, 473.97075pt x 248.127pt>
+File: figures/TwoSides.png Graphic file (type png)
+<use figures/TwoSides.png>
+Package pdftex.def Info: figures/TwoSides.png  used on input line 166.
+(pdftex.def)             Requested size: 385.56963pt x 201.84499pt.
+<figures/JumpRight.png, id=1857, 500.46976pt x 334.851pt>
+File: figures/JumpRight.png Graphic file (type png)
+<use figures/JumpRight.png>
+Package pdftex.def Info: figures/JumpRight.png  used on input line 173.
+(pdftex.def)             Requested size: 385.56963pt x 257.98933pt.
+<figures/ExpertHandDownLeft.png, id=1858, 193.27063pt x 137.313pt>
+File: figures/ExpertHandDownLeft.png Graphic file (type png)
+<use figures/ExpertHandDownLeft.png>
+Package pdftex.def Info: figures/ExpertHandDownLeft.png  used on input line 179
+.
+(pdftex.def)             Requested size: 385.56963pt x 273.96321pt.
+<figures/JumpLeft.png, id=1860, 485.4135pt x 327.624pt>
+File: figures/JumpLeft.png Graphic file (type png)
+<use figures/JumpLeft.png>
+Package pdftex.def Info: figures/JumpLeft.png  used on input line 186.
+(pdftex.def)             Requested size: 385.56963pt x 260.23486pt.
+<figures/ExpertHandDownRight.png, id=1861, 382.82451pt x 249.43474pt>
+File: figures/ExpertHandDownRight.png Graphic file (type png)
+<use figures/ExpertHandDownRight.png>
+Package pdftex.def Info: figures/ExpertHandDownRight.png  used on input line 19
+2.
+(pdftex.def)             Requested size: 385.56963pt x 251.23056pt.
+<figures/RightLeft.png, id=1863, 627.84563pt x 389.95688pt>
+File: figures/RightLeft.png Graphic file (type png)
+<use figures/RightLeft.png>
+Package pdftex.def Info: figures/RightLeft.png  used on input line 199.
+(pdftex.def)             Requested size: 385.56963pt x 239.47395pt.
+<figures/ExpertLeftRight.png, id=1864, 1409.265pt x 1029.8475pt>
+File: figures/ExpertLeftRight.png Graphic file (type png)
+<use figures/ExpertLeftRight.png>
+Package pdftex.def Info: figures/ExpertLeftRight.png  used on input line 205.
+(pdftex.def)             Requested size: 385.56963pt x 281.75537pt.
+<figures/SquatLeft.png, id=1869, 478.78876pt x 316.7835pt>
+File: figures/SquatLeft.png Graphic file (type png)
+<use figures/SquatLeft.png>
+Package pdftex.def Info: figures/SquatLeft.png  used on input line 212.
+(pdftex.def)             Requested size: 408.24449pt x 270.1083pt.
+<figures/SquatRight.png, id=1870, 520.94624pt x 268.6035pt>
+File: figures/SquatRight.png Graphic file (type png)
+<use figures/SquatRight.png>
+Package pdftex.def Info: figures/SquatRight.png  used on input line 218.
+(pdftex.def)             Requested size: 408.24449pt x 210.49353pt.
+<figures/JumpUp.png, id=1874, 691.83469pt x 374.90062pt>
+File: figures/JumpUp.png Graphic file (type png)
+<use figures/JumpUp.png>
+Package pdftex.def Info: figures/JumpUp.png  used on input line 225.
+(pdftex.def)             Requested size: 385.56963pt x 208.94182pt.
+<figures/JumpSmallRock.png, id=1876, 554.07pt x 294.34969pt>
+File: figures/JumpSmallRock.png Graphic file (type png)
+<use figures/JumpSmallRock.png>
+Package pdftex.def Info: figures/JumpSmallRock.png  used on input line 232.
+(pdftex.def)             Requested size: 385.56963pt x 204.83517pt.
+<figures/JumpinJack.png, id=1878, 673.76718pt x 364.36125pt>
+File: figures/JumpinJack.png Graphic file (type png)
+<use figures/JumpinJack.png>
+Package pdftex.def Info: figures/JumpinJack.png  used on input line 239.
+(pdftex.def)             Requested size: 385.56963pt x 208.5109pt.
+<figures/ExpertJump.png, id=1879, 781.41937pt x 579.66562pt>
+File: figures/ExpertJump.png Graphic file (type png)
+<use figures/ExpertJump.png>
+Package pdftex.def Info: figures/ExpertJump.png  used on input line 245.
+(pdftex.def)             Requested size: 385.56963pt x 286.01991pt.
+<figures/Squat.png, id=1882, 441.44925pt x 325.215pt>
+File: figures/Squat.png Graphic file (type png)
+<use figures/Squat.png>
+Package pdftex.def Info: figures/Squat.png  used on input line 252.
+(pdftex.def)             Requested size: 385.56963pt x 284.0513pt.
+<figures/SquatLong.png, id=1883, 540.51938pt x 340.27126pt>
+File: figures/SquatLong.png Graphic file (type png)
+<use figures/SquatLong.png>
+Package pdftex.def Info: figures/SquatLong.png  used on input line 258.
+(pdftex.def)             Requested size: 385.56963pt x 242.73134pt.
+<figures/ExpertSquat.png, id=1884, 218.87486pt x 146.19188pt>
+File: figures/ExpertSquat.png Graphic file (type png)
+<use figures/ExpertSquat.png>
+Package pdftex.def Info: figures/ExpertSquat.png  used on input line 264.
+(pdftex.def)             Requested size: 385.56963pt x 257.56615pt.
+<figures/Bridge.png, id=1886, 461.3235pt x 322.806pt>
+File: figures/Bridge.png Graphic file (type png)
+<use figures/Bridge.png>
+Package pdftex.def Info: figures/Bridge.png  used on input line 271.
+(pdftex.def)             Requested size: 385.56963pt x 269.80064pt.
+<figures/Filler1.png, id=1888, 585.68813pt x 523.9575pt>
+File: figures/Filler1.png Graphic file (type png)
+<use figures/Filler1.png>
+Package pdftex.def Info: figures/Filler1.png  used on input line 278.
+(pdftex.def)             Requested size: 453.60808pt x 405.81502pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--283
+
+ []
+
+[87 <./figures/SegmentsTopView.png>] [88 <./figures/RightHandUp.png> <./figures
+/ExpertRightHandUp.png>] [89 <./figures/LeftHandUp.png> <./figures/ExpertLeftHa
+ndUp.png>] [90 <./figures/HandUpRightWolf.png> <./figures/GoblinHandLeftOrRight
+.png>] [91 <./figures/2WolfsRight.png> <./figures/TwoSides.png>] [92 <./figures
+/JumpRight.png> <./figures/ExpertHandDownLeft.png>] [93 <./figures/JumpLeft.png
+> <./figures/ExpertHandDownRight.png>] [94 <./figures/RightLeft.png> <./figures
+/ExpertLeftRight.png>] [95 <./figures/SquatLeft.png> <./figures/SquatRight.png>
+] [96 <./figures/JumpUp.png> <./figures/JumpSmallRock.png>] [97 <./figures/Jump
+inJack.png> <./figures/ExpertJump.png>] [98 <./figures/Squat.png> <./figures/Sq
+uatLong.png>] [99 <./figures/ExpertSquat.png> <./figures/Bridge.png>] [100 <./f
+igures/Filler1.png>]
+<figures/IndividualEndScene.png, id=1960, 831.85782pt x 448.67625pt>
+File: figures/IndividualEndScene.png Graphic file (type png)
+<use figures/IndividualEndScene.png>
+Package pdftex.def Info: figures/IndividualEndScene.png  used on input line 287
+.
+(pdftex.def)             Requested size: 453.60808pt x 244.66406pt.
+) (./chapters/studydesign.tex [101 <./figures/IndividualEndScene.png>]
+Chapter 7.
+------------------------------------------------------------------------------
+ 7 Study Design
+------------------------------------------------------------------------------
+[102
+
+]
+<figures/Room1.jpg, id=1975, 722.7pt x 481.8pt>
+File: figures/Room1.jpg Graphic file (type jpg)
+<use figures/Room1.jpg>
+Package pdftex.def Info: figures/Room1.jpg  used on input line 65.
+(pdftex.def)             Requested size: 408.24449pt x 272.16603pt.
+ [103] [104 <./figures/Room1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+[105] [106] [107] [108]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+[109]
+<figures/participantExperiment.png, id=2054, 1013.7875pt x 762.85pt>
+File: figures/participantExperiment.png Graphic file (type png)
+<use figures/participantExperiment.png>
+Package pdftex.def Info: figures/participantExperiment.png  used on input line 
+224.
+(pdftex.def)             Requested size: 408.24449pt x 307.1949pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--235
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[110] [111 <./figures/participantExperiment.png>]
+<figures/ROMSummaryExperiment.png, id=2069, 789.70032pt x 344.78813pt>
+File: figures/ROMSummaryExperiment.png Graphic file (type png)
+<use figures/ROMSummaryExperiment.png>
+Package pdftex.def Info: figures/ROMSummaryExperiment.png  used on input line 2
+39.
+(pdftex.def)             Requested size: 430.92628pt x 188.14517pt.
+<figures/ROMSummaryControl.png, id=2070, 789.70032pt x 359.09157pt>
+File: figures/ROMSummaryControl.png Graphic file (type png)
+<use figures/ROMSummaryControl.png>
+Package pdftex.def Info: figures/ROMSummaryControl.png  used on input line 245.
+
+(pdftex.def)             Requested size: 430.92628pt x 195.95033pt.
+ [112 <./figures/ROMSummaryExperiment.png> <./figures/ROMSummaryControl.png>]
+<figures/AVGTime.png, id=2081, 902.87312pt x 523.9575pt>
+File: figures/AVGTime.png Graphic file (type png)
+<use figures/AVGTime.png>
+Package pdftex.def Info: figures/AVGTime.png  used on input line 254.
+(pdftex.def)             Requested size: 430.92628pt x 250.08163pt.
+ [113 <./figures/AVGTime.png>]
+<figures/AverageRelativeHR.png, id=2091, 678.535pt x 395.4775pt>
+File: figures/AverageRelativeHR.png Graphic file (type png)
+<use figures/AverageRelativeHR.png>
+Package pdftex.def Info: figures/AverageRelativeHR.png  used on input line 263.
+
+(pdftex.def)             Requested size: 408.24449pt x 237.94005pt.
+<figures/HRCumulative.png, id=2095, 600.44325pt x 446.26724pt>
+File: figures/HRCumulative.png Graphic file (type png)
+<use figures/HRCumulative.png>
+Package pdftex.def Info: figures/HRCumulative.png  used on input line 270.
+(pdftex.def)             Requested size: 453.60808pt x 337.13058pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--275
+
+ []
+
+[114 <./figures/AverageRelativeHR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+[115 <./figures/HRCumulative.png>]
+<figures/HRTargetZones.png, id=2115, 632.3625pt x 168.63pt>
+File: figures/HRTargetZones.png Graphic file (type png)
+<use figures/HRTargetZones.png>
+Package pdftex.def Info: figures/HRTargetZones.png  used on input line 290.
+(pdftex.def)             Requested size: 453.60808pt x 120.96321pt.
+<figures/HRZonesPic.png, id=2118, 664.884pt x 446.8695pt>
+File: figures/HRZonesPic.png Graphic file (type png)
+<use figures/HRZonesPic.png>
+Package pdftex.def Info: figures/HRZonesPic.png  used on input line 297.
+(pdftex.def)             Requested size: 453.60808pt x 304.86958pt.
+<figures/TimeSpentInZones.png, id=2119, 1269.74374pt x 452.18938pt>
+File: figures/TimeSpentInZones.png Graphic file (type png)
+<use figures/TimeSpentInZones.png>
+Package pdftex.def Info: figures/TimeSpentInZones.png  used on input line 305.
+(pdftex.def)             Requested size: 453.60808pt x 161.53917pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--310
+
+ []
+
+[116 <./figures/HRTargetZones.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[117 <./figures/HRZonesPic.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+
+ []
+
+[118 <./figures/TimeSpentInZones.png>]
+<figures/PacesSummary.png, id=2147, 551.661pt x 283.0575pt>
+File: figures/PacesSummary.png Graphic file (type png)
+<use figures/PacesSummary.png>
+Package pdftex.def Info: figures/PacesSummary.png  used on input line 318.
+(pdftex.def)             Requested size: 453.60808pt x 232.74786pt.
+<figures/pacesPerCondition.png, id=2149, 361.35pt x 216.81pt>
+File: figures/pacesPerCondition.png Graphic file (type png)
+<use figures/pacesPerCondition.png>
+Package pdftex.def Info: figures/pacesPerCondition.png  used on input line 325.
+
+(pdftex.def)             Requested size: 408.24449pt x 244.94943pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--330
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[119 <./figures/PacesSummary.png>]
+<figures/BorgSummary.png, id=2160, 575.751pt x 371.9496pt>
+File: figures/BorgSummary.png Graphic file (type png)
+<use figures/BorgSummary.png>
+Package pdftex.def Info: figures/BorgSummary.png  used on input line 335.
+(pdftex.def)             Requested size: 408.24449pt x 263.74553pt.
+ [120 <./figures/pacesPerCondition.png>]
+<figures/sam.png, id=2177, 1042.39438pt x 616.80438pt>
+File: figures/sam.png Graphic file (type png)
+<use figures/sam.png>
+Package pdftex.def Info: figures/sam.png  used on input line 345.
+(pdftex.def)             Requested size: 385.56963pt x 228.14816pt.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 349.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 349.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 349.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 349.
+
+<figures/SamSummary.png, id=2179, 1023.825pt x 486.31688pt>
+File: figures/SamSummary.png Graphic file (type png)
+<use figures/SamSummary.png>
+Package pdftex.def Info: figures/SamSummary.png  used on input line 352.
+(pdftex.def)             Requested size: 430.92628pt x 204.6895pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--357
+
+ []
+
+[121 <./figures/BorgSummary.png>] [122 <./figures/sam.png> <./figures/SamSummar
+y.png>]
+<figures/SUSSummary.png, id=2201, 963.09813pt x 526.96875pt>
+File: figures/SUSSummary.png Graphic file (type png)
+<use figures/SUSSummary.png>
+Package pdftex.def Info: figures/SUSSummary.png  used on input line 361.
+(pdftex.def)             Requested size: 453.60808pt x 248.18996pt.
+<figures/susScoresPerQuestion.png, id=2204, 871.255pt x 417.56pt>
+File: figures/susScoresPerQuestion.png Graphic file (type png)
+<use figures/susScoresPerQuestion.png>
+Package pdftex.def Info: figures/susScoresPerQuestion.png  used on input line 3
+68.
+(pdftex.def)             Requested size: 453.60808pt x 217.39366pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--372
+
+ []
+
+[123 <./figures/SUSSummary.png>] [124 <./figures/susScoresPerQuestion.png>]
+<figures/PESSummaryPerQuestion.png, id=2223, 1081.03876pt x 607.26875pt>
+File: figures/PESSummaryPerQuestion.png Graphic file (type png)
+<use figures/PESSummaryPerQuestion.png>
+Package pdftex.def Info: figures/PESSummaryPerQuestion.png  used on input line 
+383.
+(pdftex.def)             Requested size: 453.60808pt x 254.81021pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--388
+
+ []
+
+[125 <./figures/PESSummaryPerQuestion.png>]
+<figures/PESSummary.png, id=2235, 975.14313pt x 514.42188pt>
+File: figures/PESSummary.png Graphic file (type png)
+<use figures/PESSummary.png>
+Package pdftex.def Info: figures/PESSummary.png  used on input line 396.
+(pdftex.def)             Requested size: 385.56963pt x 203.40242pt.
+<figures/PlayerTypes.png, id=2243, 694.595pt x 498.86375pt>
+File: figures/PlayerTypes.png Graphic file (type png)
+<use figures/PlayerTypes.png>
+Package pdftex.def Info: figures/PlayerTypes.png  used on input line 405.
+(pdftex.def)             Requested size: 453.60808pt x 325.79523pt.
+ [126 <./figures/PESSummary.png>]
+[127 <./figures/PlayerTypes.png>] [128]
+<figures/PostStudyExperiment.png, id=2261, 948.54375pt x 309.65688pt>
+File: figures/PostStudyExperiment.png Graphic file (type png)
+<use figures/PostStudyExperiment.png>
+Package pdftex.def Info: figures/PostStudyExperiment.png  used on input line 43
+1.
+(pdftex.def)             Requested size: 453.60808pt x 148.08078pt.
+ [129 <./figures/PostStudyExperiment.png>] [130]
+<figures/PostStudyControl.png, id=2274, 933.98938pt x 278.54062pt>
+File: figures/PostStudyControl.png Graphic file (type png)
+<use figures/PostStudyControl.png>
+Package pdftex.def Info: figures/PostStudyControl.png  used on input line 463.
+(pdftex.def)             Requested size: 453.60808pt x 135.27904pt.
+<figures/PostStudySum.png, id=2277, 936.49875pt x 558.58687pt>
+File: figures/PostStudySum.png Graphic file (type png)
+<use figures/PostStudySum.png>
+Package pdftex.def Info: figures/PostStudySum.png  used on input line 470.
+(pdftex.def)             Requested size: 453.60808pt x 270.56485pt.
+ [131 <./figures/PostStudyControl.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 475--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--492
+
+ []
+
+[132 <./figures/PostStudySum.png>] [133]) (./chapters/conclusion.tex [134]
+Chapter 8.
+------------------------------------------------------------------------------
+ 8 Conclusion
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[135
+
+] [136]) (./Thesis.bbl [137] [138
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 127--130
@@ -1819,7 +2844,7 @@ Underfull \hbox (badness 1960) in paragraph at lines 159--163
 []epic-[]game/$[][]\OT1/cmr/m/n/10 (+20) .  Ac-cessed: 2017-
  []
 
-[2]
+[139]
 Underfull \hbox (badness 10000) in paragraph at lines 165--168
 []\OT1/cmr/m/n/10 (+20) ``Fitness app pop-u-lar-ity.'' [][]$\OT1/cmtt/m/n/10 ht
 tps : / / www . spaceotechnologies . com /
@@ -1837,13 +2862,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--243
 1/cmtt/m/n/10 https : / / www . gamified . uk / 2014 / 03 / 25 /
  []
 
-[3]
+[140]
 Underfull \hbox (badness 10000) in paragraph at lines 319--322
 []\OT1/cmr/m/n/10 (+20) ``The pur-pose of gam-i-fi-ca-tion.'' [][]$\OT1/cmtt/m/
 n/10 http : / / radar . oreilly . com / 2011 / 04 /
  []
 
-[4]
+[141]
 Underfull \hbox (badness 1960) in paragraph at lines 352--355
 []\OT1/cmr/m/n/10 (+20) ``Gamification 101, the psy-chol-ogy of mo-ti-va-tion.'
 ' [][]$\OT1/cmtt/m/n/10 https : / / community . lithium . com / t5 /
@@ -1867,7 +2892,7 @@ Overfull \hbox (21.20093pt too wide) in paragraph at lines 406--409
 esnt-[]apply-[]to-[]everything-[]-[]gamedev-[]4173$[][]\OT1/cmr/m/n/10 (-20) .
  []
 
-[5]
+[142]
 Underfull \hbox (badness 10000) in paragraph at lines 417--420
 []\OT1/cmr/m/n/10 (+20) ``50 gam-i-fi-ca-tion me-chan-ics and el-e-ments.'' [][
 ]$\OT1/cmtt/m/n/10 https : / / www . gamified . uk / user-[]types /
@@ -1879,20 +2904,25 @@ Underfull \hbox (badness 2065) in paragraph at lines 472--475
 mtt/m/n/10 http : / / www . psychologyofgames . com / 2013 / 11 /
  []
 
-[6]) [7] [8
+[143]) [144] [145
 
 
 ]
+Appendix A.
+------------------------------------------------------------------------------
+ A Statement of the Ethical Review Board (ERB)
+------------------------------------------------------------------------------
+
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/ReviewB
 oard_Response.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<AdditionalDocument/ReviewBoard_Response.pdf, id=272, 597.55246pt x 845.07724pt
->
+<AdditionalDocument/ReviewBoard_Response.pdf, id=2415, 597.55246pt x 845.07724p
+t>
 File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
 <use AdditionalDocument/ReviewBoard_Response.pdf>
 Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf  used on i
-nput line 201.
+nput line 207.
 (pdftex.def)             Requested size: 597.551pt x 845.07518pt.
 
 
@@ -1902,7 +2932,7 @@ oard_Response.pdf): PDF inclusion: found PDF version <1.7>, but at most version
 File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
 <use AdditionalDocument/ReviewBoard_Response.pdf>
 Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf  used on i
-nput line 201.
+nput line 207.
 (pdftex.def)             Requested size: 597.551pt x 845.07518pt.
 
 
@@ -1914,602 +2944,669 @@ oard_Response.pdf): PDF inclusion: found PDF version <1.7>, but at most version
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/ReviewB
 oard_Response.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<AdditionalDocument/ReviewBoard_Response.pdf, id=275, page=1, 597.55246pt x 845
-.07724pt>
+<AdditionalDocument/ReviewBoard_Response.pdf, id=2418, page=1, 597.55246pt x 84
+5.07724pt>
 File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
 <use AdditionalDocument/ReviewBoard_Response.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf , page1 us
-ed on input line 201.
+ed on input line 207.
 (pdftex.def)             Requested size: 597.551pt x 845.07518pt.
 File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
 <use AdditionalDocument/ReviewBoard_Response.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf , page1 us
-ed on input line 201.
+ed on input line 207.
+(pdftex.def)             Requested size: 598.18013pt x 845.96492pt.
+[146
+
+]
+File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
+<use AdditionalDocument/ReviewBoard_Response.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf , page1 us
+ed on input line 207.
 (pdftex.def)             Requested size: 598.18013pt x 845.96492pt.
 File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
 <use AdditionalDocument/ReviewBoard_Response.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf , page1 us
-ed on input line 201.
+ed on input line 207.
 (pdftex.def)             Requested size: 598.18013pt x 845.96492pt.
 File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
 <use AdditionalDocument/ReviewBoard_Response.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf , page1 us
-ed on input line 201.
+ed on input line 207.
 (pdftex.def)             Requested size: 598.18013pt x 845.96492pt.
-File: AdditionalDocument/ReviewBoard_Response.pdf Graphic file (type pdf)
-<use AdditionalDocument/ReviewBoard_Response.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/ReviewBoard_Response.pdf , page1 us
-ed on input line 201.
-(pdftex.def)             Requested size: 598.18013pt x 845.96492pt.
-[9 <./AdditionalDocument/ReviewBoard_Response.pdf>]
-<AdditionalDocument/studyPoster_ver2.pdf, id=310, 2601.72pt x 3468.96pt>
+ [147 <./AdditionalDocument/ReviewBoard_Response.pdf>]
+Appendix B.
+------------------------------------------------------------------------------
+ B Study Posters
+------------------------------------------------------------------------------
+<AdditionalDocument/studyPoster_ver2.pdf, id=2458, 2601.72pt x 3468.96pt>
 File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster_ver2.pdf>
 Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf  used on input
- line 202.
+ line 210.
 (pdftex.def)             Requested size: 2601.71368pt x 3468.95158pt.
 File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster_ver2.pdf>
 Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf  used on input
- line 202.
+ line 210.
 (pdftex.def)             Requested size: 2601.71368pt x 3468.95158pt.
-<AdditionalDocument/studyPoster_ver2.pdf, id=313, page=1, 2601.72pt x 3468.96pt
->
+<AdditionalDocument/studyPoster_ver2.pdf, id=2461, page=1, 2601.72pt x 3468.96p
+t>
 File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster_ver2.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf , page1 used o
-n input line 202.
+n input line 210.
 (pdftex.def)             Requested size: 2601.71368pt x 3468.95158pt.
 File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster_ver2.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf , page1 used o
-n input line 202.
+n input line 210.
+(pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
+[148
+
+]
+File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
+<use AdditionalDocument/studyPoster_ver2.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf , page1 used o
+n input line 210.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
 File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster_ver2.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf , page1 used o
-n input line 202.
+n input line 210.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
 File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster_ver2.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf , page1 used o
-n input line 202.
+n input line 210.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
-File: AdditionalDocument/studyPoster_ver2.pdf Graphic file (type pdf)
-<use AdditionalDocument/studyPoster_ver2.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/studyPoster_ver2.pdf , page1 used o
-n input line 202.
-(pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
- [10 <./AdditionalDocument/studyPoster_ver2.pdf>]
-<AdditionalDocument/studyPoster.pdf, id=540, 2601.72pt x 3468.96pt>
+ [149 <./AdditionalDocument/studyPoster_ver2.pdf>]
+<AdditionalDocument/studyPoster.pdf, id=2692, 2601.72pt x 3468.96pt>
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf  used on input line
- 203.
+ 211.
 (pdftex.def)             Requested size: 2601.71368pt x 3468.95158pt.
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf  used on input line
- 203.
+ 211.
 (pdftex.def)             Requested size: 2601.71368pt x 3468.95158pt.
-<AdditionalDocument/studyPoster.pdf, id=543, page=1, 2601.72pt x 3468.96pt>
+<AdditionalDocument/studyPoster.pdf, id=2695, page=1, 2601.72pt x 3468.96pt>
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf , page1 used on inp
-ut line 203.
+ut line 211.
 (pdftex.def)             Requested size: 2601.71368pt x 3468.95158pt.
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf , page1 used on inp
-ut line 203.
+ut line 211.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf , page1 used on inp
-ut line 203.
+ut line 211.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf , page1 used on inp
-ut line 203.
+ut line 211.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
 File: AdditionalDocument/studyPoster.pdf Graphic file (type pdf)
 <use AdditionalDocument/studyPoster.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/studyPoster.pdf , page1 used on inp
-ut line 203.
+ut line 211.
 (pdftex.def)             Requested size: 598.30362pt x 797.73817pt.
- [11 <./AdditionalDocument/studyPoster.pdf>]
-<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=771, 614.295pt x 794.97
-pt>
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf  us
-ed on input line 204.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf  us
-ed on input line 204.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=774, page=1, 614.295pt 
-x 794.97pt>
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age1 used on input line 204.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age1 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age1 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age1 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age1 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [12 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+ [150 <./AdditionalDocument/studyPoster.pdf>]
+Appendix C.
+------------------------------------------------------------------------------
+ C User Study Consent Form
+------------------------------------------------------------------------------
+<AdditionalDocument/Consent.pdf, id=2922, 598.235pt x 846.16125pt>
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf  used on input line 214
+.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf  used on input line 214
+.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+<AdditionalDocument/Consent.pdf, id=2925, page=1, 598.235pt x 846.16125pt>
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf , page1 used on input l
+ine 214.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf , page1 used on input l
+ine 214.
+(pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
+[151
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
-DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
-ct (key 'ProcSets', type <array>); ignored.
->]
-<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=797, page=2, 614.295pt 
-x 794.97pt>
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 2>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age2 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 2>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age2 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 2>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age2 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [13 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+]
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf , page1 used on input l
+ine 214.
+(pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf , page1 used on input l
+ine 214.
+(pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
+File: AdditionalDocument/Consent.pdf Graphic file (type pdf)
+<use AdditionalDocument/Consent.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/Consent.pdf , page1 used on input l
+ine 214.
+(pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
+ [152 <./AdditionalDocument/Consent.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
-DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
-ct (key 'ProcSets', type <array>); ignored.
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/Consent
+.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', 
+type <array>); ignored.
 >]
-<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=803, page=3, 614.295pt 
-x 794.97pt>
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 3>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age3 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 3>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age3 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 3>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age3 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [14 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
-DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
-ct (key 'ProcSets', type <array>); ignored.
->]
-<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=808, page=4, 614.295pt 
-x 794.97pt>
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 4>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age4 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 4>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age4 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 4>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age4 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [15 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
-DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
-ct (key 'ProcSets', type <array>); ignored.
->]
-<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=813, page=5, 614.295pt 
-x 794.97pt>
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 5>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age5 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 5>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age5 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
-)
-<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 5>
-Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
-age5 used on input line 204.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [16 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
-DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
-ct (key 'ProcSets', type <array>); ignored.
->]
-<AdditionalDocument/parQandSafety.pdf, id=820, 614.295pt x 794.97pt>
+Appendix D.
+------------------------------------------------------------------------------
+ D User Study Questionnaires
+------------------------------------------------------------------------------
+<AdditionalDocument/parQandSafety.pdf, id=2958, 614.295pt x 794.97pt>
 File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
 <use AdditionalDocument/parQandSafety.pdf>
 Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf  used on input li
-ne 205.
+ne 217.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
 <use AdditionalDocument/parQandSafety.pdf>
 Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf  used on input li
-ne 205.
+ne 217.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AdditionalDocument/parQandSafety.pdf, id=823, page=1, 614.295pt x 794.97pt>
+<AdditionalDocument/parQandSafety.pdf, id=2961, page=1, 614.295pt x 794.97pt>
 File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
 <use AdditionalDocument/parQandSafety.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
-nput line 205.
+nput line 217.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
 <use AdditionalDocument/parQandSafety.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
-nput line 205.
+nput line 217.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
-<use AdditionalDocument/parQandSafety.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
-nput line 205.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
-<use AdditionalDocument/parQandSafety.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
-nput line 205.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
-<use AdditionalDocument/parQandSafety.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
-nput line 205.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [17 <./AdditionalDocument/parQandSafety.pdf>]
-<AdditionalDocument/BSA-F.pdf, id=858, 614.295pt x 794.97pt>
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf  used on input line 206.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf  used on input line 206.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AdditionalDocument/BSA-F.pdf, id=861, page=1, 614.295pt x 794.97pt>
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
-e 206.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [18 <./AdditionalDocument/BSA-F.pdf>]
-<AdditionalDocument/BSA-F.pdf, id=880, page=2, 614.295pt x 794.97pt>
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 2>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page2 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 2>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page2 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
-<use AdditionalDocument/BSA-F.pdf, page 2>
-Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page2 used on input lin
-e 206.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [19 <./AdditionalDocument/BSA-F.pdf>]
-<AdditionalDocument/PACES.pdf, id=889, 614.295pt x 794.97pt>
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf  used on input line 207.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf  used on input line 207.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AdditionalDocument/PACES.pdf, id=892, page=1, 614.295pt x 794.97pt>
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
-e 207.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
-e 207.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
-e 207.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
-e 207.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
-File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
-<use AdditionalDocument/PACES.pdf, page 1>
-Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
-e 207.
-(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [20 <./AdditionalDocument/PACES.pdf>]
-<AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, id=918, 598.235pt x 846.16125pt>
+[153
 
+]
+File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
+<use AdditionalDocument/parQandSafety.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
+nput line 217.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
+<use AdditionalDocument/parQandSafety.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
+nput line 217.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/parQandSafety.pdf Graphic file (type pdf)
+<use AdditionalDocument/parQandSafety.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/parQandSafety.pdf , page1 used on i
+nput line 217.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [154 <./AdditionalDocument/parQandSafety.pdf>]
+<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=3000, 614.295pt x 794.9
+7pt>
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf  us
+ed on input line 218.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf  us
+ed on input line 218.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=3003, page=1, 614.295pt
+ x 794.97pt>
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age1 used on input line 218.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age1 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age1 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age1 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age1 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [155 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
+DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
+ct (key 'ProcSets', type <array>); ignored.
+>]
+<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=3026, page=2, 614.295pt
+ x 794.97pt>
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 2>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age2 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 2>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age2 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 2>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age2 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [156 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
+DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
+ct (key 'ProcSets', type <array>); ignored.
+>]
+<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=3031, page=3, 614.295pt
+ x 794.97pt>
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 3>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age3 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 3>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age3 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 3>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age3 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [157 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
+DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
+ct (key 'ProcSets', type <array>); ignored.
+>]
+<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=3037, page=4, 614.295pt
+ x 794.97pt>
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 4>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age4 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 4>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age4 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 4>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age4 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [158 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
+DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
+ct (key 'ProcSets', type <array>); ignored.
+>]
+<AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, id=3042, page=5, 614.295pt
+ x 794.97pt>
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 5>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age5 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 5>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age5 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf Graphic file (type pdf
+)
+<use AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf, page 5>
+Package pdftex.def Info: AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf , p
+age5 used on input line 218.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [159 <./AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/PRE-STU
+DY-DemographicSurvey.pdf): PDF inclusion: invalid other resource which is no di
+ct (key 'ProcSets', type <array>); ignored.
+>]
+<AdditionalDocument/BSA-F.pdf, id=3049, 614.295pt x 794.97pt>
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf  used on input line 219.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf  used on input line 219.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<AdditionalDocument/BSA-F.pdf, id=3052, page=1, 614.295pt x 794.97pt>
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
+e 219.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page1 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [160 <./AdditionalDocument/BSA-F.pdf>]
+<AdditionalDocument/BSA-F.pdf, id=3071, page=2, 614.295pt x 794.97pt>
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 2>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page2 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 2>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page2 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/BSA-F.pdf Graphic file (type pdf)
+<use AdditionalDocument/BSA-F.pdf, page 2>
+Package pdftex.def Info: AdditionalDocument/BSA-F.pdf , page2 used on input lin
+e 219.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [161 <./AdditionalDocument/BSA-F.pdf>]
+<AdditionalDocument/PACES.pdf, id=3079, 614.295pt x 794.97pt>
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf  used on input line 220.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf  used on input line 220.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<AdditionalDocument/PACES.pdf, id=3082, page=1, 614.295pt x 794.97pt>
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
+e 220.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
+e 220.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
+e 220.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
+e 220.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+File: AdditionalDocument/PACES.pdf Graphic file (type pdf)
+<use AdditionalDocument/PACES.pdf, page 1>
+Package pdftex.def Info: AdditionalDocument/PACES.pdf , page1 used on input lin
+e 220.
+(pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
+ [162 <./AdditionalDocument/PACES.pdf>]
+<AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, id=3108, 598.235pt x 846.16125pt
+>
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf  used on 
-input line 208.
+input line 221.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf  used on 
-input line 208.
+input line 221.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-<AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, id=921, page=1, 598.235pt x 846.
-16125pt>
+<AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, id=3111, page=1, 598.235pt x 846
+.16125pt>
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page1 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page1 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page1 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page1 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page1 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
- [21 <./AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf
+ [163 <./AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/STUDY-1
 -BorgRPE_Scale.pdf): PDF inclusion: invalid other resource which is no dict (ke
 y 'ProcSets', type <array>); ignored.
 >]
-<AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, id=948, page=2, 598.235pt x 846.
-16125pt>
+<AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, id=3139, page=2, 598.235pt x 846
+.16125pt>
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 2>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page2 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 2>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page2 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
 File: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf Graphic file (type pdf)
 <use AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf, page 2>
 Package pdftex.def Info: AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf , page2 u
-sed on input line 208.
+sed on input line 221.
 (pdftex.def)             Requested size: 598.1605pt x 846.0559pt.
- [22 <./AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf
+ [164 <./AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/STUDY-1
 -BorgRPE_Scale.pdf): PDF inclusion: invalid other resource which is no dict (ke
 y 'ProcSets', type <array>); ignored.
 >]
-<AdditionalDocument/SUS.pdf, id=958, 540.0175pt x 720.6925pt>
+<AdditionalDocument/SUS.pdf, id=3149, 540.0175pt x 720.6925pt>
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf>
-Package pdftex.def Info: AdditionalDocument/SUS.pdf  used on input line 209.
+Package pdftex.def Info: AdditionalDocument/SUS.pdf  used on input line 222.
 (pdftex.def)             Requested size: 540.01617pt x 720.69075pt.
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf>
-Package pdftex.def Info: AdditionalDocument/SUS.pdf  used on input line 209.
+Package pdftex.def Info: AdditionalDocument/SUS.pdf  used on input line 222.
 (pdftex.def)             Requested size: 540.01617pt x 720.69075pt.
-<AdditionalDocument/SUS.pdf, id=961, page=1, 540.0175pt x 720.6925pt>
+<AdditionalDocument/SUS.pdf, id=3152, page=1, 540.0175pt x 720.6925pt>
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/SUS.pdf , page1 used on input line 
-209.
+222.
 (pdftex.def)             Requested size: 540.01617pt x 720.69075pt.
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/SUS.pdf , page1 used on input line 
-209.
+222.
 (pdftex.def)             Requested size: 598.1658pt x 798.29564pt.
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/SUS.pdf , page1 used on input line 
-209.
+222.
 (pdftex.def)             Requested size: 598.1658pt x 798.29564pt.
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/SUS.pdf , page1 used on input line 
-209.
+222.
 (pdftex.def)             Requested size: 598.1658pt x 798.29564pt.
 File: AdditionalDocument/SUS.pdf Graphic file (type pdf)
 <use AdditionalDocument/SUS.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/SUS.pdf , page1 used on input line 
-209.
+222.
 (pdftex.def)             Requested size: 598.1658pt x 798.29564pt.
- [23 <./AdditionalDocument/SUS.pdf>]
-<AdditionalDocument/Post-study-Exp.pdf, id=977, 614.295pt x 794.97pt>
+ [165 <./AdditionalDocument/SUS.pdf>]
+<AdditionalDocument/Post-study-Exp.pdf, id=3168, 614.295pt x 794.97pt>
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf  used on input l
-ine 210.
+ine 223.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf  used on input l
-ine 210.
+ine 223.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AdditionalDocument/Post-study-Exp.pdf, id=980, page=1, 614.295pt x 794.97pt>
+<AdditionalDocument/Post-study-Exp.pdf, id=3171, page=1, 614.295pt x 794.97pt>
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page1 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page1 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page1 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page1 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page1 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [24 <./AdditionalDocument/Post-study-Exp.pdf
+ [166 <./AdditionalDocument/Post-study-Exp.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/Post-st
 udy-Exp.pdf): PDF inclusion: invalid other resource which is no dict (key 'Proc
 Sets', type <array>); ignored.
 >]
-<AdditionalDocument/Post-study-Exp.pdf, id=1003, page=2, 614.295pt x 794.97pt>
+<AdditionalDocument/Post-study-Exp.pdf, id=3194, page=2, 614.295pt x 794.97pt>
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 2>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page2 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 2>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page2 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Exp.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Exp.pdf, page 2>
 Package pdftex.def Info: AdditionalDocument/Post-study-Exp.pdf , page2 used on 
-input line 210.
+input line 223.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [25 <./AdditionalDocument/Post-study-Exp.pdf
+ [167 <./AdditionalDocument/Post-study-Exp.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/Post-st
 udy-Exp.pdf): PDF inclusion: invalid other resource which is no dict (key 'Proc
 Sets', type <array>); ignored.
 >]
-<AdditionalDocument/Post-study-Control.pdf, id=1011, 614.295pt x 794.97pt>
+<AdditionalDocument/Post-study-Control.pdf, id=3201, 614.295pt x 794.97pt>
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf  used on inp
-ut line 211.
+ut line 224.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf  used on inp
-ut line 211.
+ut line 224.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<AdditionalDocument/Post-study-Control.pdf, id=1014, page=1, 614.295pt x 794.97
+<AdditionalDocument/Post-study-Control.pdf, id=3204, page=1, 614.295pt x 794.97
 pt>
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf , page1 used
- on input line 211.
+ on input line 224.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf , page1 used
- on input line 211.
+ on input line 224.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf , page1 used
- on input line 211.
+ on input line 224.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf , page1 used
- on input line 211.
+ on input line 224.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: AdditionalDocument/Post-study-Control.pdf Graphic file (type pdf)
 <use AdditionalDocument/Post-study-Control.pdf, page 1>
 Package pdftex.def Info: AdditionalDocument/Post-study-Control.pdf , page1 used
- on input line 211.
+ on input line 224.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [26 <./AdditionalDocument/Post-study-Control.pdf
+ [168 <./AdditionalDocument/Post-study-Control.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./AdditionalDocument/Post-st
 udy-Control.pdf): PDF inclusion: invalid other resource which is no dict (key '
@@ -2520,43 +3617,121 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-[27]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
- (./Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+(./Thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 84FDE099AA50AE4F3994810A968F0074;609.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+(rerunfilecheck)             Checksum: 6F70E7D0B6B23FE4E19B3ADD1839EDED;20518.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 44672 strings out of 492649
- 826546 string characters out of 6129622
- 952481 words of memory out of 5000000
- 47558 multiletter control sequences out of 15000+600000
- 549789 words of font info for 145 fonts, out of 8000000 for 9000
+ 46084 strings out of 492649
+ 851128 string characters out of 6129622
+ 976507 words of memory out of 5000000
+ 48256 multiletter control sequences out of 15000+600000
+ 560130 words of font info for 247 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,18n,56p,10357b,972s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
-.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.
-pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
-fb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pf
-b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
->
-Output written on Thesis.pdf (33 pages, 6287775 bytes).
+ 55i,18n,80p,10357b,1727s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{glo:sus} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:paces} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sam} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rpe} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:parq} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:bsa} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rom} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ucd} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:mda} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:pbl} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:hexad} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:mud} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:dsf} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:oit} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:cet} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:flow} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sdt} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:avg} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:fmarc} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:fifa} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:wu} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:pes} has been referenced but does not exist, re
+placed by a fixed one
+
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Thesis.pdf (180 pages, 56200695 bytes).
 PDF statistics:
- 1111 PDF objects out of 1200 (max. 8388607)
- 570 compressed objects within 6 object streams
- 152 named destinations out of 1000 (max. 500000)
- 27974 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 3405 PDF objects out of 3580 (max. 8388607)
+ 2508 compressed objects within 26 object streams
+ 544 named destinations out of 1000 (max. 500000)
+ 40051 words of extra memory for PDF output out of 42996 (max. 10000000)
 

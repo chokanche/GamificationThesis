@@ -149,7 +149,7 @@
 \newcommand*{\keywords}[1]{\def\keywordnames{#1}}
 \supervisor  {Prof. Dr. Antonio Kr\"uger}
 \examiner    {}
-\reviewer    {}
+\reviewer    {Prof. Dr. J\"urgen Steimle}
 \degree      {}
 \authors     {Marko Vuji\'c}
 \university  {\texorpdfstring{\href{University Web Site URL Here (include http://)}

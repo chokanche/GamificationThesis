@@ -3,7 +3,107 @@
 \contentsline {chapter}{Acknowledgements}{iii}{dummy.3}
 
 \contentsline {chapter}{Contents}{iv}{chapter*.4}
-\contentsline {chapter}{List of Figures}{v}{chapter*.5}
-\contentsline {chapter}{Bibliography}{1}{chapter*.6}
+\contentsline {chapter}{List of Figures}{viii}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}
+\contentsline {chapter}{\numberline {2}Literature review}{3}{chapter.7}
+\contentsline {section}{\numberline {2.1}Warm Up in Sports}{4}{section.9}
+\contentsline {subsection}{\numberline {2.1.1}The Importance of Physical Activity}{4}{subsection.10}
+\contentsline {subsection}{\numberline {2.1.2}Overview of Sports Injury}{4}{subsection.11}
+\contentsline {subsection}{\numberline {2.1.3}Defining Warm Up}{6}{subsection.13}
+\contentsline {subsection}{\numberline {2.1.4}The Benefits of Warm Up}{6}{subsection.14}
+\contentsline {subsection}{\numberline {2.1.5}Types of Warm Up}{7}{subsection.15}
+\contentsline {section}{\numberline {2.2}Gamification and Exergames}{9}{section.16}
+\contentsline {subsection}{\numberline {2.2.1}Video Games and Exercise}{9}{subsection.17}
+\contentsline {subsection}{\numberline {2.2.2}A Primer on Gamification}{9}{subsection.19}
+\contentsline {paragraph}{Defining Gamification}{11}{figure.caption.25}
+\contentsline {subsection}{\numberline {2.2.3}A Primer on Exergames}{13}{subsection.28}
+\contentsline {paragraph}{Defining Exergames}{15}{figure.caption.30}
+\contentsline {section}{\numberline {2.3}Theories of Motivation}{16}{section.31}
+\contentsline {subsection}{\numberline {2.3.1}The Rules of Motivation}{16}{subsection.32}
+\contentsline {subsection}{\numberline {2.3.2}Self Determination Theory}{17}{subsection.33}
+\contentsline {subsection}{\numberline {2.3.3}State of Flow}{21}{subsection.36}
+\contentsline {subsubsection}{\numberline {2.3.3.1}Flow, Gamification, and Exergames}{24}{subsubsection.39}
+\contentsline {chapter}{\numberline {3}Gamification Elements}{26}{chapter.41}
+\contentsline {section}{\numberline {3.1}Bartle's Four Player Types}{26}{section.42}
+\contentsline {section}{\numberline {3.2}Marczewski's User Types Hexad}{28}{section.44}
+\contentsline {subsection}{\numberline {3.2.1}Game design elements}{29}{subsection.46}
+\contentsline {paragraph}{Dynamics}{31}{figure.caption.48}
+\contentsline {paragraph}{Mechanics}{32}{section*.49}
+\contentsline {paragraph}{Components}{33}{section*.49}
+\contentsline {chapter}{\numberline {4}The Design and Development of the Immotion Exergame}{35}{chapter.50}
+\contentsline {section}{\numberline {4.1}Overview of User Centered Design}{35}{section.51}
+\contentsline {section}{\numberline {4.2}The Context of Use}{36}{section.52}
+\contentsline {section}{\numberline {4.3}Overview of the Development Phases}{37}{section.53}
+\contentsline {section}{\numberline {4.4}Requirements Gathering}{38}{section.55}
+\contentsline {chapter}{\numberline {5}Overview and Evaluation of the Prototype Exergame}{39}{chapter.56}
+\contentsline {section}{\numberline {5.1}Prototype Design and Development}{39}{section.57}
+\contentsline {subsection}{\numberline {5.1.1}Game Description}{39}{subsection.58}
+\contentsline {subsection}{\numberline {5.1.2}Gamification Elements used in the Prototype}{40}{subsection.60}
+\contentsline {paragraph}{Feedback}{41}{section*.61}
+\contentsline {subsection}{\numberline {5.1.3}Gamification Components used in the Prototype}{41}{subsection.62}
+\contentsline {paragraph}{Points}{41}{section*.63}
+\contentsline {paragraph}{Avatar}{42}{figure.caption.64}
+\contentsline {paragraph}{Visual Feedback}{43}{figure.caption.65}
+\contentsline {paragraph}{Audio Feedback}{43}{figure.caption.65}
+\contentsline {subsection}{\numberline {5.1.4}Game Scenes}{43}{subsection.66}
+\contentsline {section}{\numberline {5.2}Prototype Evaluation}{44}{section.68}
+\contentsline {section}{\numberline {5.3}Quantitative Methods}{44}{section.71}
+\contentsline {subsection}{\numberline {5.3.1}General Questions}{45}{subsection.72}
+\contentsline {subsection}{\numberline {5.3.2}Questions Related to Workout and Warm Up Preferences}{45}{subsection.73}
+\contentsline {subsection}{\numberline {5.3.3}Questions Related to Warm Up Routines}{47}{subsection.76}
+\contentsline {subsection}{\numberline {5.3.4}Reasons for Not Warming Up}{54}{subsection.83}
+\contentsline {subsection}{\numberline {5.3.5}Questions Related to the Immotion Exergame}{58}{subsection.87}
+\contentsline {subsection}{\numberline {5.3.6}Pilot Test}{74}{subsection.98}
+\contentsline {subsection}{\numberline {5.3.7}Preliminary Design Implications}{74}{subsection.99}
+\contentsline {paragraph}{Game design related improvements}{74}{section*.100}
+\contentsline {paragraph}{Game features related improvements}{76}{Item.107}
+\contentsline {paragraph}{Movements and exercise related improvements}{77}{Item.109}
+\contentsline {chapter}{\numberline {6}Overview and Evaluation of the Exergame}{78}{chapter.113}
+\contentsline {section}{\numberline {6.1}A Modular Design Approach}{78}{section.114}
+\contentsline {section}{\numberline {6.2}Discussions With Fitness Experts}{79}{section.115}
+\contentsline {section}{\numberline {6.3}Coins Overview}{80}{section.117}
+\contentsline {section}{\numberline {6.4}Home Window Overview}{81}{section.119}
+\contentsline {paragraph}{Start Menu}{82}{figure.caption.120}
+\contentsline {paragraph}{Help Menu}{82}{figure.caption.121}
+\contentsline {paragraph}{Volume Menu}{83}{figure.caption.122}
+\contentsline {paragraph}{High Score Menu}{84}{figure.caption.123}
+\contentsline {paragraph}{Quit Menu}{84}{figure.caption.124}
+\contentsline {section}{\numberline {6.5}Game Start Overview}{84}{section.125}
+\contentsline {section}{\numberline {6.6}Game Segments Overview}{86}{section.129}
+\contentsline {section}{\numberline {6.7}Game End Overview}{101}{section.156}
+\contentsline {chapter}{\numberline {7}Study Design}{102}{chapter.158}
+\contentsline {section}{\numberline {7.1}Description of the Experiment}{102}{section.161}
+\contentsline {subsection}{\numberline {7.1.1}Introduction and Goals}{102}{subsection.162}
+\contentsline {subsubsection}{\numberline {7.1.1.1}Hypotheses}{103}{subsubsection.167}
+\contentsline {subsubsection}{\numberline {7.1.1.2}Apparatus}{104}{subsubsection.168}
+\contentsline {subsection}{\numberline {7.1.2}Methods}{105}{subsection.170}
+\contentsline {subsubsection}{\numberline {7.1.2.1}Participants}{105}{subsubsection.171}
+\contentsline {subsubsection}{\numberline {7.1.2.2}Conditions}{105}{subsubsection.172}
+\contentsline {subsubsection}{\numberline {7.1.2.3}Control and Experiment Group}{106}{subsubsection.175}
+\contentsline {subsubsection}{\numberline {7.1.2.4}Measures and Metrics}{106}{subsubsection.176}
+\contentsline {subsubsection}{\numberline {7.1.2.5}Tasks}{108}{subsubsection.177}
+\contentsline {subsubsection}{\numberline {7.1.2.6}Procedure}{108}{subsubsection.178}
+\contentsline {subsection}{\numberline {7.1.3}Limitations - Threats to Validity}{110}{subsection.179}
+\contentsline {section}{\numberline {7.2}Results}{110}{section.180}
+\contentsline {subsection}{\numberline {7.2.1}Range of Motion}{112}{subsection.182}
+\contentsline {subsection}{\numberline {7.2.2}Warm Up Duration}{113}{subsection.185}
+\contentsline {subsection}{\numberline {7.2.3}Heart Rate}{114}{subsection.187}
+\contentsline {subsection}{\numberline {7.2.4}Physical Activity Enjoyment Scale}{118}{subsection.199}
+\contentsline {subsection}{\numberline {7.2.5}BORG Rating of Perceived Exertion}{120}{subsection.202}
+\contentsline {subsection}{\numberline {7.2.6}Self-Assessment Manikin}{121}{subsection.204}
+\contentsline {subsection}{\numberline {7.2.7}System Usability Scale}{123}{subsection.207}
+\contentsline {subsection}{\numberline {7.2.8}Play Experience Scale}{124}{subsection.210}
+\contentsline {subsection}{\numberline {7.2.9}Bartle's Player Types}{127}{subsection.214}
+\contentsline {subsection}{\numberline {7.2.10}Post study questionnaire}{128}{subsection.216}
+\contentsline {subsubsection}{\numberline {7.2.10.1}Post study questionnaire for the experiment condition}{128}{subsubsection.217}
+\contentsline {subsubsection}{\numberline {7.2.10.2}Post study questionnaire for the control condition}{131}{subsubsection.219}
+\contentsline {section}{\numberline {7.3}Discussion}{132}{section.222}
+\contentsline {chapter}{\numberline {8}Conclusion}{135}{chapter.223}
+\contentsline {section}{\numberline {8.1}Future Work}{137}{section.224}
+\contentsline {chapter}{Bibliography}{138}{chapter*.225}
 \vspace {2em}
-\contentsline {chapter}{Appendices}{8}{section*.7}
+\contentsline {chapter}{Appendices}{145}{section*.226}
+\contentsline {chapter}{\numberline {A}Statement of the Ethical Review Board (ERB)}{146}{appendix.227}
+\contentsline {chapter}{\numberline {B}Study Posters}{148}{appendix.228}
+\contentsline {chapter}{\numberline {C}User Study Consent Form}{151}{appendix.229}
+\contentsline {chapter}{\numberline {D}User Study Questionnaires}{153}{appendix.230}

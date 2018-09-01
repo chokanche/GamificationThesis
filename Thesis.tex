@@ -75,7 +75,7 @@
 % *************** Front matter ***************
 \frontmatter
 
-\title  {ImMotion\\ An Exergame for Warm Up Guidance}
+\title  {Immotion\\ An Exergame for Warm Up Guidance}
 
 \authors  {\texorpdfstring
             {{Marko Vuji\'c}}
@@ -145,7 +145,11 @@ Marko Vuji\'c
 % The Acknowledgements page, for thanking everyone
 \acknowledgements{
 \addtocontents{toc}{}  % Add a gap in the Contents, for aesthetics    \vspace{1em}
-
+First and foremost, I wish to thank my supervisor Prof. Dr. Antonio Kr\"uger for providing me with an opportunity to complete my MSc thesis and the chance to explore this particular avenue of research.\\\\
+A special thanks to my advisor Frederik Wiehr for his invaluable
+comments, remarks, and suggestions. I really appreciate his willingness to help and meet me whenever I needed certain clarification. \\\\
+Furthermore, I would like to thank Nico Herbig, Dominik Cermann, and Christian Wiehr for their support during the research experiments.\\\\
+Lastly, my sincere gratitude is reserved for my loved ones, who have supported me throughout the entire process, both by keeping me harmonious and by helping me putting pieces together.
 
 }
 \clearpage  % End of the Acknowledgements
@@ -178,13 +182,13 @@ Marko Vuji\'c
 % *************** Main matter ***************
 \mainmatter
 %\printglossary[type=\acronymtype]
-%\input{chapters/intro}
-%\input{chapters/relatedwork}
-%\input{chapters/implementation}
-%\input{chapters/survey}
-%\input{chapters/finalImplementation}
-%\input{chapters/studydesign}
-%\input{chapters/conclusion}
+\input{chapters/intro}
+\input{chapters/relatedwork}
+\input{chapters/implementation}
+\input{chapters/survey}
+\input{chapters/finalImplementation}
+\input{chapters/studydesign}
+\input{chapters/conclusion}
 %\input{chapters/appendix}
 %\input{appendices/injury_causes}
 
@@ -196,20 +200,28 @@ Marko Vuji\'c
 
 % *************** Appendixes ***************
 \addtocontents{toc}{\vspace{2em}}
-%\appendix
+\appendix
 \appendixpage
+\chapter{Statement of the Ethical Review Board (ERB)}
+\label{appendix:ethicalReviewBoard}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/ReviewBoard_Response.pdf}
+\chapter{Study Posters}
+\label{appendix:posters}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/studyPoster_ver2.pdf}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/studyPoster.pdf}
-\includepdf[pages=-, offset=75 -75]{AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf}
+\chapter{User Study Consent Form}
+\label{appendix:consent}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/Consent.pdf}
+\chapter{User Study Questionnaires}
+\label{appendix:questionnaires}
 \includepdf[pages=1, offset=75 -75]{AdditionalDocument/parQandSafety.pdf}
+\includepdf[pages=-, offset=75 -75]{AdditionalDocument/PRE-STUDY-DemographicSurvey.pdf}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/BSA-F.pdf}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/PACES.pdf}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/STUDY-1-BorgRPE_Scale.pdf}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/SUS.pdf}
 \includepdf[pages=-, offset=75 -75]{AdditionalDocument/Post-study-Exp.pdf}
-\includepdf[pages=-, offset=75 -75]{AdditionalDocument/Post-study-Control.pdf}
-Post-study-Exp
+\includepdf[pages=1, offset=75 -75]{AdditionalDocument/Post-study-Control.pdf}
 % *************** Back matter ***************
 %\backmatter
 %\input{back.tex}
