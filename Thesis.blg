@@ -5,36 +5,36 @@ The style file: ieeetr.bst
 Database file #1: bibliography/reference.bib
 Warning--empty journal in pardee1990motivation
 Warning--empty journal in schobel2016agony
-You've used 111 entries,
+You've used 112 entries,
             1876 wiz_defined-function locations,
-            1037 strings with 21893 characters,
-and the built_in function-call counts, 25282 in all, are:
-= -- 2605
-> -- 779
+            1042 strings with 22038 characters,
+and the built_in function-call counts, 25394 in all, are:
+= -- 2617
+> -- 780
 < -- 0
-+ -- 315
++ -- 316
 - -- 204
-* -- 1596
-:= -- 3344
-add.period$ -- 153
-call.type$ -- 111
-change.case$ -- 102
+* -- 1599
+:= -- 3355
+add.period$ -- 155
+call.type$ -- 112
+change.case$ -- 103
 chr.to.int$ -- 0
-cite$ -- 113
-duplicate$ -- 1275
-empty$ -- 2690
+cite$ -- 114
+duplicate$ -- 1279
+empty$ -- 2708
 format.name$ -- 204
-if$ -- 6381
+if$ -- 6413
 int.to.chr$ -- 0
-int.to.str$ -- 111
+int.to.str$ -- 112
 missing$ -- 85
-newline$ -- 378
+newline$ -- 382
 num.names$ -- 78
-pop$ -- 510
+pop$ -- 518
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 868
+skip$ -- 871
 stack$ -- 0
 substring$ -- 1505
 swap$ -- 472
@@ -44,6 +44,6 @@ top$ -- 0
 type$ -- 0
 warning$ -- 2
 while$ -- 235
-width$ -- 114
-write$ -- 1051
+width$ -- 115
+write$ -- 1059
 (There were 2 warnings)
